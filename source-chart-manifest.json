@@ -1,0 +1,8569 @@
+{
+  "version": "2.0-source-figures",
+  "entries": [
+    {
+      "volume": "micro",
+      "page": 43,
+      "chapter": 2,
+      "id": "c2-b25",
+      "ref": "图2-1",
+      "title": "循环流量图",
+      "bbox": [
+        82,
+        118,
+        1028,
+        648
+      ],
+      "source": "economics-reader/dist/pages/43.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 2,
+      "asset": "textbook-figures/micro-c2-b25.svg",
+      "width": 920,
+      "height": 660,
+      "assetSHA256": "4803136322eb8d2c2600057042b0deb705d6f00dc3b2852c11d6193d86ed28e3",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 44,
+      "chapter": 2,
+      "id": "c2-b33",
+      "ref": "图2-2",
+      "title": "生产可能性边界",
+      "bbox": [
+        82,
+        806,
+        1028,
+        1368
+      ],
+      "source": "economics-reader/dist/pages/44.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 2,
+      "asset": "textbook-figures/micro-c2-b33.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "e07dbb7078bbacce65c05c53337cac19ed1376b3adc82341c0f6f5179a2e6ee8",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 46,
+      "chapter": 2,
+      "id": "c2-b43",
+      "ref": "图2-3",
+      "title": "生产可能性边界的移动",
+      "bbox": [
+        82,
+        671,
+        1028,
+        1327
+      ],
+      "source": "economics-reader/dist/pages/46.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 2,
+      "asset": "textbook-figures/micro-c2-b43.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "2a6d1860b5337f4dbf5003822403d40816648331cf0e147eec05a57827d8da8e",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 59,
+      "chapter": 2,
+      "id": "c2-b226",
+      "ref": "图2A-1",
+      "title": "图形的类型",
+      "bbox": [
+        82,
+        109,
+        1028,
+        1344
+      ],
+      "source": "economics-reader/dist/pages/59.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 3,
+      "kind": "figure",
+      "chapterIndex": 2,
+      "asset": "textbook-figures/micro-c2-b226.svg",
+      "width": 920,
+      "height": 1740,
+      "assetSHA256": "81f3e491490ca0732ca9bb7157b6fa97aa0e3cf36ffb5e25dcaf4c6ea90569cd",
+      "redrawMethod": "semantic",
+      "caption": "历史曲线按原书读数重绘，数值为近似值。",
+      "dataPrecision": "原书印刷图读数近似；不是原始统计数据"
+    },
+    {
+      "volume": "micro",
+      "page": 60,
+      "chapter": 2,
+      "id": "c2-b236",
+      "ref": "图2A-2",
+      "title": "运用坐标系",
+      "bbox": [
+        120,
+        740,
+        990,
+        1180
+      ],
+      "source": "economics-reader/dist/pages/60.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 2,
+      "asset": "textbook-figures/micro-c2-b236.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "d6a878616696d0ed3786f9f701a48d26158d4f80751906c00c913adeefa30e24",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 61,
+      "chapter": 2,
+      "id": "c2-b239",
+      "ref": "表2A-1",
+      "title": "Emma购买的小说数量",
+      "bbox": [
+        82,
+        502,
+        1028,
+        854
+      ],
+      "source": "economics-reader/dist/pages/61.webp",
+      "activeType": "figure",
+      "method": "table",
+      "panels": 1,
+      "kind": "table",
+      "chapterIndex": 2,
+      "rows": [
+        [
+          "价格（美元）",
+          "收入3万美元：小说数量（本）",
+          "收入4万美元：小说数量（本）",
+          "收入5万美元：小说数量（本）"
+        ],
+        [
+          10,
+          2,
+          5,
+          8
+        ],
+        [
+          9,
+          6,
+          9,
+          12
+        ],
+        [
+          8,
+          10,
+          13,
+          16
+        ],
+        [
+          7,
+          14,
+          17,
+          20
+        ],
+        [
+          6,
+          18,
+          21,
+          24
+        ],
+        [
+          5,
+          22,
+          25,
+          28
+        ],
+        [
+          "需求曲线",
+          "D₃",
+          "D₁",
+          "D₂"
+        ]
+      ]
+    },
+    {
+      "volume": "micro",
+      "page": 62,
+      "chapter": 2,
+      "id": "c2-b242",
+      "ref": "图2A-3",
+      "title": "需求曲线",
+      "bbox": [
+        82,
+        130,
+        1028,
+        694
+      ],
+      "source": "economics-reader/dist/pages/62.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 2,
+      "asset": "textbook-figures/micro-c2-b242.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "7e1c7b9726741ce4357397f737a0343f3696222c606756ff61be0ff4bbef0217",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 63,
+      "chapter": 2,
+      "id": "c2-b246",
+      "ref": "图2A-4",
+      "title": "需求曲线的移动",
+      "bbox": [
+        82,
+        118,
+        1028,
+        675
+      ],
+      "source": "economics-reader/dist/pages/63.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 2,
+      "asset": "textbook-figures/micro-c2-b246.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "55f8cf3d84a281717b360088eb4934d0baa5c92cda9290c63afd324e538df02c",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 64,
+      "chapter": 2,
+      "id": "c2-b249",
+      "ref": "图2A-5",
+      "title": "计算一条直线的斜率",
+      "bbox": [
+        82,
+        132,
+        1028,
+        694
+      ],
+      "source": "economics-reader/dist/pages/64.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 2,
+      "asset": "textbook-figures/micro-c2-b249.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "5b6dde10e81b5a62b5a793dddf6f37940ff119afa7413fb7fbe7a4871bf0cf14",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 64,
+      "chapter": 2,
+      "id": "c2-b252",
+      "ref": "",
+      "title": "斜率=AY =第一个点的y坐标-第三个点的2坐标",
+      "bbox": [
+        82,
+        1279,
+        1028,
+        1397
+      ],
+      "source": "economics-reader/dist/pages/64.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "supplement",
+      "chapterIndex": 2,
+      "asset": "textbook-figures/micro-c2-b252.svg",
+      "width": 920,
+      "height": 190,
+      "assetSHA256": "682b468fbb15c3476006d5914d080e0cd481dbfd2fe5bb4ddb67aaf4d047af81",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 66,
+      "chapter": 2,
+      "id": "c2-b262",
+      "ref": "",
+      "title": "“过去我认为相关性必",
+      "bbox": [
+        82,
+        896,
+        1028,
+        1183
+      ],
+      "source": "economics-reader/dist/pages/66.webp",
+      "activeType": "figure",
+      "method": "outline-vector",
+      "panels": 1,
+      "kind": "supplement",
+      "chapterIndex": 2,
+      "asset": "textbook-figures/micro-c2-b262.svg",
+      "width": 946,
+      "height": 287,
+      "sourceInkPixels": 28432,
+      "vectorRectangles": 7467,
+      "assetSHA256": "fa13b65fac28639f664602197344ef2a692e6b0f081e472df7bb6999997118f3"
+    },
+    {
+      "volume": "micro",
+      "page": 67,
+      "chapter": 2,
+      "id": "c2-b264",
+      "ref": "图2A-7",
+      "title": "表示反向因果关系的图形",
+      "bbox": [
+        82,
+        120,
+        1028,
+        436
+      ],
+      "source": "economics-reader/dist/pages/67.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 2,
+      "asset": "textbook-figures/micro-c2-b264.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "94504a129c1de7bce1a52fd193e7d0c84a730aaba5a52ca91fba0cc1e316baf9",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 70,
+      "chapter": 3,
+      "id": "c3-b12",
+      "ref": "图3-1",
+      "title": "生产可能性边界",
+      "bbox": [
+        82,
+        147,
+        1028,
+        1186
+      ],
+      "source": "economics-reader/dist/pages/70.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 3,
+      "kind": "figure",
+      "chapterIndex": 3,
+      "asset": "textbook-figures/micro-c3-b12.svg",
+      "width": 920,
+      "height": 1354,
+      "assetSHA256": "973382dbe8c6b6f4f9e922f5ecf5c27c3d9f6e9ea12286df1c8921cc332bc096",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 72,
+      "chapter": 3,
+      "id": "c3-b23",
+      "ref": "图3-2",
+      "title": "贸易如何扩大了消费机会的集合",
+      "bbox": [
+        82,
+        152,
+        1028,
+        1387
+      ],
+      "source": "economics-reader/dist/pages/72.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 3,
+      "kind": "figure",
+      "chapterIndex": 3,
+      "asset": "textbook-figures/micro-c3-b23.svg",
+      "width": 920,
+      "height": 1440,
+      "assetSHA256": "a095c9bbfe062403b3ed12faf905e80da04e8013d04175c849c23ff976f90045",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 74,
+      "chapter": 3,
+      "id": "c3-b40",
+      "ref": "表3-1",
+      "title": "牛肉和土豆的机会成本",
+      "bbox": [
+        82,
+        1117,
+        1028,
+        1277
+      ],
+      "source": "economics-reader/dist/pages/74.webp",
+      "activeType": "figure",
+      "method": "table",
+      "panels": 1,
+      "kind": "table",
+      "chapterIndex": 3,
+      "rows": [
+        [
+          "生产者",
+          "1盎司牛肉的机会成本",
+          "1盎司土豆的机会成本"
+        ],
+        [
+          "Frank",
+          "4盎司土豆",
+          "1/4盎司牛肉"
+        ],
+        [
+          "Ruby",
+          "2盎司土豆",
+          "1/2盎司牛肉"
+        ]
+      ]
+    },
+    {
+      "volume": "micro",
+      "page": 89,
+      "chapter": 4,
+      "id": "c4-b26",
+      "ref": "图4-1",
+      "title": "Catherine 的需求表和需求曲线",
+      "bbox": [
+        82,
+        121,
+        1028,
+        1021
+      ],
+      "source": "economics-reader/dist/pages/89.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 2,
+      "kind": "figure",
+      "chapterIndex": 4,
+      "asset": "textbook-figures/micro-c4-b26.svg",
+      "width": 920,
+      "height": 1009,
+      "assetSHA256": "bb197d869b3e626251add9ce5c97960e902817d3a3924ec0b4242a2580d603b0",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 90,
+      "chapter": 4,
+      "id": "c4-b31",
+      "ref": "图4-2",
+      "title": "市场需求是个人需求之和",
+      "bbox": [
+        82,
+        364,
+        1028,
+        956
+      ],
+      "source": "economics-reader/dist/pages/90.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 4,
+      "kind": "figure",
+      "chapterIndex": 4,
+      "asset": "textbook-figures/micro-c4-b31.svg",
+      "width": 920,
+      "height": 2129,
+      "assetSHA256": "cdfe3fdf2636104ed59bf795848326b903451568fcbdc5b24a397b74c596014a",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 91,
+      "chapter": 4,
+      "id": "c4-b35",
+      "ref": "图4-3",
+      "title": "需求曲线的移动",
+      "bbox": [
+        82,
+        114,
+        1028,
+        592
+      ],
+      "source": "economics-reader/dist/pages/91.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 4,
+      "asset": "textbook-figures/micro-c4-b35.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "7a102e156a3cb1aef393509f068fe7eaa99b5621c1d4024436756b40a8c80a6f",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 92,
+      "chapter": 4,
+      "id": "c4-b45",
+      "ref": "表4-1",
+      "title": "影响买者的变量",
+      "bbox": [
+        82,
+        549,
+        1028,
+        849
+      ],
+      "source": "economics-reader/dist/pages/92.webp",
+      "activeType": "figure",
+      "method": "table",
+      "panels": 1,
+      "kind": "table",
+      "chapterIndex": 4,
+      "rows": [
+        [
+          "变量",
+          "该变量的变动将"
+        ],
+        [
+          "价格",
+          "表现为沿着需求曲线的变动"
+        ],
+        [
+          "收入",
+          "使需求曲线移动"
+        ],
+        [
+          "相关物品的价格",
+          "使需求曲线移动"
+        ],
+        [
+          "爱好",
+          "使需求曲线移动"
+        ],
+        [
+          "预期",
+          "使需求曲线移动"
+        ],
+        [
+          "买者的数量",
+          "使需求曲线移动"
+        ]
+      ]
+    },
+    {
+      "volume": "micro",
+      "page": 93,
+      "chapter": 4,
+      "id": "c4-b50",
+      "ref": "图4-4",
+      "title": "需求曲线的移动与沿着需求曲线的变动",
+      "bbox": [
+        82,
+        143,
+        1028,
+        1226
+      ],
+      "source": "economics-reader/dist/pages/93.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 2,
+      "kind": "figure",
+      "chapterIndex": 4,
+      "asset": "textbook-figures/micro-c4-b50.svg",
+      "width": 920,
+      "height": 1120,
+      "assetSHA256": "6233cd485256cf5f54dc90700488a85dbfc5125b7e004ea90d08cdcd77d84341",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 95,
+      "chapter": 4,
+      "id": "c4-b61",
+      "ref": "图4-5",
+      "title": "Ben 的供给表与供给曲线",
+      "bbox": [
+        82,
+        152,
+        1028,
+        1079
+      ],
+      "source": "economics-reader/dist/pages/95.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 2,
+      "kind": "figure",
+      "chapterIndex": 4,
+      "asset": "textbook-figures/micro-c4-b61.svg",
+      "width": 920,
+      "height": 1009,
+      "assetSHA256": "64d3f75110ee9a09d26a033d36405642d34d067262e5fd6c20f99ac6bda17a6c",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 96,
+      "chapter": 4,
+      "id": "c4-b65",
+      "ref": "图4-6",
+      "title": "市场供给是个人供给之和",
+      "bbox": [
+        82,
+        204,
+        1028,
+        781
+      ],
+      "source": "economics-reader/dist/pages/96.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 4,
+      "kind": "figure",
+      "chapterIndex": 4,
+      "asset": "textbook-figures/micro-c4-b65.svg",
+      "width": 920,
+      "height": 2129,
+      "assetSHA256": "02e993f25c84c7c5c8c5bb3d83c8641a28af5fd90ee09eacd466da74ecb64309",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 97,
+      "chapter": 4,
+      "id": "c4-b70",
+      "ref": "图4-7",
+      "title": "供给曲线的移动",
+      "bbox": [
+        82,
+        116,
+        1028,
+        619
+      ],
+      "source": "economics-reader/dist/pages/97.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 4,
+      "asset": "textbook-figures/micro-c4-b70.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "4d57e23bcc7542f45f491485218a77eb3fc5a347da06747ac66664730af42670",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 98,
+      "chapter": 4,
+      "id": "c4-b77",
+      "ref": "表4-2",
+      "title": "影响卖者的变量",
+      "bbox": [
+        82,
+        132,
+        1028,
+        412
+      ],
+      "source": "economics-reader/dist/pages/98.webp",
+      "activeType": "figure",
+      "method": "table",
+      "panels": 1,
+      "kind": "table",
+      "chapterIndex": 4,
+      "rows": [
+        [
+          "变量",
+          "该变量的变动将"
+        ],
+        [
+          "价格",
+          "表现为沿着供给曲线的变动"
+        ],
+        [
+          "投入品价格",
+          "使供给曲线移动"
+        ],
+        [
+          "技术",
+          "使供给曲线移动"
+        ],
+        [
+          "预期",
+          "使供给曲线移动"
+        ],
+        [
+          "卖者的数量",
+          "使供给曲线移动"
+        ]
+      ]
+    },
+    {
+      "volume": "micro",
+      "page": 99,
+      "chapter": 4,
+      "id": "c4-b86",
+      "ref": "图4-8",
+      "title": "供给与需求的均衡",
+      "bbox": [
+        82,
+        118,
+        1028,
+        601
+      ],
+      "source": "economics-reader/dist/pages/99.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 4,
+      "asset": "textbook-figures/micro-c4-b86.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "0f5e08e7327ca977881437010cd7ea75d2aa5a3027a81405f2d21103bd5f1a35",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 100,
+      "chapter": 4,
+      "id": "c4-b92",
+      "ref": "图4-9",
+      "title": "非均衡的市场",
+      "bbox": [
+        82,
+        122,
+        1028,
+        1111
+      ],
+      "source": "economics-reader/dist/pages/100.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 2,
+      "kind": "figure",
+      "chapterIndex": 4,
+      "asset": "textbook-figures/micro-c4-b92.svg",
+      "width": 920,
+      "height": 1120,
+      "assetSHA256": "7542aca9bd70ae762d9f826ba61f482d214bd2171524858a734c5d5e35860868",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 102,
+      "chapter": 4,
+      "id": "c4-b105",
+      "ref": "图4-10",
+      "title": "需求增加如何影响均衡",
+      "bbox": [
+        82,
+        133,
+        1028,
+        642
+      ],
+      "source": "economics-reader/dist/pages/102.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 4,
+      "asset": "textbook-figures/micro-c4-b105.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "5ebaf89f7283ccb304d17de82b01410f40c2dbd302bf047e2a066d5d8d85bda4",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 103,
+      "chapter": 4,
+      "id": "c4-b113",
+      "ref": "图4-11",
+      "title": "供给减少如何影响均衡",
+      "bbox": [
+        82,
+        254,
+        1028,
+        765
+      ],
+      "source": "economics-reader/dist/pages/103.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 4,
+      "asset": "textbook-figures/micro-c4-b113.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "c776c4edcaa48339461bebe6782f8284531579d677b8a484b09211d04d48768a",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 104,
+      "chapter": 4,
+      "id": "c4-b119",
+      "ref": "图4-12",
+      "title": "供给和需求的移动",
+      "bbox": [
+        82,
+        137,
+        1028,
+        1236
+      ],
+      "source": "economics-reader/dist/pages/104.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 2,
+      "kind": "figure",
+      "chapterIndex": 4,
+      "asset": "textbook-figures/micro-c4-b119.svg",
+      "width": 920,
+      "height": 1120,
+      "assetSHA256": "01d9b5c02a49e1e4391c125b80a168e034ce0152e42f248febac401713eb902d",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 105,
+      "chapter": 4,
+      "id": "c4-b121",
+      "ref": "表4-4",
+      "title": "当供给或需求移动时，价格和数量会发生什么变动",
+      "bbox": [
+        82,
+        320,
+        1028,
+        618
+      ],
+      "source": "economics-reader/dist/pages/105.webp",
+      "activeType": "figure",
+      "method": "table",
+      "panels": 1,
+      "kind": "table",
+      "chapterIndex": 4,
+      "rows": [
+        [
+          "",
+          "供给未变",
+          "供给增加",
+          "供给减少"
+        ],
+        [
+          "需求未变",
+          "价格相同；数量相同",
+          "价格下降；数量增加",
+          "价格上升；数量减少"
+        ],
+        [
+          "需求增加",
+          "价格上升；数量增加",
+          "价格不确定；数量增加",
+          "价格上升；数量不确定"
+        ],
+        [
+          "需求减少",
+          "价格下降；数量减少",
+          "价格下降；数量不确定",
+          "价格不确定；数量减少"
+        ]
+      ]
+    },
+    {
+      "volume": "micro",
+      "page": 115,
+      "chapter": 5,
+      "id": "c5-b29",
+      "ref": "图5-1",
+      "title": "需求价格弹性",
+      "bbox": [
+        82,
+        125,
+        1028,
+        1016
+      ],
+      "source": "economics-reader/dist/pages/115.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 5,
+      "kind": "figure",
+      "chapterIndex": 5,
+      "asset": "textbook-figures/micro-c5-b29.svg",
+      "width": 920,
+      "height": 2800,
+      "assetSHA256": "7ebd6a4fe7e99873a423a1aa5949ac329ffd81b462561fdb52b50af9177b9e98",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 116,
+      "chapter": 5,
+      "id": "c5-b36",
+      "ref": "",
+      "title": "一些物品的需求价格弹性估算",
+      "bbox": [
+        82,
+        124,
+        1028,
+        363
+      ],
+      "source": "economics-reader/dist/pages/116.webp",
+      "activeType": "figure",
+      "method": "table",
+      "panels": 1,
+      "kind": "supplement",
+      "chapterIndex": 5,
+      "rows": [
+        [
+          "物品",
+          "需求价格弹性（估算）"
+        ],
+        [
+          "香烟",
+          0.4
+        ],
+        [
+          "大米",
+          0.5
+        ],
+        [
+          "住房",
+          0.7
+        ],
+        [
+          "牛肉",
+          1.6
+        ],
+        [
+          "花生酱",
+          1.7
+        ],
+        [
+          "餐馆用餐",
+          2.3
+        ],
+        [
+          "山民私酿的威士忌酒",
+          4.4
+        ]
+      ]
+    },
+    {
+      "volume": "micro",
+      "page": 117,
+      "chapter": 5,
+      "id": "c5-b42",
+      "ref": "图5-2",
+      "title": "总收益",
+      "bbox": [
+        100,
+        125,
+        1000,
+        620
+      ],
+      "source": "economics-reader/dist/pages/117.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 5,
+      "asset": "textbook-figures/micro-c5-b42.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "1e0db88f9004b75477f7ca3c1e6140123754cc92605d1c552e511eb10ce96c6a",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 118,
+      "chapter": 5,
+      "id": "c5-b49",
+      "ref": "图5-4",
+      "title": "一条线性需求曲线的弹性",
+      "bbox": [
+        82,
+        519,
+        1028,
+        1397
+      ],
+      "source": "economics-reader/dist/pages/118.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 2,
+      "kind": "figure",
+      "chapterIndex": 5,
+      "asset": "textbook-figures/micro-c5-b49.svg",
+      "width": 920,
+      "height": 1009,
+      "assetSHA256": "4b7903e48c9512a7cb48ff5db20169135506681ea7c1ed6674d81abbc0ed9650",
+      "redrawMethod": "semantic",
+      "caption": "百分比采用中点法；弹性为数量变化率除以价格变化率的绝对值。"
+    },
+    {
+      "volume": "micro",
+      "page": 122,
+      "chapter": 5,
+      "id": "c5-b76",
+      "ref": "图5-5",
+      "title": "供给价格弹性",
+      "bbox": [
+        82,
+        204,
+        1028,
+        1097
+      ],
+      "source": "economics-reader/dist/pages/122.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 5,
+      "kind": "figure",
+      "chapterIndex": 5,
+      "asset": "textbook-figures/micro-c5-b76.svg",
+      "width": 920,
+      "height": 2800,
+      "assetSHA256": "13794ddf44f298d39c22be2683782aad29dc168594c48554ebb51d5ac1aa9e0d",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 123,
+      "chapter": 5,
+      "id": "c5-b81",
+      "ref": "图5-6",
+      "title": "供给价格弹性会如何变动",
+      "bbox": [
+        82,
+        118,
+        1028,
+        710
+      ],
+      "source": "economics-reader/dist/pages/123.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 5,
+      "asset": "textbook-figures/micro-c5-b81.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "f63748878b85ee5317aa9f5bc74ddd451077649c924240c52861d7550abf31f3",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 124,
+      "chapter": 5,
+      "id": "c5-b91",
+      "ref": "图5-7",
+      "title": "小麦市场上供给增加",
+      "bbox": [
+        82,
+        800,
+        1028,
+        1344
+      ],
+      "source": "economics-reader/dist/pages/124.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 5,
+      "asset": "textbook-figures/micro-c5-b91.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "2f025a87ba8ef8ef03dbfc7e3ae231b5b5c995a8a533533840c9aafc848fb2c1",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 125,
+      "chapter": 5,
+      "id": "c5-b97",
+      "ref": "",
+      "title": "什么都没种，Rufus！",
+      "bbox": [
+        82,
+        1004,
+        1028,
+        1329
+      ],
+      "source": "economics-reader/dist/pages/125.webp",
+      "activeType": "figure",
+      "method": "outline-vector",
+      "panels": 1,
+      "kind": "supplement",
+      "chapterIndex": 5,
+      "asset": "textbook-figures/micro-c5-b97.svg",
+      "width": 946,
+      "height": 325,
+      "sourceInkPixels": 94047,
+      "vectorRectangles": 28879,
+      "assetSHA256": "f0421011b897ae97c27083636bacfdf1aed0ac0280231d2516fa3db46b6ae75d"
+    },
+    {
+      "volume": "micro",
+      "page": 127,
+      "chapter": 5,
+      "id": "c5-b105",
+      "ref": "图5-8",
+      "title": "世界石油市场供给减少",
+      "bbox": [
+        82,
+        257,
+        1028,
+        621
+      ],
+      "source": "economics-reader/dist/pages/127.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 2,
+      "kind": "figure",
+      "chapterIndex": 5,
+      "asset": "textbook-figures/micro-c5-b105.svg",
+      "width": 920,
+      "height": 1120,
+      "assetSHA256": "d5b399ec26d7963c50e6c0c5d4ca3a9e448d040a472ddeb3cb3f34fa31cc02ee",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 128,
+      "chapter": 5,
+      "id": "c5-b110",
+      "ref": "图5-9",
+      "title": "减少非法毒品使用的政策",
+      "bbox": [
+        82,
+        332,
+        1028,
+        721
+      ],
+      "source": "economics-reader/dist/pages/128.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 2,
+      "kind": "figure",
+      "chapterIndex": 5,
+      "asset": "textbook-figures/micro-c5-b110.svg",
+      "width": 920,
+      "height": 1120,
+      "assetSHA256": "1c9ae2fae8b31b95f79733edddcd4a40bf02345c37975c8b6164ee5b6f5e10ba",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 134,
+      "chapter": 6,
+      "id": "c6-b10",
+      "ref": "图6-1",
+      "title": "有价格上限的市场",
+      "bbox": [
+        82,
+        898,
+        1028,
+        1252
+      ],
+      "source": "economics-reader/dist/pages/134.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 2,
+      "kind": "figure",
+      "chapterIndex": 6,
+      "asset": "textbook-figures/micro-c6-b10.svg",
+      "width": 920,
+      "height": 1120,
+      "assetSHA256": "758da76b62b66dd627e69852ed9ffb9c0c8888739eb80055664e0ad561b967b3",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 136,
+      "chapter": 6,
+      "id": "c6-b19",
+      "ref": "图6-2",
+      "title": "有价格上限的汽油市场",
+      "bbox": [
+        82,
+        239,
+        1028,
+        575
+      ],
+      "source": "economics-reader/dist/pages/136.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 2,
+      "kind": "figure",
+      "chapterIndex": 6,
+      "asset": "textbook-figures/micro-c6-b19.svg",
+      "width": 920,
+      "height": 1120,
+      "assetSHA256": "0cf57ed520f705fbf115de9ba251eb3f57b62b9455f8330d266dbccb2f0cc391",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 137,
+      "chapter": 6,
+      "id": "c6-b25",
+      "ref": "图6-3",
+      "title": "短期与长期中的租金控制",
+      "bbox": [
+        82,
+        103,
+        1000,
+        443
+      ],
+      "source": "economics-reader/dist/pages/137.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 2,
+      "kind": "figure",
+      "chapterIndex": 6,
+      "asset": "textbook-figures/micro-c6-b25.svg",
+      "width": 920,
+      "height": 1120,
+      "assetSHA256": "5024f2670184b9ae015d8b6c4e4c6624fbae5bc9c3f2c8bd219ca964563dbf81",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 138,
+      "chapter": 6,
+      "id": "c6-b33",
+      "ref": "图6-4",
+      "title": "有价格下限的市场",
+      "bbox": [
+        82,
+        428,
+        1028,
+        781
+      ],
+      "source": "economics-reader/dist/pages/138.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 2,
+      "kind": "figure",
+      "chapterIndex": 6,
+      "asset": "textbook-figures/micro-c6-b33.svg",
+      "width": 920,
+      "height": 1120,
+      "assetSHA256": "e92221cc8cfcb7be4bae93442aeb1ed046037a3b635e58bf14b3bc7c414adae1",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 139,
+      "chapter": 6,
+      "id": "c6-b40",
+      "ref": "图6-5",
+      "title": "最低工资如何影响劳动市场",
+      "bbox": [
+        82,
+        446,
+        1028,
+        778
+      ],
+      "source": "economics-reader/dist/pages/139.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 2,
+      "kind": "figure",
+      "chapterIndex": 6,
+      "asset": "textbook-figures/micro-c6-b40.svg",
+      "width": 920,
+      "height": 1120,
+      "assetSHA256": "3014ace8c423b328ffab7d494ae137c40987a473dcdbd16b1743f71e83858ef0",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 143,
+      "chapter": 6,
+      "id": "c6-b65",
+      "ref": "图6-6",
+      "title": "向卖者征税",
+      "bbox": [
+        80,
+        110,
+        1000,
+        515
+      ],
+      "source": "economics-reader/dist/pages/143.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 6,
+      "asset": "textbook-figures/micro-c6-b65.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "3afa4259244e791536cd6cff8be2b4d82bbbe614df9fa4d956329c697fc3922a",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 144,
+      "chapter": 6,
+      "id": "c6-b76",
+      "ref": "图6-7",
+      "title": "向买者征税",
+      "bbox": [
+        82,
+        373,
+        1028,
+        806
+      ],
+      "source": "economics-reader/dist/pages/144.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 6,
+      "asset": "textbook-figures/micro-c6-b76.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "413828ff8742c33c8f96aedd9306f016f80ebd1f9519cd43ce97ece0141896f9",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 146,
+      "chapter": 6,
+      "id": "c6-b86",
+      "ref": "图6-8",
+      "title": "工资税",
+      "bbox": [
+        82,
+        145,
+        1028,
+        617
+      ],
+      "source": "economics-reader/dist/pages/146.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 6,
+      "asset": "textbook-figures/micro-c6-b86.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "ebe10bb97dac3fe0a7c53ac69da8f8082dadc8db981dab3351d31703bc956860",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 147,
+      "chapter": 6,
+      "id": "c6-b91",
+      "ref": "图6-9",
+      "title": "税收负担如何分摊",
+      "bbox": [
+        66,
+        120,
+        1028,
+        1087
+      ],
+      "source": "economics-reader/dist/pages/147.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 2,
+      "kind": "figure",
+      "chapterIndex": 6,
+      "asset": "textbook-figures/micro-c6-b91.svg",
+      "width": 920,
+      "height": 1120,
+      "assetSHA256": "16ce4b8280ea6e19cd407e13fe304a601f36acf9bfa440c031256f608d16dc13",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 155,
+      "chapter": 7,
+      "id": "c7-b9",
+      "ref": "表7-1",
+      "title": "四个可能买者的支付意愿",
+      "bbox": [
+        82,
+        830,
+        1028,
+        1070
+      ],
+      "source": "economics-reader/dist/pages/155.webp",
+      "activeType": "figure",
+      "method": "table",
+      "panels": 1,
+      "kind": "table",
+      "chapterIndex": 7,
+      "rows": [
+        [
+          "买者",
+          "支付意愿（美元）"
+        ],
+        [
+          "Taylor",
+          100
+        ],
+        [
+          "Carrie",
+          80
+        ],
+        [
+          "Rihanna",
+          70
+        ],
+        [
+          "Gaga",
+          50
+        ]
+      ]
+    },
+    {
+      "volume": "micro",
+      "page": 157,
+      "chapter": 7,
+      "id": "c7-b19",
+      "ref": "图7-1",
+      "title": "需求表和需求曲线",
+      "bbox": [
+        82,
+        141,
+        1028,
+        997
+      ],
+      "source": "economics-reader/dist/pages/157.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 2,
+      "kind": "figure",
+      "chapterIndex": 7,
+      "asset": "textbook-figures/micro-c7-b19.svg",
+      "width": 1040,
+      "height": 1000,
+      "assetSHA256": "b1cb544dc508de84e4dce447f6a1c8df4dcc179011b35efa246ae9d8677b843b",
+      "caption": "需求表与阶梯状需求曲线一一对应；曲线的高度反映边际买者的支付意愿。价格区间沿用原书标示。"
+    },
+    {
+      "volume": "micro",
+      "page": 158,
+      "chapter": 7,
+      "id": "c7-b22",
+      "ref": "图7-2",
+      "title": "用需求曲线衡量消费者剩余",
+      "bbox": [
+        82,
+        157,
+        1028,
+        1377
+      ],
+      "source": "economics-reader/dist/pages/158.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 2,
+      "kind": "figure",
+      "chapterIndex": 7,
+      "asset": "textbook-figures/micro-c7-b22.svg",
+      "width": 920,
+      "height": 1120,
+      "assetSHA256": "380529869c27191392ed47626cdb828e6460b4e4074cebdb4c561c1ea28a1910",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 160,
+      "chapter": 7,
+      "id": "c7-b30",
+      "ref": "图7-3",
+      "title": "价格如何影响消费者剩余",
+      "bbox": [
+        82,
+        130,
+        1028,
+        1322
+      ],
+      "source": "economics-reader/dist/pages/160.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 2,
+      "kind": "figure",
+      "chapterIndex": 7,
+      "asset": "textbook-figures/micro-c7-b30.svg",
+      "width": 920,
+      "height": 1120,
+      "assetSHA256": "70aa963b098e7679eaf998bbd02d6ef15472d1c477e1726cf98ad212df0258d2",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 162,
+      "chapter": 7,
+      "id": "c7-b43",
+      "ref": "表7-2",
+      "title": "四个可能卖者的成本",
+      "bbox": [
+        82,
+        519,
+        1028,
+        758
+      ],
+      "source": "economics-reader/dist/pages/162.webp",
+      "activeType": "figure",
+      "method": "table",
+      "panels": 1,
+      "kind": "table",
+      "chapterIndex": 7,
+      "rows": [
+        [
+          "卖者",
+          "成本（美元）"
+        ],
+        [
+          "Vincent",
+          900
+        ],
+        [
+          "Claude",
+          800
+        ],
+        [
+          "Pablo",
+          600
+        ],
+        [
+          "Andy",
+          500
+        ]
+      ]
+    },
+    {
+      "volume": "micro",
+      "page": 163,
+      "chapter": 7,
+      "id": "c7-b51",
+      "ref": "图7-4",
+      "title": "供给表和供给曲线",
+      "bbox": [
+        82,
+        482,
+        1028,
+        1213
+      ],
+      "source": "economics-reader/dist/pages/163.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 2,
+      "kind": "figure",
+      "chapterIndex": 7,
+      "asset": "textbook-figures/micro-c7-b51.svg",
+      "width": 920,
+      "height": 923,
+      "assetSHA256": "d78c171d8c18d3a2749bb2af9d9666c4aa63177597261c847d70121e084a5b47",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 164,
+      "chapter": 7,
+      "id": "c7-b54",
+      "ref": "图7-5",
+      "title": "用供给曲线衡量生产者剩余",
+      "bbox": [
+        82,
+        266,
+        1028,
+        1384
+      ],
+      "source": "economics-reader/dist/pages/164.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 2,
+      "kind": "figure",
+      "chapterIndex": 7,
+      "asset": "textbook-figures/micro-c7-b54.svg",
+      "width": 920,
+      "height": 1120,
+      "assetSHA256": "66dbf8c2d7ad0eb0a651c5ed69c7a929de73f0ecfe8a1b3abf955eb28c4ed60f",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 166,
+      "chapter": 7,
+      "id": "c7-b65",
+      "ref": "图7-6",
+      "title": "价格如何影响生产者剩余",
+      "bbox": [
+        82,
+        163,
+        1028,
+        1390
+      ],
+      "source": "economics-reader/dist/pages/166.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 2,
+      "kind": "figure",
+      "chapterIndex": 7,
+      "asset": "textbook-figures/micro-c7-b65.svg",
+      "width": 920,
+      "height": 1120,
+      "assetSHA256": "185b7ed4c39663a1cdc99a6774bf6c617cc73e562a935a22889b83cc86adb9a4",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 168,
+      "chapter": 7,
+      "id": "c7-b79",
+      "ref": "图7-7",
+      "title": "市场均衡时的消费者剩余与生产者剩余",
+      "bbox": [
+        82,
+        694,
+        1028,
+        1253
+      ],
+      "source": "economics-reader/dist/pages/168.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 7,
+      "asset": "textbook-figures/micro-c7-b79.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "8025d934a1002275f312ccb2100a04e2c5b280699117b3ba8c13213e505c8a25",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 169,
+      "chapter": 7,
+      "id": "c7-b88",
+      "ref": "图7-8",
+      "title": "均衡数量的效率",
+      "bbox": [
+        82,
+        671,
+        1028,
+        1355
+      ],
+      "source": "economics-reader/dist/pages/169.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 7,
+      "asset": "textbook-figures/micro-c7-b88.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "f6ab79d75aa2e3280c4ed881171db96d78f61a777772cf6d7d6157db245a15a9",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 179,
+      "chapter": 8,
+      "id": "c8-b6",
+      "ref": "图8-1",
+      "title": "税收效应",
+      "bbox": [
+        82,
+        537,
+        1028,
+        1051
+      ],
+      "source": "economics-reader/dist/pages/179.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 8,
+      "asset": "textbook-figures/micro-c8-b6.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "becad84f2f5a6d737adb388145fba667f5d51b1a14285a6507de097ca56b479e",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 180,
+      "chapter": 8,
+      "id": "c8-b11",
+      "ref": "图8-2",
+      "title": "税收收入",
+      "bbox": [
+        82,
+        459,
+        1028,
+        966
+      ],
+      "source": "economics-reader/dist/pages/180.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 8,
+      "asset": "textbook-figures/micro-c8-b11.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "f52e34fdcb8c6e5b24dadff00964538943a6cc29e4a948c3d04644622064d222",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 181,
+      "chapter": 8,
+      "id": "c8-b15",
+      "ref": "图8-3",
+      "title": "税收如何影响福利",
+      "bbox": [
+        82,
+        121,
+        1028,
+        839
+      ],
+      "source": "economics-reader/dist/pages/181.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 2,
+      "kind": "figure",
+      "chapterIndex": 8,
+      "asset": "textbook-figures/micro-c8-b15.svg",
+      "width": 920,
+      "height": 880,
+      "assetSHA256": "e4767d9b75a89660f732a8d807581fbad5f09d14ba047fed66fa24eeda4a5c75",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 183,
+      "chapter": 8,
+      "id": "c8-b26",
+      "ref": "图8-4",
+      "title": "无谓损失的来源",
+      "bbox": [
+        82,
+        114,
+        1028,
+        636
+      ],
+      "source": "economics-reader/dist/pages/183.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 8,
+      "asset": "textbook-figures/micro-c8-b26.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "db867f02b9f0cd0f9b9ca2f62389cd9e16a0a1b35f4910bbf49635be5df64387",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 184,
+      "chapter": 8,
+      "id": "c8-b34",
+      "ref": "图8-5",
+      "title": "税收扭曲与弹性",
+      "bbox": [
+        82,
+        130,
+        1028,
+        838
+      ],
+      "source": "economics-reader/dist/pages/184.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 4,
+      "kind": "figure",
+      "chapterIndex": 8,
+      "asset": "textbook-figures/micro-c8-b34.svg",
+      "width": 920,
+      "height": 2240,
+      "assetSHA256": "c65d135fe94bf2b45097957124e313a669acadc69d4320e72d16fb44b4e7a6cf",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 186,
+      "chapter": 8,
+      "id": "c8-b53",
+      "ref": "图8-6",
+      "title": "无谓损失和税收收入如何随税收规模变动而变动",
+      "bbox": [
+        82,
+        459,
+        1028,
+        1394
+      ],
+      "source": "economics-reader/dist/pages/186.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 5,
+      "kind": "figure",
+      "chapterIndex": 8,
+      "asset": "textbook-figures/micro-c8-b53.svg",
+      "width": 920,
+      "height": 2800,
+      "assetSHA256": "e034d6ee47a695228a0bcbc0dde51284223a1ecc27488029e99bff9a6223270e",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 194,
+      "chapter": 9,
+      "id": "c9-b9",
+      "ref": "图9-1",
+      "title": "没有国际贸易时的均衡",
+      "bbox": [
+        82,
+        473,
+        1028,
+        1052
+      ],
+      "source": "economics-reader/dist/pages/194.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 9,
+      "asset": "textbook-figures/micro-c9-b9.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "fa968390e4895271b85ded71fb829190a129342721383192270ae0623d8f8bd4",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 196,
+      "chapter": 9,
+      "id": "c9-b26",
+      "ref": "图9-2",
+      "title": "一个出口国的国际贸易",
+      "bbox": [
+        82,
+        640,
+        1028,
+        1388
+      ],
+      "source": "economics-reader/dist/pages/196.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 2,
+      "kind": "figure",
+      "chapterIndex": 9,
+      "asset": "textbook-figures/micro-c9-b26.svg",
+      "width": 920,
+      "height": 837,
+      "assetSHA256": "2400218997182d39130c77d20a829573c9690d704e06e1be23cb548108a50267",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 198,
+      "chapter": 9,
+      "id": "c9-b40",
+      "ref": "图9-3",
+      "title": "一个进口国的国际贸易",
+      "bbox": [
+        82,
+        206,
+        1028,
+        1073
+      ],
+      "source": "economics-reader/dist/pages/198.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 2,
+      "kind": "figure",
+      "chapterIndex": 9,
+      "asset": "textbook-figures/micro-c9-b40.svg",
+      "width": 920,
+      "height": 837,
+      "assetSHA256": "ee5e3bdf1cd104b38e1a578df76c6502cd04b6f7ffffd2b5d8ceed3b3b2be7a7",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 200,
+      "chapter": 9,
+      "id": "c9-b52",
+      "ref": "图9-4",
+      "title": "关税的影响",
+      "bbox": [
+        82,
+        130,
+        1028,
+        1001
+      ],
+      "source": "economics-reader/dist/pages/200.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 2,
+      "kind": "figure",
+      "chapterIndex": 9,
+      "asset": "textbook-figures/micro-c9-b52.svg",
+      "width": 920,
+      "height": 880,
+      "assetSHA256": "bb2ce3e754ee3cc63aaf3e0a21e5b18d1f4ea22fd378cef7c27babd9bd6a4df0",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 220,
+      "chapter": 10,
+      "id": "c10-b16",
+      "ref": "图10-1",
+      "title": "铝市场",
+      "bbox": [
+        82,
+        125,
+        1028,
+        622
+      ],
+      "source": "economics-reader/dist/pages/220.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 10,
+      "asset": "textbook-figures/micro-c10-b16.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "57e5388bba003be124ecd80ec4326e78d138451ff6087cfcd9bb40f2b72edd55",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 221,
+      "chapter": 10,
+      "id": "c10-b23",
+      "ref": "图10-2",
+      "title": "污染与社会最优",
+      "bbox": [
+        82,
+        114,
+        1028,
+        645
+      ],
+      "source": "economics-reader/dist/pages/221.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 10,
+      "asset": "textbook-figures/micro-c10-b23.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "032f84febc26c6fe6ec9d410a9c4390bc606bc79dff1e75973a8a6d87fe51341",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 222,
+      "chapter": 10,
+      "id": "c10-b31",
+      "ref": "图10-3",
+      "title": "教育与社会最优",
+      "bbox": [
+        82,
+        666,
+        1028,
+        1124
+      ],
+      "source": "economics-reader/dist/pages/222.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 10,
+      "asset": "textbook-figures/micro-c10-b31.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "e7f0203a625315f5992e76a5473c7d5a836e3397d8dfbf48371c1f87325c18bf",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 226,
+      "chapter": 10,
+      "id": "c10-b65",
+      "ref": "",
+      "title": "我有一个减少对石油",
+      "bbox": [
+        82,
+        450,
+        1028,
+        948
+      ],
+      "source": "economics-reader/dist/pages/226.webp",
+      "activeType": "figure",
+      "method": "outline-vector",
+      "panels": 1,
+      "kind": "supplement",
+      "chapterIndex": 10,
+      "asset": "textbook-figures/micro-c10-b65.svg",
+      "width": 946,
+      "height": 498,
+      "sourceInkPixels": 87501,
+      "vectorRectangles": 25746,
+      "assetSHA256": "6b643e78fe7ac304868979a8b6968e38381211a0520a1b029beefbd6677cf416"
+    },
+    {
+      "volume": "micro",
+      "page": 228,
+      "chapter": 10,
+      "id": "c10-b80",
+      "ref": "图10-4",
+      "title": "矫正税和污染许可证的相等性",
+      "bbox": [
+        82,
+        1039,
+        1028,
+        1383
+      ],
+      "source": "economics-reader/dist/pages/228.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 2,
+      "kind": "figure",
+      "chapterIndex": 10,
+      "asset": "textbook-figures/micro-c10-b80.svg",
+      "width": 920,
+      "height": 1120,
+      "assetSHA256": "0060b8b16598d34f9ba9e67e18318554fca6ce22c20fdb801217a8f8bf39fc00",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 239,
+      "chapter": 11,
+      "id": "c11-b8",
+      "ref": "图11-1",
+      "title": "四种类型的物品",
+      "bbox": [
+        82,
+        376,
+        1028,
+        708
+      ],
+      "source": "economics-reader/dist/pages/239.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 11,
+      "asset": "textbook-figures/micro-c11-b8.svg",
+      "width": 920,
+      "height": 600,
+      "assetSHA256": "bc60888b687740b64ec89ea3f06f689fb7f2de3efba9e511dd14c75da54b73a5",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 257,
+      "chapter": 12,
+      "id": "c12-b7",
+      "ref": "图12-1",
+      "title": "政府收入占 GDP的百分比",
+      "bbox": [
+        82,
+        678,
+        1028,
+        1157
+      ],
+      "source": "economics-reader/dist/pages/257.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 12,
+      "asset": "textbook-figures/micro-c12-b7.svg",
+      "width": 920,
+      "height": 620,
+      "assetSHA256": "2408a6b819bef6822d88b401276e0f98bd0a478d39d93a743305127810bab93f",
+      "redrawMethod": "digitized-series",
+      "caption": "历史线条由原书图中的轨迹数字化重绘；沿用该版本的年份、单位和基期。 历史曲线按原书读数重绘，数值为近似值。",
+      "dataPrecision": "原书印刷图读数近似；不是原始统计数据",
+      "dataSource": "scripts/source-series-paths.json"
+    },
+    {
+      "volume": "micro",
+      "page": 258,
+      "chapter": 12,
+      "id": "c12-b9",
+      "ref": "图12-2",
+      "title": "政府收入占 GDP的百分比：国际比较",
+      "bbox": [
+        82,
+        130,
+        1028,
+        629
+      ],
+      "source": "economics-reader/dist/pages/258.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 12,
+      "asset": "textbook-figures/micro-c12-b9.svg",
+      "width": 920,
+      "height": 573,
+      "assetSHA256": "03722172fc10e9cd189179ceaf108b9e0af9e592005af1c87dab44b231c5912a",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 258,
+      "chapter": 12,
+      "id": "c12-b12",
+      "ref": "表12-1",
+      "title": "2014年联邦政府的收入",
+      "bbox": [
+        82,
+        954,
+        1028,
+        1212
+      ],
+      "source": "economics-reader/dist/pages/258.webp",
+      "activeType": "figure",
+      "method": "table",
+      "panels": 1,
+      "kind": "table",
+      "chapterIndex": 12,
+      "rows": [
+        [
+          "税种",
+          "数量（10亿美元）",
+          "人均（美元）",
+          "占比（%）"
+        ],
+        [
+          "个人所得税",
+          1397,
+          4379,
+          43
+        ],
+        [
+          "社会保险税",
+          1145,
+          3589,
+          35
+        ],
+        [
+          "公司所得税",
+          418,
+          1310,
+          13
+        ],
+        [
+          "其他",
+          305,
+          956,
+          9
+        ],
+        [
+          "总计",
+          3265,
+          10235,
+          100
+        ]
+      ]
+    },
+    {
+      "volume": "micro",
+      "page": 259,
+      "chapter": 12,
+      "id": "c12-b16",
+      "ref": "表12-2",
+      "title": "2014年联邦所得税税率",
+      "bbox": [
+        82,
+        411,
+        1028,
+        732
+      ],
+      "source": "economics-reader/dist/pages/259.webp",
+      "activeType": "figure",
+      "method": "table",
+      "panels": 1,
+      "kind": "table",
+      "chapterIndex": 12,
+      "rows": [
+        [
+          "未婚纳税人应税收入（美元）",
+          "边际税率（%）"
+        ],
+        [
+          "0—9,075",
+          10
+        ],
+        [
+          "9,076—36,900",
+          15
+        ],
+        [
+          "36,901—89,350",
+          25
+        ],
+        [
+          "89,351—186,350",
+          28
+        ],
+        [
+          "186,351—405,100",
+          33
+        ],
+        [
+          "405,101—406,750",
+          35
+        ],
+        [
+          "406,751及以上",
+          39.6
+        ]
+      ]
+    },
+    {
+      "volume": "micro",
+      "page": 260,
+      "chapter": 12,
+      "id": "c12-b24",
+      "ref": "表12-3",
+      "title": "2014年州与地方政府的收入",
+      "bbox": [
+        82,
+        658,
+        1028,
+        994
+      ],
+      "source": "economics-reader/dist/pages/260.webp",
+      "activeType": "figure",
+      "method": "table",
+      "panels": 1,
+      "kind": "table",
+      "chapterIndex": 12,
+      "rows": [
+        [
+          "类别",
+          "数量（10亿美元）",
+          "人均（美元）",
+          "占比（%）"
+        ],
+        [
+          "销售税",
+          525,
+          1646,
+          24
+        ],
+        [
+          "财产税",
+          456,
+          1429,
+          20
+        ],
+        [
+          "个人所得税",
+          383,
+          1201,
+          17
+        ],
+        [
+          "公司所得税",
+          58,
+          182,
+          3
+        ],
+        [
+          "联邦政府资金",
+          495,
+          1552,
+          22
+        ],
+        [
+          "其他",
+          308,
+          916,
+          14
+        ],
+        [
+          "总计",
+          2225,
+          6975,
+          100
+        ]
+      ],
+      "note": "教材原表数值照录；分项可能因原表或四舍五入不完全加总。"
+    },
+    {
+      "volume": "micro",
+      "page": 266,
+      "chapter": 12,
+      "id": "c12-b84",
+      "ref": "表12-4",
+      "title": "三种税制",
+      "bbox": [
+        82,
+        1148,
+        1028,
+        1389
+      ],
+      "source": "economics-reader/dist/pages/266.webp",
+      "activeType": "figure",
+      "method": "table",
+      "panels": 1,
+      "kind": "table",
+      "chapterIndex": 12,
+      "rows": [
+        [
+          "收入（美元）",
+          "比例税：税额 / 税率",
+          "累退税：税额 / 税率",
+          "累进税：税额 / 税率"
+        ],
+        [
+          "50,000",
+          "12,500 / 25%",
+          "15,000 / 30%",
+          "10,000 / 20%"
+        ],
+        [
+          "100,000",
+          "25,000 / 25%",
+          "25,000 / 25%",
+          "25,000 / 25%"
+        ],
+        [
+          "200,000",
+          "50,000 / 25%",
+          "40,000 / 20%",
+          "60,000 / 30%"
+        ]
+      ]
+    },
+    {
+      "volume": "micro",
+      "page": 267,
+      "chapter": 12,
+      "id": "c12-b89",
+      "ref": "表12-5",
+      "title": "联邦税收负担",
+      "bbox": [
+        82,
+        648,
+        1028,
+        1029
+      ],
+      "source": "economics-reader/dist/pages/267.webp",
+      "activeType": "figure",
+      "method": "table",
+      "panels": 1,
+      "kind": "table",
+      "chapterIndex": 12,
+      "rows": [
+        [
+          "收入组",
+          "平均收入（美元）",
+          "税收/收入 %",
+          "占全部收入 %",
+          "占全部税收 %"
+        ],
+        [
+          "最低五分位",
+          24600,
+          1.9,
+          5.3,
+          0.6
+        ],
+        [
+          "第二五分位",
+          45300,
+          7,
+          9.6,
+          3.8
+        ],
+        [
+          "中间五分位",
+          66400,
+          11.2,
+          14.1,
+          8.9
+        ],
+        [
+          "第四五分位",
+          97500,
+          15.2,
+          20.4,
+          17.6
+        ],
+        [
+          "最高五分位",
+          245700,
+          23.4,
+          51.9,
+          68.7
+        ],
+        [
+          "收入最高1%",
+          1453100,
+          29,
+          14.6,
+          24
+        ]
+      ]
+    },
+    {
+      "volume": "micro",
+      "page": 279,
+      "chapter": 13,
+      "id": "c13-b23",
+      "ref": "图13-1",
+      "title": "经济学家与会计师",
+      "bbox": [
+        100,
+        563,
+        960,
+        1038
+      ],
+      "source": "economics-reader/dist/pages/279.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 2,
+      "kind": "figure",
+      "chapterIndex": 13,
+      "asset": "textbook-figures/micro-c13-b23.svg",
+      "width": 920,
+      "height": 1120,
+      "assetSHA256": "c62773f359d19bdc4e812d59533e828005ca25d758b6c1d281e274625d559c70",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 280,
+      "chapter": 13,
+      "id": "c13-b32",
+      "ref": "表13-1",
+      "title": "生产函数与总成本：Caroline 的糕点厂",
+      "bbox": [
+        82,
+        916,
+        1028,
+        1389
+      ],
+      "source": "economics-reader/dist/pages/280.webp",
+      "activeType": "figure",
+      "method": "table",
+      "panels": 1,
+      "kind": "table",
+      "chapterIndex": 13,
+      "rows": [
+        [
+          "工人数",
+          "产量/小时",
+          "新增工人边际产量",
+          "工厂成本$",
+          "工人成本$",
+          "总成本$"
+        ],
+        [
+          0,
+          0,
+          "—",
+          30,
+          0,
+          30
+        ],
+        [
+          1,
+          50,
+          50,
+          30,
+          10,
+          40
+        ],
+        [
+          2,
+          90,
+          40,
+          30,
+          20,
+          50
+        ],
+        [
+          3,
+          120,
+          30,
+          30,
+          30,
+          60
+        ],
+        [
+          4,
+          140,
+          20,
+          30,
+          40,
+          70
+        ],
+        [
+          5,
+          150,
+          10,
+          30,
+          50,
+          80
+        ],
+        [
+          6,
+          155,
+          5,
+          30,
+          60,
+          90
+        ]
+      ]
+    },
+    {
+      "volume": "micro",
+      "page": 281,
+      "chapter": 13,
+      "id": "c13-b33",
+      "ref": "图13-2",
+      "title": "Caroline 的生产函数和总成本曲线",
+      "bbox": [
+        82,
+        137,
+        1028,
+        1234
+      ],
+      "source": "economics-reader/dist/pages/281.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 2,
+      "kind": "figure",
+      "chapterIndex": 13,
+      "asset": "textbook-figures/micro-c13-b33.svg",
+      "width": 920,
+      "height": 1120,
+      "assetSHA256": "687147357653eb8a99418439d981af4e59969455edfba51ab95eb74d4cd70fc7",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 283,
+      "chapter": 13,
+      "id": "c13-b45",
+      "ref": "表13-2",
+      "title": "成本的各种衡量指标：Conrad的咖啡店",
+      "bbox": [
+        82,
+        710,
+        1028,
+        1234
+      ],
+      "source": "economics-reader/dist/pages/283.webp",
+      "activeType": "figure",
+      "method": "table",
+      "panels": 1,
+      "kind": "table",
+      "chapterIndex": 13,
+      "rows": [
+        [
+          "Q",
+          "TC$",
+          "FC$",
+          "VC$",
+          "AFC$",
+          "AVC$",
+          "ATC$",
+          "新增件MC$"
+        ],
+        [
+          0,
+          3,
+          3,
+          0,
+          "—",
+          "—",
+          "—",
+          "—"
+        ],
+        [
+          1,
+          3.3,
+          3,
+          "0.30",
+          "3.00",
+          "0.30",
+          "3.30",
+          "0.30"
+        ],
+        [
+          2,
+          3.8,
+          3,
+          "0.80",
+          "1.50",
+          "0.40",
+          "1.90",
+          "0.50"
+        ],
+        [
+          3,
+          4.5,
+          3,
+          "1.50",
+          "1.00",
+          "0.50",
+          "1.50",
+          "0.70"
+        ],
+        [
+          4,
+          5.4,
+          3,
+          "2.40",
+          "0.75",
+          "0.60",
+          "1.35",
+          "0.90"
+        ],
+        [
+          5,
+          6.5,
+          3,
+          "3.50",
+          "0.60",
+          "0.70",
+          "1.30",
+          "1.10"
+        ],
+        [
+          6,
+          7.8,
+          3,
+          "4.80",
+          "0.50",
+          "0.80",
+          "1.30",
+          "1.30"
+        ],
+        [
+          7,
+          9.3,
+          3,
+          "6.30",
+          "0.43",
+          "0.90",
+          "1.33",
+          "1.50"
+        ],
+        [
+          8,
+          11,
+          3,
+          "8.00",
+          "0.38",
+          "1.00",
+          "1.38",
+          "1.70"
+        ],
+        [
+          9,
+          12.9,
+          3,
+          "9.90",
+          "0.33",
+          "1.10",
+          "1.43",
+          "1.90"
+        ],
+        [
+          10,
+          15,
+          3,
+          "12.00",
+          "0.30",
+          "1.20",
+          "1.50",
+          "2.10"
+        ]
+      ]
+    },
+    {
+      "volume": "micro",
+      "page": 284,
+      "chapter": 13,
+      "id": "c13-b47",
+      "ref": "图13-3",
+      "title": "Conrad 的咖啡店的总成本曲线",
+      "bbox": [
+        82,
+        206,
+        1028,
+        807
+      ],
+      "source": "economics-reader/dist/pages/284.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 13,
+      "asset": "textbook-figures/micro-c13-b47.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "40a815c2301838d5176bb16644a944da570a11c35c4bf3ecbb112698dcd52ff2",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 286,
+      "chapter": 13,
+      "id": "c13-b64",
+      "ref": "图13-4",
+      "title": "Conrad 的咖啡店的平均成本曲线和边际成本曲线",
+      "bbox": [
+        82,
+        418,
+        1028,
+        959
+      ],
+      "source": "economics-reader/dist/pages/286.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 13,
+      "asset": "textbook-figures/micro-c13-b64.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "f39eb11a93eb819c5fa659c606e7827cbc7b4815e0b57b3da83135e51c451052",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 288,
+      "chapter": 13,
+      "id": "c13-b76",
+      "ref": "图13-5",
+      "title": "一个典型企业的成本曲线",
+      "bbox": [
+        82,
+        675,
+        1028,
+        1190
+      ],
+      "source": "economics-reader/dist/pages/288.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 13,
+      "asset": "textbook-figures/micro-c13-b76.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "670c302fd9ad780a567f9a461725f8f526045015bffefb0f0c250131ee3e4388",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 289,
+      "chapter": 13,
+      "id": "c13-b88",
+      "ref": "图13-6",
+      "title": "短期与长期的平均总成本曲线",
+      "bbox": [
+        82,
+        892,
+        1028,
+        1349
+      ],
+      "source": "economics-reader/dist/pages/289.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 13,
+      "asset": "textbook-figures/micro-c13-b88.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "604702e4ab9df5565e533185329dc683808c88cd4a97d7d107f7193cdc601b01",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 299,
+      "chapter": 14,
+      "id": "c14-b19",
+      "ref": "表14-1",
+      "title": "竞争企业的总收益、平均收益和边际收益",
+      "bbox": [
+        82,
+        296,
+        1028,
+        812
+      ],
+      "source": "economics-reader/dist/pages/299.webp",
+      "activeType": "figure",
+      "method": "table",
+      "panels": 1,
+      "kind": "table",
+      "chapterIndex": 14,
+      "rows": [
+        [
+          "Q（加仑）",
+          "P$",
+          "TR$",
+          "AR$",
+          "MR$"
+        ],
+        [
+          1,
+          6,
+          6,
+          6,
+          6
+        ],
+        [
+          2,
+          6,
+          12,
+          6,
+          6
+        ],
+        [
+          3,
+          6,
+          18,
+          6,
+          6
+        ],
+        [
+          4,
+          6,
+          24,
+          6,
+          6
+        ],
+        [
+          5,
+          6,
+          30,
+          6,
+          6
+        ],
+        [
+          6,
+          6,
+          36,
+          6,
+          6
+        ],
+        [
+          7,
+          6,
+          42,
+          6,
+          6
+        ],
+        [
+          8,
+          6,
+          48,
+          6,
+          6
+        ]
+      ]
+    },
+    {
+      "volume": "micro",
+      "page": 300,
+      "chapter": 14,
+      "id": "c14-b32",
+      "ref": "表14-2",
+      "title": "利润最大化：一个数字实例",
+      "bbox": [
+        82,
+        774,
+        1028,
+        1215
+      ],
+      "source": "economics-reader/dist/pages/300.webp",
+      "activeType": "figure",
+      "method": "table",
+      "panels": 1,
+      "kind": "table",
+      "chapterIndex": 14,
+      "rows": [
+        [
+          "产量Q（加仑）",
+          "总收益TR（美元）",
+          "总成本TC（美元）",
+          "利润TR−TC（美元）",
+          "边际收益MR（美元）",
+          "边际成本MC（美元）",
+          "利润的变动MR−MC（美元）"
+        ],
+        [
+          0,
+          0,
+          3,
+          -3,
+          "—",
+          "—",
+          "—"
+        ],
+        [
+          1,
+          6,
+          5,
+          1,
+          6,
+          2,
+          4
+        ],
+        [
+          2,
+          12,
+          8,
+          4,
+          6,
+          3,
+          3
+        ],
+        [
+          3,
+          18,
+          12,
+          6,
+          6,
+          4,
+          2
+        ],
+        [
+          4,
+          24,
+          17,
+          7,
+          6,
+          5,
+          1
+        ],
+        [
+          5,
+          30,
+          23,
+          7,
+          6,
+          6,
+          0
+        ],
+        [
+          6,
+          36,
+          30,
+          6,
+          6,
+          7,
+          -1
+        ],
+        [
+          7,
+          42,
+          38,
+          4,
+          6,
+          8,
+          -2
+        ],
+        [
+          8,
+          48,
+          47,
+          1,
+          6,
+          9,
+          -3
+        ]
+      ]
+    },
+    {
+      "volume": "micro",
+      "page": 302,
+      "chapter": 14,
+      "id": "c14-b40",
+      "ref": "图14-1",
+      "title": "一个竞争企业的利润最大化",
+      "bbox": [
+        82,
+        240,
+        1028,
+        750
+      ],
+      "source": "economics-reader/dist/pages/302.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 14,
+      "asset": "textbook-figures/micro-c14-b40.svg",
+      "width": 1040,
+      "height": 640,
+      "assetSHA256": "caa2eab81044f4915d1f9316af98baba95478f8705e86aded8bcaef0afe47ede"
+    },
+    {
+      "volume": "micro",
+      "page": 303,
+      "chapter": 14,
+      "id": "c14-b48",
+      "ref": "图14-2",
+      "title": "作为竞争企业供给曲线的边际成本曲线",
+      "bbox": [
+        82,
+        160,
+        1028,
+        680
+      ],
+      "source": "economics-reader/dist/pages/303.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 14,
+      "verifiedModel": "competitiveSupply",
+      "asset": "textbook-figures/micro-c14-b48.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "d0070bb4d156fd0a7a205b4901878803b90010b4d540d4367f9044ce23844af8",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 304,
+      "chapter": 14,
+      "id": "c14-b56",
+      "ref": "图14-3",
+      "title": "竞争企业的短期供给曲线",
+      "bbox": [
+        82,
+        867,
+        1028,
+        1317
+      ],
+      "source": "economics-reader/dist/pages/304.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 14,
+      "asset": "textbook-figures/micro-c14-b56.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "b7819d2d9210b15a1d77e2e27da86e1a12ea75defe277d1e7ab22c0bc131bc39",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 307,
+      "chapter": 14,
+      "id": "c14-b72",
+      "ref": "图14-4",
+      "title": "竞争企业的长期供给曲线",
+      "bbox": [
+        82,
+        118,
+        1028,
+        610
+      ],
+      "source": "economics-reader/dist/pages/307.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 14,
+      "asset": "textbook-figures/micro-c14-b72.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "114eaee67b42122a6bdc856e799a10dea059f7d22e878c230147ac08873f79c6",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 307,
+      "chapter": 14,
+      "id": "c14-b74",
+      "ref": "图14-5",
+      "title": "用价格与平均总成本之间的面积表示的利润",
+      "bbox": [
+        82,
+        812,
+        1028,
+        1164
+      ],
+      "source": "economics-reader/dist/pages/307.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 2,
+      "kind": "figure",
+      "chapterIndex": 14,
+      "verifiedModel": "profit",
+      "asset": "textbook-figures/micro-c14-b74.svg",
+      "width": 920,
+      "height": 1120,
+      "assetSHA256": "16de23516c843a48ff474d9c9f87de634c9811f01ac8ec135d76640ec4013b1c",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 308,
+      "chapter": 14,
+      "id": "c14-b82",
+      "ref": "图14-6",
+      "title": "短期的市场供给曲线",
+      "bbox": [
+        82,
+        986,
+        1028,
+        1321
+      ],
+      "source": "economics-reader/dist/pages/308.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 2,
+      "kind": "figure",
+      "chapterIndex": 14,
+      "verifiedModel": "fixedMarketSupply",
+      "asset": "textbook-figures/micro-c14-b82.svg",
+      "width": 920,
+      "height": 1120,
+      "assetSHA256": "2002a895899d0c1076b1adc6ec309364f05b949e5ceb7573f8be999da337b4b9",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 310,
+      "chapter": 14,
+      "id": "c14-b90",
+      "ref": "图14-7",
+      "title": "长期市场供给曲线",
+      "bbox": [
+        82,
+        203,
+        1028,
+        543
+      ],
+      "source": "economics-reader/dist/pages/310.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 2,
+      "kind": "figure",
+      "chapterIndex": 14,
+      "verifiedModel": "longRunSupply",
+      "asset": "textbook-figures/micro-c14-b90.svg",
+      "width": 920,
+      "height": 1120,
+      "assetSHA256": "a8fde040270ad28e42cde4ea18189a1243b513a4094a2f8c2ae56a060700e536",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 311,
+      "chapter": 14,
+      "id": "c14-b99",
+      "ref": "图14-8",
+      "title": "短期和长期内的需求增加",
+      "bbox": [
+        82,
+        501,
+        1028,
+        1344
+      ],
+      "source": "economics-reader/dist/pages/311.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 6,
+      "kind": "figure",
+      "chapterIndex": 14,
+      "verifiedModel": "demandShortLongRun",
+      "asset": "textbook-figures/micro-c14-b99.svg",
+      "width": 920,
+      "height": 3360,
+      "assetSHA256": "2912866258dfffaa562dfe4bb96a64f5f1fb03139f7edf7a6ebe065b90ea6d56",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 322,
+      "chapter": 15,
+      "id": "c15-b34",
+      "ref": "图15-2",
+      "title": "竞争企业与垄断企业的需求曲线",
+      "bbox": [
+        82,
+        1061,
+        1028,
+        1387
+      ],
+      "source": "economics-reader/dist/pages/322.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 2,
+      "kind": "figure",
+      "chapterIndex": 15,
+      "asset": "textbook-figures/micro-c15-b34.svg",
+      "width": 2080,
+      "height": 580,
+      "assetSHA256": "225003a403bf5dc60696bdc92dbfcc4d1dc294309a5a5bc2f8177704b0b40c4e",
+      "caption": "竞争企业是价格接受者，面对水平的需求曲线。 垄断企业面对向下倾斜的市场需求曲线；增加销量需要降低价格。"
+    },
+    {
+      "volume": "micro",
+      "page": 323,
+      "chapter": 15,
+      "id": "c15-b40",
+      "ref": "表15-1",
+      "title": "垄断企业的总收益、平均收益和边际收益",
+      "bbox": [
+        82,
+        740,
+        1028,
+        1365
+      ],
+      "source": "economics-reader/dist/pages/323.webp",
+      "activeType": "figure",
+      "method": "table",
+      "panels": 1,
+      "kind": "table",
+      "chapterIndex": 15,
+      "rows": [
+        [
+          "水的产量Q（加仑）",
+          "价格P（美元）",
+          "总收益TR（美元）",
+          "平均收益AR（美元）",
+          "边际收益MR（美元）"
+        ],
+        [
+          0,
+          11,
+          0,
+          "—",
+          "—"
+        ],
+        [
+          1,
+          10,
+          10,
+          10,
+          10
+        ],
+        [
+          2,
+          9,
+          18,
+          9,
+          8
+        ],
+        [
+          3,
+          8,
+          24,
+          8,
+          6
+        ],
+        [
+          4,
+          7,
+          28,
+          7,
+          4
+        ],
+        [
+          5,
+          6,
+          30,
+          6,
+          2
+        ],
+        [
+          6,
+          5,
+          30,
+          5,
+          0
+        ],
+        [
+          7,
+          4,
+          28,
+          4,
+          -2
+        ],
+        [
+          8,
+          3,
+          24,
+          3,
+          -4
+        ]
+      ]
+    },
+    {
+      "volume": "micro",
+      "page": 325,
+      "chapter": 15,
+      "id": "c15-b50",
+      "ref": "图15-3",
+      "title": "垄断企业的需求曲线与边际收益曲线",
+      "bbox": [
+        82,
+        119,
+        1028,
+        563
+      ],
+      "source": "economics-reader/dist/pages/325.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 15,
+      "asset": "textbook-figures/micro-c15-b50.svg",
+      "width": 1040,
+      "height": 650,
+      "assetSHA256": "106bb25768974b12ec76f1e3636894654f2e9badb70702a28477daaaeb0537c9",
+      "caption": "增加销量需要降低所有已售产品的价格，因此边际收益低于价格，并可能为负。"
+    },
+    {
+      "volume": "micro",
+      "page": 326,
+      "chapter": 15,
+      "id": "c15-b59",
+      "ref": "图15-4",
+      "title": "垄断企业的利润最大化",
+      "bbox": [
+        82,
+        197,
+        1028,
+        714
+      ],
+      "source": "economics-reader/dist/pages/326.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 15,
+      "asset": "textbook-figures/micro-c15-b59.svg",
+      "width": 1040,
+      "height": 580,
+      "assetSHA256": "5095f06d6eb2a10b56f03cbb60980db7ee29093f927f48a52a18797b5835d7a6",
+      "caption": "边际收益与边际成本的交点决定利润最大化产量，再由需求曲线确定该产量对应的价格。"
+    },
+    {
+      "volume": "micro",
+      "page": 328,
+      "chapter": 15,
+      "id": "c15-b72",
+      "ref": "图15-5",
+      "title": "垄断企业的利润",
+      "bbox": [
+        82,
+        128,
+        1028,
+        637
+      ],
+      "source": "economics-reader/dist/pages/328.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 15,
+      "asset": "textbook-figures/micro-c15-b72.svg",
+      "width": 1040,
+      "height": 580,
+      "assetSHA256": "ca39be7a1124ed3a779737017cb7810206e9c2c83a1bae56a00d2065ceb88131",
+      "caption": "矩形 BCDE 的面积等于垄断利润；高是每单位利润，宽是销售数量。"
+    },
+    {
+      "volume": "micro",
+      "page": 329,
+      "chapter": 15,
+      "id": "c15-b78",
+      "ref": "图15-6",
+      "title": "药品市场",
+      "bbox": [
+        82,
+        121,
+        1028,
+        583
+      ],
+      "source": "economics-reader/dist/pages/329.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 15,
+      "asset": "textbook-figures/micro-c15-b78.svg",
+      "width": 1040,
+      "height": 580,
+      "assetSHA256": "0e57fbbb6c10829f09e20f595ee13349f704a03bf65f224f940cecb6c5140735",
+      "caption": "专利期内在 MR = MC 处生产并收取垄断价格。专利到期后，竞争使价格降至边际成本，产量增加。"
+    },
+    {
+      "volume": "micro",
+      "page": 330,
+      "chapter": 15,
+      "id": "c15-b89",
+      "ref": "图15-7",
+      "title": "有效率的产量水平",
+      "bbox": [
+        82,
+        818,
+        1028,
+        1396
+      ],
+      "source": "economics-reader/dist/pages/330.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 15,
+      "asset": "textbook-figures/micro-c15-b89.svg",
+      "width": 1040,
+      "height": 580,
+      "assetSHA256": "d252954fd18dca6501c947be46ad9a38646de73d5d0b51b5580342f62e018f04",
+      "caption": "需求表示对买者的价值，边际成本表示垄断者的生产成本。两条曲线交点对应使总剩余最大的效率产量。"
+    },
+    {
+      "volume": "micro",
+      "page": 331,
+      "chapter": 15,
+      "id": "c15-b92",
+      "ref": "图15-8",
+      "title": "垄断的无效率",
+      "bbox": [
+        82,
+        454,
+        1028,
+        937
+      ],
+      "source": "economics-reader/dist/pages/331.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 15,
+      "asset": "textbook-figures/micro-c15-b92.svg",
+      "width": 1040,
+      "height": 580,
+      "assetSHA256": "626d73ff79e129422876fa57f1ac9d4c855934394d3907bdc860d15eab25e84c",
+      "caption": "垄断产量低于效率产量。两种产量之间，需求曲线与边际成本曲线围成的三角形表示无谓损失。"
+    },
+    {
+      "volume": "micro",
+      "page": 335,
+      "chapter": 15,
+      "id": "c15-b124",
+      "ref": "图15-9",
+      "title": "有价格歧视和无价格歧视时的福利",
+      "bbox": [
+        82,
+        955,
+        1028,
+        1293
+      ],
+      "source": "economics-reader/dist/pages/335.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 2,
+      "kind": "figure",
+      "chapterIndex": 15,
+      "asset": "textbook-figures/micro-c15-b124.svg",
+      "width": 2080,
+      "height": 580,
+      "assetSHA256": "29532117a9be42ae325d1a96a2764ba2d31950cf1b36b84a2e0b77bd4a5eae35",
+      "caption": "单一价格下，总剩余包括利润与消费者剩余，并存在无谓损失。 完全价格歧视下，企业获取全部剩余；消费者剩余和无谓损失均为零。"
+    },
+    {
+      "volume": "micro",
+      "page": 339,
+      "chapter": 15,
+      "id": "c15-b163",
+      "ref": "图15-10",
+      "title": "自然垄断的边际成本定价",
+      "bbox": [
+        82,
+        925,
+        1028,
+        1369
+      ],
+      "source": "economics-reader/dist/pages/339.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 15,
+      "asset": "textbook-figures/micro-c15-b163.svg",
+      "width": 1040,
+      "height": 580,
+      "assetSHA256": "02af1e165979b5787fe283aa321ff0414883bbdb8024d9bd0ef7729577652980",
+      "caption": "按边际成本定价时，价格低于平均总成本，企业产生亏损；阴影矩形的面积表示亏损额。"
+    },
+    {
+      "volume": "micro",
+      "page": 341,
+      "chapter": 15,
+      "id": "c15-b178",
+      "ref": "表15-2",
+      "title": "竞争与垄断：总结性比较",
+      "bbox": [
+        82,
+        771,
+        1028,
+        1258
+      ],
+      "source": "economics-reader/dist/pages/341.webp",
+      "activeType": "figure",
+      "method": "table",
+      "panels": 1,
+      "kind": "table",
+      "chapterIndex": 15,
+      "rows": [
+        [
+          "项目",
+          "竞争",
+          "垄断"
+        ],
+        [
+          "相似之处",
+          "",
+          ""
+        ],
+        [
+          "企业目标",
+          "利润最大化",
+          "利润最大化"
+        ],
+        [
+          "最大化原则",
+          "MR = MC",
+          "MR = MC"
+        ],
+        [
+          "短期中能赚到经济利润吗？",
+          "能",
+          "能"
+        ],
+        [
+          "不同之处",
+          "",
+          ""
+        ],
+        [
+          "企业数量",
+          "许多",
+          "一家"
+        ],
+        [
+          "边际收益",
+          "MR = P",
+          "MR < P"
+        ],
+        [
+          "价格",
+          "P = MC",
+          "P > MC"
+        ],
+        [
+          "能生产出使福利最大化的产量水平吗？",
+          "能",
+          "不能"
+        ],
+        [
+          "长期中能进入吗？",
+          "能",
+          "不能"
+        ],
+        [
+          "长期中能赚到经济利润吗？",
+          "不能",
+          "能"
+        ],
+        [
+          "有价格歧视的可能性吗？",
+          "没有",
+          "有"
+        ]
+      ]
+    },
+    {
+      "volume": "micro",
+      "page": 350,
+      "chapter": 16,
+      "id": "c16-b16",
+      "ref": "图16-1",
+      "title": "市场结构的四种类型",
+      "bbox": [
+        82,
+        464,
+        1028,
+        959
+      ],
+      "source": "economics-reader/dist/pages/350.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 16,
+      "asset": "textbook-figures/micro-c16-b16.svg",
+      "width": 920,
+      "height": 620,
+      "assetSHA256": "6b603e3d83ea45de6a77483a2359d2db758b506b71332012894b835081581d5b",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 352,
+      "chapter": 16,
+      "id": "c16-b29",
+      "ref": "图16-2",
+      "title": "短期中的垄断竞争企业",
+      "bbox": [
+        82,
+        337,
+        1028,
+        685
+      ],
+      "source": "economics-reader/dist/pages/352.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 2,
+      "kind": "figure",
+      "chapterIndex": 16,
+      "asset": "textbook-figures/micro-c16-b29.svg",
+      "width": 920,
+      "height": 1120,
+      "assetSHA256": "bdce55a7a284ee019d6b011beb6badb8e2204c9c6d43f0b4409527b844cc1972",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 353,
+      "chapter": 16,
+      "id": "c16-b35",
+      "ref": "图16-3",
+      "title": "长期中的垄断竞争企业",
+      "bbox": [
+        82,
+        121,
+        1028,
+        604
+      ],
+      "source": "economics-reader/dist/pages/353.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 16,
+      "asset": "textbook-figures/micro-c16-b35.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "9e58b17bc3c9d16478165d191f2be50105ed1121c09e4b2d9cb617990f22dc3e",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 354,
+      "chapter": 16,
+      "id": "c16-b44",
+      "ref": "图16-4",
+      "title": "垄断竞争与完全竞争",
+      "bbox": [
+        82,
+        364,
+        1028,
+        723
+      ],
+      "source": "economics-reader/dist/pages/354.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 2,
+      "kind": "figure",
+      "chapterIndex": 16,
+      "asset": "textbook-figures/micro-c16-b44.svg",
+      "width": 920,
+      "height": 1120,
+      "assetSHA256": "ea12295a3765dab438c229cf3d5d26fa76eb05ebff75b34575a8735ae71905ee",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 361,
+      "chapter": 16,
+      "id": "c16-b102",
+      "ref": "表16-1",
+      "title": "垄断竞争：在完全竞争与垄断之间",
+      "bbox": [
+        82,
+        405,
+        1028,
+        1048
+      ],
+      "source": "economics-reader/dist/pages/361.webp",
+      "activeType": "figure",
+      "method": "table",
+      "panels": 1,
+      "kind": "table",
+      "chapterIndex": 16,
+      "rows": [
+        [
+          "项目",
+          "完全竞争",
+          "垄断竞争",
+          "垄断"
+        ],
+        [
+          "三种市场结构的相同特征",
+          "",
+          "",
+          ""
+        ],
+        [
+          "企业目标",
+          "利润最大化",
+          "利润最大化",
+          "利润最大化"
+        ],
+        [
+          "最大化原则",
+          "MR = MC",
+          "MR = MC",
+          "MR = MC"
+        ],
+        [
+          "短期中能赚到经济利润吗？",
+          "能",
+          "能",
+          "能"
+        ],
+        [
+          "垄断竞争与垄断的共同特征",
+          "",
+          "",
+          ""
+        ],
+        [
+          "是价格接受者吗？",
+          "是",
+          "不是",
+          "不是"
+        ],
+        [
+          "价格",
+          "P = MC",
+          "P > MC",
+          "P > MC"
+        ],
+        [
+          "能生产出福利最大化的产量水平吗？",
+          "能",
+          "不能",
+          "不能"
+        ],
+        [
+          "垄断竞争与完全竞争的共同特征",
+          "",
+          "",
+          ""
+        ],
+        [
+          "企业数量",
+          "许多",
+          "许多",
+          "一家"
+        ],
+        [
+          "长期中能进入吗？",
+          "能",
+          "能",
+          "不能"
+        ],
+        [
+          "长期中能赚到经济利润吗？",
+          "不能",
+          "不能",
+          "能"
+        ]
+      ]
+    },
+    {
+      "volume": "micro",
+      "page": 366,
+      "chapter": 17,
+      "id": "c17-b10",
+      "ref": "表17-1",
+      "title": "水的需求表",
+      "bbox": [
+        82,
+        911,
+        1028,
+        1388
+      ],
+      "source": "economics-reader/dist/pages/366.webp",
+      "activeType": "figure",
+      "method": "table",
+      "panels": 1,
+      "kind": "table",
+      "chapterIndex": 17,
+      "rows": [
+        [
+          "水量（加仑）",
+          "价格（美元）",
+          "总收益（美元）"
+        ],
+        [
+          0,
+          120,
+          0
+        ],
+        [
+          10,
+          110,
+          1100
+        ],
+        [
+          20,
+          100,
+          2000
+        ],
+        [
+          30,
+          90,
+          2700
+        ],
+        [
+          40,
+          80,
+          3200
+        ],
+        [
+          50,
+          70,
+          3500
+        ],
+        [
+          60,
+          60,
+          3600
+        ],
+        [
+          70,
+          50,
+          3500
+        ],
+        [
+          80,
+          40,
+          3200
+        ],
+        [
+          90,
+          30,
+          2700
+        ],
+        [
+          100,
+          20,
+          2000
+        ],
+        [
+          110,
+          10,
+          1100
+        ],
+        [
+          120,
+          0,
+          0
+        ]
+      ]
+    },
+    {
+      "volume": "micro",
+      "page": 371,
+      "chapter": 17,
+      "id": "c17-b50",
+      "ref": "图17-1",
+      "title": "囚徒困境",
+      "bbox": [
+        82,
+        867,
+        1028,
+        1269
+      ],
+      "source": "economics-reader/dist/pages/371.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 17,
+      "asset": "textbook-figures/micro-c17-b50.svg",
+      "width": 850,
+      "height": 410,
+      "assetSHA256": "a32756d0b958db864d6861a6567cb175b9c43919b7383ecf8a044cca356e3a48",
+      "caption": "每个人得到的刑期既取决于自己是否坦白的个人决策，又取决于另一个罪犯所做出的决策。"
+    },
+    {
+      "volume": "micro",
+      "page": 373,
+      "chapter": 17,
+      "id": "c17-b60",
+      "ref": "图17-2",
+      "title": "Jack和Jill的寡头博弈",
+      "bbox": [
+        82,
+        112,
+        1028,
+        512
+      ],
+      "source": "economics-reader/dist/pages/373.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 17,
+      "asset": "textbook-figures/micro-c17-b60.svg",
+      "width": 850,
+      "height": 410,
+      "assetSHA256": "fea46dc823a26bba68d8fae62b9db35ca7e86d9f6d8cecc07ed70308da23a909",
+      "caption": "每个人出售水时所赚到的利润都取决于自己选择出售的数量，也取决于对方选择出售的数量。"
+    },
+    {
+      "volume": "micro",
+      "page": 375,
+      "chapter": 17,
+      "id": "c17-b76",
+      "ref": "图17-3",
+      "title": "军备竞赛博弈",
+      "bbox": [
+        82,
+        116,
+        1028,
+        500
+      ],
+      "source": "economics-reader/dist/pages/375.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 17,
+      "asset": "textbook-figures/micro-c17-b76.svg",
+      "width": 850,
+      "height": 410,
+      "assetSHA256": "4fe12a5135a20f8a041924cfa33527102c6e52da937b0d1ff10f565d2646e825",
+      "caption": "每个国家的安全程度与力量强弱取决于本国是否加强军备的决策，以及另一个国家做出的决策。"
+    },
+    {
+      "volume": "micro",
+      "page": 375,
+      "chapter": 17,
+      "id": "c17-b81",
+      "ref": "图17-4",
+      "title": "公共资源博弈",
+      "bbox": [
+        82,
+        974,
+        1028,
+        1372
+      ],
+      "source": "economics-reader/dist/pages/375.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 17,
+      "asset": "textbook-figures/micro-c17-b81.svg",
+      "width": 850,
+      "height": 410,
+      "assetSHA256": "ac57033fb11373ab293794e62a025616c0e404616ba6e0d57009aaca02a09677",
+      "caption": "从公共油田中采油时，每个企业的利润既取决于本企业钻井的数量，又取决于另一个企业钻井的数量。"
+    },
+    {
+      "volume": "micro",
+      "page": 393,
+      "chapter": 18,
+      "id": "c18-b9",
+      "ref": "图18-1",
+      "title": "供给与需求的多功能性",
+      "bbox": [
+        82,
+        785,
+        1028,
+        1134
+      ],
+      "source": "economics-reader/dist/pages/393.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 2,
+      "kind": "figure",
+      "chapterIndex": 18,
+      "asset": "textbook-figures/micro-c18-b9.svg",
+      "width": 920,
+      "height": 1120,
+      "assetSHA256": "7c857f6e0eca78ac13ff4f7bcba0d06caef66d9c82359875b4b314efe7e88cbc",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 394,
+      "chapter": 18,
+      "id": "c18-b17",
+      "ref": "表18-1",
+      "title": "竞争企业如何决定雇用的工人数量",
+      "bbox": [
+        82,
+        969,
+        1028,
+        1400
+      ],
+      "source": "economics-reader/dist/pages/394.webp",
+      "activeType": "figure",
+      "method": "table",
+      "panels": 1,
+      "kind": "table",
+      "chapterIndex": 18,
+      "rows": [
+        [
+          "L",
+          "Q（蒲式耳/周）",
+          "新增工人MPL",
+          "VMPL$",
+          "工资$",
+          "边际利润$"
+        ],
+        [
+          0,
+          0,
+          "—",
+          "—",
+          "—",
+          "—"
+        ],
+        [
+          1,
+          100,
+          100,
+          1000,
+          500,
+          500
+        ],
+        [
+          2,
+          180,
+          80,
+          800,
+          500,
+          300
+        ],
+        [
+          3,
+          240,
+          60,
+          600,
+          500,
+          100
+        ],
+        [
+          4,
+          280,
+          40,
+          400,
+          500,
+          -100
+        ],
+        [
+          5,
+          300,
+          20,
+          200,
+          500,
+          -300
+        ]
+      ]
+    },
+    {
+      "volume": "micro",
+      "page": 395,
+      "chapter": 18,
+      "id": "c18-b20",
+      "ref": "图18-2",
+      "title": "生产函数",
+      "bbox": [
+        82,
+        417,
+        1028,
+        871
+      ],
+      "source": "economics-reader/dist/pages/395.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 18,
+      "asset": "textbook-figures/micro-c18-b20.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "bb23cd794769463155fc21f63295f77aa56d2992ac290d02a953753dfb852e25",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 397,
+      "chapter": 18,
+      "id": "c18-b30",
+      "ref": "图18-3",
+      "title": "劳动的边际产量值",
+      "bbox": [
+        82,
+        236,
+        1028,
+        679
+      ],
+      "source": "economics-reader/dist/pages/397.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 18,
+      "asset": "textbook-figures/micro-c18-b30.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "05342b6d8226e4425f05316b3203321aab8484a3cad8c59fcc0d5e675c4697e1",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 401,
+      "chapter": 18,
+      "id": "c18-b65",
+      "ref": "图18-4",
+      "title": "劳动市场的均衡",
+      "bbox": [
+        82,
+        668,
+        1028,
+        1130
+      ],
+      "source": "economics-reader/dist/pages/401.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 18,
+      "asset": "textbook-figures/micro-c18-b65.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "12ad446a292979acea9fa4a3d176172de3c32cf9d06d435e72c41798a372773d",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 402,
+      "chapter": 18,
+      "id": "c18-b69",
+      "ref": "图18-5",
+      "title": "劳动供给的移动",
+      "bbox": [
+        82,
+        501,
+        1028,
+        962
+      ],
+      "source": "economics-reader/dist/pages/402.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 18,
+      "asset": "textbook-figures/micro-c18-b69.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "b1c76d48520c26e12c4cb3575426c63ff7ff3983ca7419a1c2b902bfd7658158",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 405,
+      "chapter": 18,
+      "id": "c18-b95",
+      "ref": "图18-6",
+      "title": "劳动需求的移动",
+      "bbox": [
+        82,
+        457,
+        1028,
+        928
+      ],
+      "source": "economics-reader/dist/pages/405.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 18,
+      "asset": "textbook-figures/micro-c18-b95.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "f97b76d89181e155e42fcf1d6611e30222b91cffb0ee6ce1461c301aef53d777",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 406,
+      "chapter": 18,
+      "id": "c18-b101",
+      "ref": "表18-2",
+      "title": "美国的生产率与工资增长情况",
+      "bbox": [
+        82,
+        608,
+        1028,
+        904
+      ],
+      "source": "economics-reader/dist/pages/406.webp",
+      "activeType": "figure",
+      "method": "table",
+      "panels": 1,
+      "kind": "table",
+      "chapterIndex": 18,
+      "rows": [
+        [
+          "时间",
+          "生产率年增长率 %",
+          "实际工资年增长率 %"
+        ],
+        [
+          "1960—2015",
+          2,
+          1.8
+        ],
+        [
+          "1960—1973",
+          2.7,
+          2.7
+        ],
+        [
+          "1973—1995",
+          1.4,
+          1.2
+        ],
+        [
+          "1995—2015",
+          2.1,
+          1.8
+        ]
+      ]
+    },
+    {
+      "volume": "micro",
+      "page": 408,
+      "chapter": 18,
+      "id": "c18-b118",
+      "ref": "图18-7",
+      "title": "土地和资本市场",
+      "bbox": [
+        82,
+        781,
+        1028,
+        1114
+      ],
+      "source": "economics-reader/dist/pages/408.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 2,
+      "kind": "figure",
+      "chapterIndex": 18,
+      "asset": "textbook-figures/micro-c18-b118.svg",
+      "width": 920,
+      "height": 1120,
+      "assetSHA256": "b27f3d4b606f216071d0275f4d56833fde80123c445c8704ddc95f9186ae4cb1",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 418,
+      "chapter": 19,
+      "id": "c19-b19",
+      "ref": "表19-1",
+      "title": "不同受教育程度的人的平均年收入",
+      "bbox": [
+        82,
+        785,
+        1028,
+        1060
+      ],
+      "source": "economics-reader/dist/pages/418.webp",
+      "activeType": "figure",
+      "method": "table",
+      "panels": 1,
+      "kind": "table",
+      "chapterIndex": 19,
+      "rows": [
+        [
+          "组别",
+          "1974年（美元）",
+          "2014年（美元）"
+        ],
+        [
+          "男性：高中、未上大学",
+          52521,
+          46688
+        ],
+        [
+          "男性：大学毕业",
+          74801,
+          84567
+        ],
+        [
+          "男性：大学毕业生高出",
+          "42%",
+          "81%"
+        ],
+        [
+          "女性：高中、未上大学",
+          30185,
+          34394
+        ],
+        [
+          "女性：大学毕业",
+          40831,
+          58894
+        ],
+        [
+          "女性：大学毕业生高出",
+          "35%",
+          "71%"
+        ]
+      ]
+    },
+    {
+      "volume": "micro",
+      "page": 424,
+      "chapter": 19,
+      "id": "c19-b66",
+      "ref": "表19-2",
+      "title": "不同种族与性别的中值年收入",
+      "bbox": [
+        82,
+        139,
+        1028,
+        396
+      ],
+      "source": "economics-reader/dist/pages/424.webp",
+      "activeType": "figure",
+      "method": "table",
+      "panels": 1,
+      "kind": "table",
+      "chapterIndex": 19,
+      "rows": [
+        [
+          "组别",
+          "白人（美元）",
+          "黑人（美元）",
+          "黑人工人收入低出的比例"
+        ],
+        [
+          "男性",
+          51022,
+          40719,
+          "20%"
+        ],
+        [
+          "女性",
+          40439,
+          33533,
+          "17%"
+        ],
+        [
+          "女性工人收入低出的比例",
+          "21%",
+          "18%",
+          "—"
+        ]
+      ],
+      "note": "教材历史统计。未调整的收入差距不能单独识别歧视的因果影响。"
+    },
+    {
+      "volume": "micro",
+      "page": 433,
+      "chapter": 20,
+      "id": "c20-b13",
+      "ref": "表20-1",
+      "title": "美国的收入分配：2014年",
+      "bbox": [
+        82,
+        758,
+        1028,
+        1084
+      ],
+      "source": "economics-reader/dist/pages/433.webp",
+      "activeType": "figure",
+      "method": "table",
+      "panels": 1,
+      "kind": "table",
+      "chapterIndex": 20,
+      "rows": [
+        [
+          "家庭收入组",
+          "家庭年收入（美元）"
+        ],
+        [
+          "最低1/5",
+          "29,100及以下"
+        ],
+        [
+          "次低1/5",
+          "29,101—52,697"
+        ],
+        [
+          "中间1/5",
+          "52,698—82,032"
+        ],
+        [
+          "次高1/5",
+          "82,033—129,006"
+        ],
+        [
+          "最高1/5",
+          "129,007及以上"
+        ],
+        [
+          "最高5%",
+          "230,030及以上"
+        ]
+      ]
+    },
+    {
+      "volume": "micro",
+      "page": 434,
+      "chapter": 20,
+      "id": "c20-b16",
+      "ref": "表20-2",
+      "title": "美国的收入不平等状况",
+      "bbox": [
+        82,
+        137,
+        1028,
+        574
+      ],
+      "source": "economics-reader/dist/pages/434.webp",
+      "activeType": "figure",
+      "method": "table",
+      "panels": 1,
+      "kind": "table",
+      "chapterIndex": 20,
+      "rows": [
+        [
+          "年份",
+          "最低1/5 %",
+          "次低1/5 %",
+          "中间1/5 %",
+          "次高1/5 %",
+          "最高1/5 %",
+          "最高5% %"
+        ],
+        [
+          2014,
+          3.6,
+          9.2,
+          15.1,
+          23.2,
+          48.9,
+          20.8
+        ],
+        [
+          2010,
+          3.8,
+          9.4,
+          15.4,
+          23.5,
+          47.9,
+          20
+        ],
+        [
+          2000,
+          4.3,
+          9.8,
+          15.4,
+          22.7,
+          47.7,
+          21.1
+        ],
+        [
+          1990,
+          4.6,
+          10.8,
+          16.6,
+          23.8,
+          44.3,
+          17.4
+        ],
+        [
+          1980,
+          5.3,
+          11.6,
+          17.6,
+          24.4,
+          41.1,
+          14.6
+        ],
+        [
+          1970,
+          5.4,
+          12.2,
+          17.6,
+          23.8,
+          40.9,
+          15.6
+        ],
+        [
+          1960,
+          4.8,
+          12.2,
+          17.8,
+          24,
+          41.3,
+          15.9
+        ],
+        [
+          1950,
+          4.5,
+          12,
+          17.4,
+          23.4,
+          42.7,
+          17.3
+        ],
+        [
+          1935,
+          4.1,
+          9.2,
+          14.1,
+          20.9,
+          51.7,
+          26.5
+        ]
+      ]
+    },
+    {
+      "volume": "micro",
+      "page": 435,
+      "chapter": 20,
+      "id": "c20-b23",
+      "ref": "图20-1",
+      "title": "世界各国的收入不平等状况",
+      "bbox": [
+        82,
+        287,
+        1028,
+        811
+      ],
+      "source": "economics-reader/dist/pages/435.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 20,
+      "asset": "textbook-figures/micro-c20-b23.svg",
+      "width": 920,
+      "height": 765,
+      "assetSHA256": "c0d61d5d5d1ba81c20d08f0988ab467c3d52735580e4f38a1ea09f11a01824b7",
+      "redrawMethod": "semantic",
+      "caption": "资料来源：Human Development Report 2011；比值沿用原书。"
+    },
+    {
+      "volume": "micro",
+      "page": 437,
+      "chapter": 20,
+      "id": "c20-b44",
+      "ref": "图20-2",
+      "title": "贫困率",
+      "bbox": [
+        82,
+        949,
+        1028,
+        1380
+      ],
+      "source": "economics-reader/dist/pages/437.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 20,
+      "asset": "textbook-figures/micro-c20-b44.svg",
+      "width": 920,
+      "height": 620,
+      "assetSHA256": "daa3203c50b6c5c501dd3902a6e4b15fc192ed886b799bbb2e5c4031397e4dfa",
+      "redrawMethod": "digitized-series",
+      "caption": "历史线条由原书图中的轨迹数字化重绘；沿用该版本的年份、单位和基期。 历史曲线按原书读数重绘，数值为近似值。",
+      "dataPrecision": "原书印刷图读数近似；不是原始统计数据",
+      "dataSource": "scripts/source-series-paths.json"
+    },
+    {
+      "volume": "micro",
+      "page": 438,
+      "chapter": 20,
+      "id": "c20-b47",
+      "ref": "表20-3",
+      "title": "谁是穷人",
+      "bbox": [
+        82,
+        432,
+        1028,
+        822
+      ],
+      "source": "economics-reader/dist/pages/438.webp",
+      "activeType": "figure",
+      "method": "table",
+      "panels": 1,
+      "kind": "table",
+      "chapterIndex": 20,
+      "rows": [
+        [
+          "群体",
+          "贫困率（%）"
+        ],
+        [
+          "总人口",
+          14.8
+        ],
+        [
+          "白人（非西班牙裔）",
+          10.1
+        ],
+        [
+          "黑人",
+          26.2
+        ],
+        [
+          "西班牙裔",
+          23.6
+        ],
+        [
+          "亚裔",
+          12.0
+        ],
+        [
+          "孩子（18岁以下）",
+          21.1
+        ],
+        [
+          "老人（65岁以上）",
+          10.0
+        ],
+        [
+          "已婚夫妇家庭",
+          6.2
+        ],
+        [
+          "没有丈夫的妇女作为家长的家庭",
+          33.1
+        ]
+      ]
+    },
+    {
+      "volume": "micro",
+      "page": 457,
+      "chapter": 21,
+      "id": "c21-b13",
+      "ref": "图21-1",
+      "title": "消费者的预算约束线",
+      "bbox": [
+        82,
+        614,
+        1028,
+        1380
+      ],
+      "source": "economics-reader/dist/pages/457.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 2,
+      "kind": "figure",
+      "chapterIndex": 21,
+      "asset": "textbook-figures/micro-c21-b13.svg",
+      "width": 920,
+      "height": 1181,
+      "assetSHA256": "d4538b3d8e04cb80b4a34abc264af777c74ce1ada58496a6fd8cd4a371296fcf",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 459,
+      "chapter": 21,
+      "id": "c21-b25",
+      "ref": "图21-2",
+      "title": "消费者偏好",
+      "bbox": [
+        82,
+        420,
+        1028,
+        877
+      ],
+      "source": "economics-reader/dist/pages/459.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 21,
+      "asset": "textbook-figures/micro-c21-b25.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "acce1e1e76431c8b1a1cc8eef7ecdc84b25735592bf204687056decec76acf7a",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 467,
+      "chapter": 21,
+      "id": "c21-b83",
+      "ref": "图21-4",
+      "title": "凸向原点的无差异曲线",
+      "bbox": [
+        82,
+        650,
+        1028,
+        1122
+      ],
+      "source": "economics-reader/dist/pages/467.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 21,
+      "asset": "textbook-figures/micro-c21-b83.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "26d964833069e5c8e6aab698bba40fb29b633e0147834cb8f927ecc4400c67c9",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 468,
+      "chapter": 21,
+      "id": "c21-b89",
+      "ref": "图21-5",
+      "title": "完全替代品和完全互补品",
+      "bbox": [
+        82,
+        468,
+        1028,
+        836
+      ],
+      "source": "economics-reader/dist/pages/468.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 2,
+      "kind": "figure",
+      "chapterIndex": 21,
+      "asset": "textbook-figures/micro-c21-b89.svg",
+      "width": 920,
+      "height": 1120,
+      "assetSHA256": "045b6b0dbc79d086fe9f81caf7ce4aba2bdddcbc5e610f129dcf49e76df180ac",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 469,
+      "chapter": 21,
+      "id": "c21-b101",
+      "ref": "图21-6",
+      "title": "消费者最优点",
+      "bbox": [
+        82,
+        889,
+        1028,
+        1385
+      ],
+      "source": "economics-reader/dist/pages/469.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 21,
+      "asset": "textbook-figures/micro-c21-b101.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "5fc4d5eef5b54439df6fb35dba6958b0edbbf898c5b9761a8d995f8880da2ccb",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 471,
+      "chapter": 21,
+      "id": "c21-b114",
+      "ref": "图21-7",
+      "title": "收入增加",
+      "bbox": [
+        82,
+        888,
+        1028,
+        1394
+      ],
+      "source": "economics-reader/dist/pages/471.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 21,
+      "asset": "textbook-figures/micro-c21-b114.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "c2c5eb992c68ea2e0309eb8381b50754cada11e87209b6132bafc6710d5ce2ee",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 472,
+      "chapter": 21,
+      "id": "c21-b118",
+      "ref": "图21-8",
+      "title": "低档物品",
+      "bbox": [
+        82,
+        587,
+        1028,
+        1099
+      ],
+      "source": "economics-reader/dist/pages/472.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 21,
+      "asset": "textbook-figures/micro-c21-b118.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "5f57813d464e6364376301463e6a5895fe51bc430317e8573c8c565ea04ab72c",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 473,
+      "chapter": 21,
+      "id": "c21-b124",
+      "ref": "图21-9",
+      "title": "价格变动",
+      "bbox": [
+        82,
+        351,
+        1028,
+        881
+      ],
+      "source": "economics-reader/dist/pages/473.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 21,
+      "asset": "textbook-figures/micro-c21-b124.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "e6de4eef9d152b75f2b2af53a2293b19ea699d4eedb7f81dd9b0e9a358a97848",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 474,
+      "chapter": 21,
+      "id": "c21-b133",
+      "ref": "表21-1",
+      "title": "百事可乐价格下降时的收入效应与替代效应",
+      "bbox": [
+        82,
+        735,
+        1028,
+        1068
+      ],
+      "source": "economics-reader/dist/pages/474.webp",
+      "activeType": "figure",
+      "method": "table",
+      "panels": 1,
+      "kind": "table",
+      "chapterIndex": 21,
+      "rows": [
+        [
+          "物品",
+          "收入效应",
+          "替代效应",
+          "总效应"
+        ],
+        [
+          "百事可乐",
+          "消费者变得更富有了，因此他会购买更多百事可乐。",
+          "百事可乐相对更便宜了，因此消费者会购买更多百事可乐。",
+          "收入效应与替代效应同方向发生作用，因此消费者会购买更多百事可乐。"
+        ],
+        [
+          "比萨饼",
+          "消费者变得更富有了，因此他会购买更多比萨饼。",
+          "比萨饼相对更贵了，因此消费者会购买更少比萨饼。",
+          "收入效应与替代效应反方向发生作用，因此比萨饼消费量的总变动不确定。"
+        ]
+      ]
+    },
+    {
+      "volume": "micro",
+      "page": 475,
+      "chapter": 21,
+      "id": "c21-b136",
+      "ref": "图21-10",
+      "title": "收入效应与替代效应",
+      "bbox": [
+        82,
+        194,
+        1028,
+        784
+      ],
+      "source": "economics-reader/dist/pages/475.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 21,
+      "asset": "textbook-figures/micro-c21-b136.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "33e6992a3d8832a5825f27a21965e9cd790784034c432dac7f9f27261e21a204",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 476,
+      "chapter": 21,
+      "id": "c21-b141",
+      "ref": "图21-11",
+      "title": "需求曲线的推导",
+      "bbox": [
+        82,
+        146,
+        1028,
+        531
+      ],
+      "source": "economics-reader/dist/pages/476.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 2,
+      "kind": "figure",
+      "chapterIndex": 21,
+      "asset": "textbook-figures/micro-c21-b141.svg",
+      "width": 920,
+      "height": 1120,
+      "assetSHA256": "d9062c0b291855cd51f1e12cbb3c262ead272ee9d2d3001250d2a6ffc8f655c7",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 477,
+      "chapter": 21,
+      "id": "c21-b150",
+      "ref": "图21-12",
+      "title": "吉芬物品",
+      "bbox": [
+        82,
+        226,
+        1028,
+        713
+      ],
+      "source": "economics-reader/dist/pages/477.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 21,
+      "asset": "textbook-figures/micro-c21-b150.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "8f3cf8b11c2a7007ed99e02f4974b58be646d5d5b131eea12695ea8264eac83e",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 478,
+      "chapter": 21,
+      "id": "c21-b161",
+      "ref": "图21-13",
+      "title": "工作一闲暇决策",
+      "bbox": [
+        82,
+        944,
+        1028,
+        1410
+      ],
+      "source": "economics-reader/dist/pages/478.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 21,
+      "asset": "textbook-figures/micro-c21-b161.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "4c41ecc19537c0d235a5a9032f6482616f4516516e704a8a02e581c6c5650cf8",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 479,
+      "chapter": 21,
+      "id": "c21-b165",
+      "ref": "图21-14",
+      "title": "工资增加",
+      "bbox": [
+        82,
+        579,
+        1028,
+        1266
+      ],
+      "source": "economics-reader/dist/pages/479.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 4,
+      "kind": "figure",
+      "chapterIndex": 21,
+      "asset": "textbook-figures/micro-c21-b165.svg",
+      "width": 920,
+      "height": 2240,
+      "assetSHA256": "9faf94f04612bcc983c487709fe3496cdcb593f5a680a84e7d390bbe406e05c9",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 482,
+      "chapter": 21,
+      "id": "c21-b186",
+      "ref": "图21-15",
+      "title": "消费一储蓄决策",
+      "bbox": [
+        82,
+        139,
+        1028,
+        591
+      ],
+      "source": "economics-reader/dist/pages/482.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 21,
+      "asset": "textbook-figures/micro-c21-b186.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "fed94226e8f4501ba457df4f8692cfa738aed5920efd343cafe5195896644c05",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 482,
+      "chapter": 21,
+      "id": "c21-b188",
+      "ref": "图21-16",
+      "title": "利率上升",
+      "bbox": [
+        82,
+        740,
+        1028,
+        1135
+      ],
+      "source": "economics-reader/dist/pages/482.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 2,
+      "kind": "figure",
+      "chapterIndex": 21,
+      "asset": "textbook-figures/micro-c21-b188.svg",
+      "width": 920,
+      "height": 1120,
+      "assetSHA256": "1ced0e9484c835139b895494ee9b1c290727b8294f5dbd7095e8ac1649790d12",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "page": 495,
+      "chapter": 22,
+      "id": "c22-b60",
+      "ref": "表22-1",
+      "title": "康多塞悖论",
+      "bbox": [
+        82,
+        582,
+        1028,
+        818
+      ],
+      "source": "economics-reader/dist/pages/495.webp",
+      "activeType": "figure",
+      "method": "table",
+      "panels": 1,
+      "kind": "table",
+      "chapterIndex": 22,
+      "rows": [
+        [
+          "选民类型",
+          "人数比例",
+          "第一选择",
+          "第二选择",
+          "第三选择"
+        ],
+        [
+          "类型1",
+          "35%",
+          "A",
+          "B",
+          "C"
+        ],
+        [
+          "类型2",
+          "45%",
+          "B",
+          "C",
+          "A"
+        ],
+        [
+          "类型3",
+          "20%",
+          "C",
+          "A",
+          "B"
+        ]
+      ]
+    },
+    {
+      "volume": "micro",
+      "page": 497,
+      "chapter": 22,
+      "id": "c22-b80",
+      "ref": "图22-1",
+      "title": "中值选民定理：一个例子",
+      "bbox": [
+        82,
+        903,
+        1028,
+        1390
+      ],
+      "source": "economics-reader/dist/pages/497.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 22,
+      "asset": "textbook-figures/micro-c22-b80.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "577394e9d4861037873746c3483a6d327033fa878979b056c6492a6dd202a41f",
+      "redrawMethod": "semantic",
+      "caption": "100 位选民中，中值选民偏好的预算为 100 亿美元；横轴单位为 10 亿美元。"
+    },
+    {
+      "volume": "macro",
+      "page": 21,
+      "chapter": 23,
+      "id": "m23-b12",
+      "ref": "图23-1",
+      "title": "循环流量图",
+      "bbox": [
+        89,
+        109,
+        1115,
+        833
+      ],
+      "source": "tmp/macro/pages/21.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 1,
+      "asset": "textbook-figures/macro-m23-b12.svg",
+      "width": 920,
+      "height": 660,
+      "assetSHA256": "7d4ec824911db7de25569a531255fa1a31242f3b1da55e01eeb54e85024e6f14",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "macro",
+      "page": 27,
+      "chapter": 23,
+      "id": "m23-b72",
+      "ref": "表23-1",
+      "title": "2015年美国GDP的组成",
+      "bbox": [
+        89,
+        923,
+        1115,
+        1309
+      ],
+      "source": "tmp/macro/pages/27.webp",
+      "activeType": "figure",
+      "method": "table",
+      "panels": 1,
+      "kind": "table",
+      "chapterIndex": 1,
+      "rows": [
+        [
+          "项目",
+          "总量（10亿美元）",
+          "人均（美元）",
+          "占比%"
+        ],
+        [
+          "GDP",
+          17938,
+          55882,
+          100
+        ],
+        [
+          "消费",
+          12268,
+          38218,
+          68
+        ],
+        [
+          "投资",
+          3018,
+          9402,
+          17
+        ],
+        [
+          "政府购买",
+          3184,
+          9919,
+          18
+        ],
+        [
+          "净出口",
+          -532,
+          -1657,
+          -3
+        ]
+      ]
+    },
+    {
+      "volume": "macro",
+      "page": 30,
+      "chapter": 23,
+      "id": "m23-b95",
+      "ref": "表23-2",
+      "title": "真实GDP与名义GDP",
+      "bbox": [
+        105,
+        555,
+        1110,
+        1460
+      ],
+      "source": "tmp/macro/pages/30.webp",
+      "activeType": "figure",
+      "method": "table",
+      "panels": 4,
+      "kind": "table",
+      "chapterIndex": 1,
+      "sections": [
+        {
+          "title": "价格与产量",
+          "rows": [
+            [
+              "年份",
+              "热狗价格（美元）",
+              "热狗产量（个）",
+              "汉堡包价格（美元）",
+              "汉堡包产量（个）"
+            ],
+            [
+              2016,
+              1,
+              100,
+              2,
+              50
+            ],
+            [
+              2017,
+              2,
+              150,
+              3,
+              100
+            ],
+            [
+              2018,
+              3,
+              200,
+              4,
+              150
+            ]
+          ]
+        },
+        {
+          "title": "计算名义GDP",
+          "rows": [
+            [
+              "年份",
+              "按当年价格计算"
+            ],
+            [
+              2016,
+              "1×100 + 2×50 = 200美元"
+            ],
+            [
+              2017,
+              "2×150 + 3×100 = 600美元"
+            ],
+            [
+              2018,
+              "3×200 + 4×150 = 1,200美元"
+            ]
+          ]
+        },
+        {
+          "title": "计算真实GDP（按2016年价格）",
+          "rows": [
+            [
+              "年份",
+              "按基年价格计算"
+            ],
+            [
+              2016,
+              "1×100 + 2×50 = 200美元"
+            ],
+            [
+              2017,
+              "1×150 + 2×100 = 350美元"
+            ],
+            [
+              2018,
+              "1×200 + 2×150 = 500美元"
+            ]
+          ]
+        },
+        {
+          "title": "计算GDP平减指数",
+          "rows": [
+            [
+              "年份",
+              "名义GDP ÷ 真实GDP × 100"
+            ],
+            [
+              2016,
+              "200÷200×100 = 100"
+            ],
+            [
+              2017,
+              "600÷350×100 ≈ 171"
+            ],
+            [
+              2018,
+              "1,200÷500×100 = 240"
+            ]
+          ]
+        }
+      ],
+      "note": "原书真实GDP栏标题的基年印为2013年，但各行计算使用2016年价格；此处按实际计算标为2016年。"
+    },
+    {
+      "volume": "macro",
+      "page": 32,
+      "chapter": 23,
+      "id": "m23-b112",
+      "ref": "",
+      "title": "通货膨胀率的计算",
+      "bbox": [
+        89,
+        938,
+        1111,
+        1102
+      ],
+      "source": "tmp/macro/pages/32.webp",
+      "activeType": "figure",
+      "method": "typeset",
+      "panels": 1,
+      "kind": "supplement",
+      "chapterIndex": 1
+    },
+    {
+      "volume": "macro",
+      "page": 33,
+      "chapter": 23,
+      "id": "m23-b117",
+      "ref": "图23-2",
+      "title": "美国真实GDP的长期趋势",
+      "bbox": [
+        89,
+        327,
+        1115,
+        906
+      ],
+      "source": "tmp/macro/pages/33.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 1,
+      "asset": "textbook-figures/macro-m23-b117.svg",
+      "width": 920,
+      "height": 620,
+      "assetSHA256": "d8baf57c2921a54ec2de91c8b9ca98d2b880be662bdce887f4b5f383795a25ab",
+      "redrawMethod": "digitized-series",
+      "caption": "历史线条由原书图中的轨迹数字化重绘；沿用该版本的年份、单位和基期。 历史曲线按原书读数重绘，数值为近似值。",
+      "dataPrecision": "原书印刷图读数近似；不是原始统计数据",
+      "dataSource": "scripts/source-series-paths.json"
+    },
+    {
+      "volume": "macro",
+      "page": 38,
+      "chapter": 23,
+      "id": "m23-b162",
+      "ref": "表23-3",
+      "title": "福利指数和人均GDP指数（2000年）",
+      "bbox": [
+        89,
+        375,
+        1110,
+        1309
+      ],
+      "source": "tmp/macro/pages/38.webp",
+      "activeType": "figure",
+      "method": "table",
+      "panels": 1,
+      "kind": "table",
+      "chapterIndex": 1,
+      "rows": [
+        [
+          "国家",
+          "福利指数",
+          "人均GDP指数"
+        ],
+        [
+          "美国",
+          100,
+          100
+        ],
+        [
+          "德国",
+          98,
+          74
+        ],
+        [
+          "法国",
+          97.4,
+          70.1
+        ],
+        [
+          "日本",
+          91.5,
+          72.4
+        ],
+        [
+          "意大利",
+          89.7,
+          69.5
+        ],
+        [
+          "英国",
+          89,
+          69.8
+        ],
+        [
+          "新加坡",
+          43.6,
+          82.9
+        ],
+        [
+          "韩国",
+          29.7,
+          47.1
+        ],
+        [
+          "墨西哥",
+          17.4,
+          25.9
+        ],
+        [
+          "巴西",
+          12.2,
+          21.8
+        ],
+        [
+          "俄罗斯",
+          8.6,
+          20.9
+        ],
+        [
+          "泰国",
+          7.1,
+          18.4
+        ],
+        [
+          "印度尼西亚",
+          6.6,
+          10.8
+        ],
+        [
+          "中国",
+          5.3,
+          11.3
+        ],
+        [
+          "南非",
+          4.4,
+          21.6
+        ],
+        [
+          "印度",
+          3.5,
+          6.6
+        ],
+        [
+          "博茨瓦纳",
+          1.8,
+          17.9
+        ],
+        [
+          "马拉维",
+          0.4,
+          2.9
+        ]
+      ]
+    },
+    {
+      "volume": "macro",
+      "page": 40,
+      "chapter": 23,
+      "id": "m23-b175",
+      "ref": "表23-4",
+      "title": "GDP与生活质量",
+      "bbox": [
+        89,
+        101,
+        1114,
+        723
+      ],
+      "source": "tmp/macro/pages/40.webp",
+      "activeType": "figure",
+      "method": "table",
+      "panels": 1,
+      "kind": "table",
+      "chapterIndex": 1,
+      "rows": [
+        [
+          "国家",
+          "人均真实GDP（美元）",
+          "预期寿命",
+          "上学年限",
+          "生活满意度"
+        ],
+        [
+          "美国",
+          52947,
+          79,
+          13,
+          7.2
+        ],
+        [
+          "德国",
+          43919,
+          81,
+          13,
+          7
+        ],
+        [
+          "日本",
+          36927,
+          83,
+          12,
+          5.9
+        ],
+        [
+          "俄罗斯",
+          22352,
+          70,
+          12,
+          6
+        ],
+        [
+          "墨西哥",
+          16056,
+          77,
+          9,
+          6.7
+        ],
+        [
+          "巴西",
+          15175,
+          74,
+          8,
+          7
+        ],
+        [
+          "中国",
+          12547,
+          76,
+          8,
+          5.2
+        ],
+        [
+          "印度尼西亚",
+          9788,
+          69,
+          8,
+          5.6
+        ],
+        [
+          "印度",
+          5497,
+          68,
+          5,
+          4.4
+        ],
+        [
+          "尼日利亚",
+          5431,
+          53,
+          6,
+          4.8
+        ],
+        [
+          "巴基斯坦",
+          4866,
+          66,
+          5,
+          5.4
+        ],
+        [
+          "孟加拉国",
+          3191,
+          72,
+          5,
+          4.6
+        ]
+      ],
+      "note": "据教材表23-4：GDP为2014年数值、按2011年价格，上学年限针对25岁及以上成年人。"
+    },
+    {
+      "volume": "macro",
+      "page": 47,
+      "chapter": 24,
+      "id": "m24-b14",
+      "ref": "表24-1",
+      "title": "计算CPI和通货膨胀率的一个例子",
+      "bbox": [
+        95,
+        95,
+        1115,
+        925
+      ],
+      "source": "tmp/macro/pages/47.webp",
+      "activeType": "figure",
+      "method": "table",
+      "panels": 5,
+      "kind": "table",
+      "chapterIndex": 2,
+      "sections": [
+        {
+          "title": "第一步：确定消费篮子",
+          "text": "4个热狗、2个汉堡包。"
+        },
+        {
+          "title": "第二步：找出每年的价格",
+          "rows": [
+            [
+              "年份",
+              "热狗价格（美元）",
+              "汉堡包价格（美元）"
+            ],
+            [
+              2016,
+              1,
+              2
+            ],
+            [
+              2017,
+              2,
+              3
+            ],
+            [
+              2018,
+              3,
+              4
+            ]
+          ]
+        },
+        {
+          "title": "第三步：计算每年一篮子物品的费用",
+          "rows": [
+            [
+              "年份",
+              "计算"
+            ],
+            [
+              2016,
+              "1×4 + 2×2 = 8美元"
+            ],
+            [
+              2017,
+              "2×4 + 3×2 = 14美元"
+            ],
+            [
+              2018,
+              "3×4 + 4×2 = 20美元"
+            ]
+          ]
+        },
+        {
+          "title": "第四步：选择基年2016年并计算CPI",
+          "rows": [
+            [
+              "年份",
+              "CPI"
+            ],
+            [
+              2016,
+              "8÷8×100 = 100"
+            ],
+            [
+              2017,
+              "14÷8×100 = 175"
+            ],
+            [
+              2018,
+              "20÷8×100 = 250"
+            ]
+          ]
+        },
+        {
+          "title": "第五步：计算通货膨胀率",
+          "rows": [
+            [
+              "年份",
+              "与上一年相比"
+            ],
+            [
+              2017,
+              "(175−100)÷100×100% = 75%"
+            ],
+            [
+              2018,
+              "(250−175)÷175×100% ≈ 43%"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "volume": "macro",
+      "page": 48,
+      "chapter": 24,
+      "id": "m24-b25",
+      "ref": "图24-1",
+      "title": "消费篮子的支出构成",
+      "bbox": [
+        89,
+        841,
+        1111,
+        1367
+      ],
+      "source": "tmp/macro/pages/48.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 2,
+      "asset": "textbook-figures/macro-m24-b25.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "06cc5118ac30812c737640fd3f0a2d179f1a1f5c5123c433431da191b9dc91bd",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "macro",
+      "page": 53,
+      "chapter": 24,
+      "id": "m24-b56",
+      "ref": "图24-2",
+      "title": "通胀的两个衡量指标",
+      "bbox": [
+        89,
+        949,
+        1115,
+        1565
+      ],
+      "source": "tmp/macro/pages/53.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 2,
+      "asset": "textbook-figures/macro-m24-b56.svg",
+      "width": 920,
+      "height": 620,
+      "assetSHA256": "ea5e4e9639e63c55f6420de383fcfee06b4bd84510ccdad90025dac3a1304c66",
+      "redrawMethod": "digitized-series",
+      "caption": "历史线条由原书图中的轨迹数字化重绘；沿用该版本的年份、单位和基期。 历史曲线按原书读数重绘，数值为近似值。",
+      "dataPrecision": "原书印刷图读数近似；不是原始统计数据",
+      "dataSource": "scripts/source-series-paths.json"
+    },
+    {
+      "volume": "macro",
+      "page": 55,
+      "chapter": 24,
+      "id": "m24-b70",
+      "ref": "",
+      "title": "跨期购买力换算",
+      "bbox": [
+        89,
+        282,
+        1114,
+        486
+      ],
+      "source": "tmp/macro/pages/55.webp",
+      "activeType": "figure",
+      "method": "typeset",
+      "panels": 1,
+      "kind": "supplement",
+      "chapterIndex": 2
+    },
+    {
+      "volume": "macro",
+      "page": 57,
+      "chapter": 24,
+      "id": "m24-b88",
+      "ref": "图24-3",
+      "title": "生活费用的地区差别（2013年）",
+      "bbox": [
+        105,
+        95,
+        1110,
+        1425
+      ],
+      "source": "tmp/macro/pages/57.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 2,
+      "asset": "textbook-figures/macro-m24-b88.svg",
+      "width": 920,
+      "height": 1757,
+      "assetSHA256": "fed39bafdc96243c7d3a13231dcadd99dbaa50466fc724ec2082730094c63bb9",
+      "redrawMethod": "semantic",
+      "caption": "美国平均 = 100；逐项沿用原书标注数值。"
+    },
+    {
+      "volume": "macro",
+      "page": 60,
+      "chapter": 24,
+      "id": "m24-b107",
+      "ref": "图24-4",
+      "title": "真实利率与名义利率",
+      "bbox": [
+        89,
+        98,
+        1112,
+        678
+      ],
+      "source": "tmp/macro/pages/60.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 2,
+      "asset": "textbook-figures/macro-m24-b107.svg",
+      "width": 920,
+      "height": 620,
+      "assetSHA256": "e9ebeb516c7262c7afa258545ebc17e1766366c3c918560cda61f243dc111d20",
+      "redrawMethod": "digitized-series",
+      "caption": "历史线条由原书图中的轨迹数字化重绘；沿用该版本的年份、单位和基期。 历史曲线按原书读数重绘，数值为近似值。",
+      "dataPrecision": "原书印刷图读数近似；不是原始统计数据",
+      "dataSource": "scripts/source-series-paths.json"
+    },
+    {
+      "volume": "macro",
+      "page": 67,
+      "chapter": 25,
+      "id": "m25-b8",
+      "ref": "表25-1",
+      "title": "不同的增长经历",
+      "bbox": [
+        89,
+        771,
+        1112,
+        1510
+      ],
+      "source": "tmp/macro/pages/67.webp",
+      "activeType": "figure",
+      "method": "table",
+      "panels": 1,
+      "kind": "table",
+      "chapterIndex": 3,
+      "rows": [
+        [
+          "国家",
+          "时期",
+          "期初人均真实GDP",
+          "期末人均真实GDP",
+          "年增长率%"
+        ],
+        [
+          "巴西",
+          "1900—2014",
+          828,
+          15590,
+          2.61
+        ],
+        [
+          "日本",
+          "1890—2014",
+          1600,
+          37920,
+          2.59
+        ],
+        [
+          "中国",
+          "1900—2014",
+          762,
+          13170,
+          2.53
+        ],
+        [
+          "墨西哥",
+          "1900—2014",
+          1233,
+          16640,
+          2.31
+        ],
+        [
+          "德国",
+          "1870—2014",
+          2324,
+          46850,
+          2.11
+        ],
+        [
+          "印度尼西亚",
+          "1900—2014",
+          948,
+          10190,
+          2.1
+        ],
+        [
+          "加拿大",
+          "1870—2014",
+          2527,
+          43360,
+          1.99
+        ],
+        [
+          "印度",
+          "1900—2014",
+          718,
+          5630,
+          1.82
+        ],
+        [
+          "美国",
+          "1870—2014",
+          4264,
+          55860,
+          1.8
+        ],
+        [
+          "巴基斯坦",
+          "1900—2014",
+          785,
+          5090,
+          1.65
+        ],
+        [
+          "阿根廷",
+          "1900—2014",
+          2440,
+          12510,
+          1.44
+        ],
+        [
+          "孟加拉国",
+          "1900—2014",
+          663,
+          3330,
+          1.43
+        ],
+        [
+          "英国",
+          "1870—2014",
+          5117,
+          39040,
+          1.42
+        ]
+      ],
+      "note": "真实GDP以2014年美元衡量。资料来源：Robert J. Barro、Xavier Sala-i-Martin；世界银行。"
+    },
+    {
+      "volume": "macro",
+      "page": 76,
+      "chapter": 25,
+      "id": "m25-b70",
+      "ref": "图25-1",
+      "title": "生产函数图示",
+      "bbox": [
+        89,
+        650,
+        1115,
+        1294
+      ],
+      "source": "tmp/macro/pages/76.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 3,
+      "asset": "textbook-figures/macro-m25-b70.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "b941974f568f9fa7f7c3185aad84b62b6ebcb702cfda5097d9cd557dd92d5664",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "macro",
+      "page": 100,
+      "chapter": 26,
+      "id": "m26-extra73",
+      "ref": "图26-1",
+      "title": "可贷资金市场",
+      "bbox": [
+        89,
+        1010,
+        1113,
+        1572
+      ],
+      "source": "tmp/macro/pages/100.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 4,
+      "asset": "textbook-figures/macro-m26-extra73.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "2382971c50f5259b06d8ab241f918c96e5392061a2927785bb61357870e3b096",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "macro",
+      "page": 102,
+      "chapter": 26,
+      "id": "m26-b83",
+      "ref": "图26-2",
+      "title": "储蓄激励增加了可贷资金供给",
+      "bbox": [
+        89,
+        488,
+        1113,
+        1076
+      ],
+      "source": "tmp/macro/pages/102.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 4,
+      "asset": "textbook-figures/macro-m26-b83.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "652e2298e668a972cd8fbd5dc2450233b836a4d16b849a6068753eea9694fbfb",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "macro",
+      "page": 103,
+      "chapter": 26,
+      "id": "m26-b90",
+      "ref": "图26-3",
+      "title": "投资激励增加了可贷资金需求",
+      "bbox": [
+        89,
+        648,
+        1113,
+        1211
+      ],
+      "source": "tmp/macro/pages/103.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 4,
+      "asset": "textbook-figures/macro-m26-b90.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "0a27d35edc5f3d2a473d2267fbae8782a5337bcc288ace7e03102c72ab3a976d",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "macro",
+      "page": 104,
+      "chapter": 26,
+      "id": "m26-b97",
+      "ref": "图26-4",
+      "title": "政府预算赤字的影响",
+      "bbox": [
+        89,
+        665,
+        1113,
+        1224
+      ],
+      "source": "tmp/macro/pages/104.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 4,
+      "asset": "textbook-figures/macro-m26-b97.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "83a797d77b5104b3e925d02b8dacd64a7ee4417b89188219e13bd6b2ec158ae3",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "macro",
+      "page": 106,
+      "chapter": 26,
+      "id": "m26-b107",
+      "ref": "图26-5",
+      "title": "美国联邦政府债务",
+      "bbox": [
+        90,
+        381,
+        1119,
+        1048
+      ],
+      "source": "tmp/macro/pages/106.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 4,
+      "asset": "textbook-figures/macro-m26-b107.svg",
+      "width": 920,
+      "height": 620,
+      "assetSHA256": "d6c35a03051094986c2fb57736c01ccac71bfa06bf2111da9f4732e7715627bf",
+      "redrawMethod": "digitized-series",
+      "caption": "历史线条由原书图中的轨迹数字化重绘；沿用该版本的年份、单位和基期。 历史曲线按原书读数重绘，数值为近似值。",
+      "dataPrecision": "原书印刷图读数近似；不是原始统计数据",
+      "dataSource": "scripts/source-series-paths.json"
+    },
+    {
+      "volume": "macro",
+      "page": 117,
+      "chapter": 27,
+      "id": "m27-b36",
+      "ref": "图27-1",
+      "title": "效用函数",
+      "bbox": [
+        89,
+        372,
+        1108,
+        1079
+      ],
+      "source": "tmp/macro/pages/117.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 5,
+      "asset": "textbook-figures/macro-m27-b36.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "e6bb797e807527d581579774f49445dda84ea750e67a3b04285ae6b3fdea96f7",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "macro",
+      "page": 119,
+      "chapter": 27,
+      "id": "m27-b49",
+      "ref": "图27-2",
+      "title": "通过多元化降低风险",
+      "bbox": [
+        89,
+        511,
+        1113,
+        1133
+      ],
+      "source": "tmp/macro/pages/119.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 5,
+      "asset": "textbook-figures/macro-m27-b49.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "9204b1c53f33b3caaee7592cb54801f2213f6145614851fc2b966981987fed72",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "macro",
+      "page": 120,
+      "chapter": 27,
+      "id": "m27-b59",
+      "ref": "图27-3",
+      "title": "风险与收益之间的权衡取舍",
+      "bbox": [
+        89,
+        991,
+        1115,
+        1574
+      ],
+      "source": "tmp/macro/pages/120.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 5,
+      "asset": "textbook-figures/macro-m27-b59.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "03398d35652675003c5540444b5385397ccb573b55b267fdbf574b9d2b72dd0f",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "macro",
+      "page": 130,
+      "chapter": 28,
+      "id": "m28-b17",
+      "ref": "图28-1",
+      "title": "2016年1月人口的分类",
+      "bbox": [
+        89,
+        250,
+        1113,
+        1125
+      ],
+      "source": "tmp/macro/pages/130.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 6,
+      "asset": "textbook-figures/macro-m28-b17.svg",
+      "width": 920,
+      "height": 700,
+      "assetSHA256": "042441d6e542cb3ffda3f90926c57c32b04d26a78775aed145a811ae1a9993d9",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "macro",
+      "page": 131,
+      "chapter": 28,
+      "id": "m28-b21",
+      "ref": "表28-1",
+      "title": "不同人口群体的劳动市场经历（2014）",
+      "bbox": [
+        89,
+        370,
+        1111,
+        947
+      ],
+      "source": "tmp/macro/pages/131.webp",
+      "activeType": "figure",
+      "method": "table",
+      "panels": 1,
+      "kind": "table",
+      "chapterIndex": 6,
+      "rows": [
+        [
+          "群体",
+          "失业率%",
+          "参工率%"
+        ],
+        [
+          "25—54岁白人男性",
+          4.4,
+          89.4
+        ],
+        [
+          "25—54岁白人女性",
+          4.6,
+          74.3
+        ],
+        [
+          "25—54岁黑人男性",
+          10.1,
+          80.7
+        ],
+        [
+          "25—54岁黑人女性",
+          9.1,
+          75.8
+        ],
+        [
+          "16—19岁白人男性",
+          19.2,
+          35.6
+        ],
+        [
+          "16—19岁白人女性",
+          15.5,
+          36.8
+        ],
+        [
+          "16—19岁黑人男性",
+          36.5,
+          25.9
+        ],
+        [
+          "16—19岁黑人女性",
+          29.7,
+          28.4
+        ]
+      ]
+    },
+    {
+      "volume": "macro",
+      "page": 131,
+      "chapter": 28,
+      "id": "m28-b23",
+      "ref": "图28-2",
+      "title": "失业率与自然失业率",
+      "bbox": [
+        89,
+        1067,
+        1111,
+        1556
+      ],
+      "source": "tmp/macro/pages/131.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 6,
+      "asset": "textbook-figures/macro-m28-b23.svg",
+      "width": 920,
+      "height": 620,
+      "assetSHA256": "5ce1439dc5f6449eb9e720dda02030b8c22b1dbab2cac445164b38f617f66b7a",
+      "redrawMethod": "digitized-series",
+      "caption": "历史线条由原书图中的轨迹数字化重绘；沿用该版本的年份、单位和基期。 历史曲线按原书读数重绘，数值为近似值。",
+      "dataPrecision": "原书印刷图读数近似；不是原始统计数据",
+      "dataSource": "scripts/source-series-paths.json"
+    },
+    {
+      "volume": "macro",
+      "page": 132,
+      "chapter": 28,
+      "id": "m28-b28",
+      "ref": "图28-3",
+      "title": "男性与女性的劳动力参工率",
+      "bbox": [
+        90,
+        986,
+        1118,
+        1537
+      ],
+      "source": "tmp/macro/pages/132.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 6,
+      "asset": "textbook-figures/macro-m28-b28.svg",
+      "width": 920,
+      "height": 620,
+      "assetSHA256": "5d8459a8221a0fbf59309362ee15ee2d3bbd92cbd3fbabb6494c48fe558836a2",
+      "redrawMethod": "digitized-series",
+      "caption": "历史线条由原书图中的轨迹数字化重绘；沿用该版本的年份、单位和基期。 历史曲线按原书读数重绘，数值为近似值。",
+      "dataPrecision": "原书印刷图读数近似；不是原始统计数据",
+      "dataSource": "scripts/source-series-paths.json"
+    },
+    {
+      "volume": "macro",
+      "page": 134,
+      "chapter": 28,
+      "id": "m28-b36",
+      "ref": "表28-2",
+      "title": "劳动力利用不足指标（2016年1月）",
+      "bbox": [
+        90,
+        88,
+        1116,
+        643
+      ],
+      "source": "tmp/macro/pages/134.webp",
+      "activeType": "figure",
+      "method": "table",
+      "panels": 1,
+      "kind": "table",
+      "chapterIndex": 6,
+      "rows": [
+        [
+          "指标",
+          "衡量指标与说明",
+          "比率（%）"
+        ],
+        [
+          "U-1",
+          "失业15周或更长时间的人占总劳动力的百分比（只包括长期失业者）。",
+          2.0
+        ],
+        [
+          "U-2",
+          "失去工作者和结束了暂时工作的人占总劳动力的百分比（不包括离职者）。",
+          2.3
+        ],
+        [
+          "U-3",
+          "总失业人数占总劳动力的百分比（官方失业率）。",
+          4.9
+        ],
+        [
+          "U-4",
+          "总失业人数加丧失信心的工人占总劳动力加丧失信心的工人的百分比。",
+          5.3
+        ],
+        [
+          "U-5",
+          "总失业人数加所有边际状态的工人占总劳动力加所有边际状态的工人的百分比。",
+          6.2
+        ],
+        [
+          "U-6",
+          "总失业人数加所有边际状态的工人，加由于经济原因非全职就业者，占总劳动力加所有边际状态的工人的百分比。",
+          9.9
+        ]
+      ],
+      "note": "边际状态的工人指现在不工作、不找工作，但表示想要工作且可以工作，并且最近找过工作的人；丧失信心的工人是因相信没有可从事的工作而不再寻找工作的边际状态工人；因经济原因非全职就业者指愿意并有能力全职工作、但不能找到全职工作的工人。资料来源：美国劳工部劳工统计局，2016年1月。"
+    },
+    {
+      "volume": "macro",
+      "page": 139,
+      "chapter": 28,
+      "id": "m28-b84",
+      "ref": "图28-4",
+      "title": "工资高于均衡水平引起的失业",
+      "bbox": [
+        90,
+        1000,
+        1118,
+        1542
+      ],
+      "source": "tmp/macro/pages/139.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 6,
+      "asset": "textbook-figures/macro-m28-b84.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "7baeb6cef0e4b547871b198adc154c438ce2015f4fd1fe6b6f5ee6eefe9550ff",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "macro",
+      "page": 158,
+      "chapter": 29,
+      "id": "m29-b26",
+      "ref": "图29-1",
+      "title": "美国货币存量（2016年1月）",
+      "bbox": [
+        88,
+        96,
+        1116,
+        694
+      ],
+      "source": "tmp/macro/pages/158.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 7,
+      "asset": "textbook-figures/macro-m29-b26.svg",
+      "width": 920,
+      "height": 650,
+      "assetSHA256": "1e1c96a61c478487962bfea3815fe93979895127093cdcc1a70fd75e8c1c662b",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "macro",
+      "page": 163,
+      "chapter": 29,
+      "id": "m29-b69",
+      "ref": "",
+      "title": "第一国民银行的T账户",
+      "bbox": [
+        89,
+        635,
+        1114,
+        784
+      ],
+      "source": "tmp/macro/pages/163.webp",
+      "activeType": "figure",
+      "method": "typeset",
+      "panels": 1,
+      "kind": "supplement",
+      "chapterIndex": 7
+    },
+    {
+      "volume": "macro",
+      "page": 164,
+      "chapter": 29,
+      "id": "m29-b75",
+      "ref": "",
+      "title": "第二国民银行的T账户",
+      "bbox": [
+        85,
+        379,
+        1114,
+        527
+      ],
+      "source": "tmp/macro/pages/164.webp",
+      "activeType": "figure",
+      "method": "typeset",
+      "panels": 1,
+      "kind": "supplement",
+      "chapterIndex": 7
+    },
+    {
+      "volume": "macro",
+      "page": 164,
+      "chapter": 29,
+      "id": "m29-b81",
+      "ref": "",
+      "title": "存款的逐轮扩张",
+      "bbox": [
+        89,
+        1004,
+        1114,
+        1296
+      ],
+      "source": "tmp/macro/pages/164.webp",
+      "activeType": "figure",
+      "method": "typeset",
+      "panels": 1,
+      "kind": "supplement",
+      "chapterIndex": 7
+    },
+    {
+      "volume": "macro",
+      "page": 165,
+      "chapter": 29,
+      "id": "m29-b89",
+      "ref": "",
+      "title": "更现实的银行资产负债表",
+      "bbox": [
+        89,
+        1183,
+        1113,
+        1443
+      ],
+      "source": "tmp/macro/pages/165.webp",
+      "activeType": "figure",
+      "method": "typeset",
+      "panels": 1,
+      "kind": "supplement",
+      "chapterIndex": 7
+    },
+    {
+      "volume": "macro",
+      "page": 182,
+      "chapter": 30,
+      "id": "m30-b22",
+      "ref": "图30-1",
+      "title": "货币供给与货币需求如何决定均衡的物价水平",
+      "bbox": [
+        89,
+        1027,
+        1115,
+        1565
+      ],
+      "source": "tmp/macro/pages/182.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 8,
+      "asset": "textbook-figures/macro-m30-b22.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "8494e3cdc32f0a8de4a142110ab57ee471f61784858fc79efdb7617e3d1ab99b",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "macro",
+      "page": 183,
+      "chapter": 30,
+      "id": "m30-b27",
+      "ref": "图30-2",
+      "title": "货币供给增加",
+      "bbox": [
+        89,
+        805,
+        1113,
+        1331
+      ],
+      "source": "tmp/macro/pages/183.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 8,
+      "asset": "textbook-figures/macro-m30-b27.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "42c61a0f192e9cfc2e554839fe802a538e8e26dc7f427c90213eed05345fb8c8",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "macro",
+      "page": 187,
+      "chapter": 30,
+      "id": "m30-b52",
+      "ref": "图30-3",
+      "title": "名义GDP、货币量与流通速度",
+      "bbox": [
+        89,
+        90,
+        1111,
+        838
+      ],
+      "source": "tmp/macro/pages/187.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 8,
+      "asset": "textbook-figures/macro-m30-b52.svg",
+      "width": 920,
+      "height": 620,
+      "assetSHA256": "ea3abdc0692c7ac95bc08f697e94f437a1127920fe03384f654dd58fb13a8e23",
+      "redrawMethod": "digitized-series",
+      "caption": "历史线条由原书图中的轨迹数字化重绘；沿用该版本的年份、单位和基期。 历史曲线按原书读数重绘，数值为近似值。",
+      "dataPrecision": "原书印刷图读数近似；不是原始统计数据",
+      "dataSource": "scripts/source-series-paths.json"
+    },
+    {
+      "volume": "macro",
+      "page": 188,
+      "chapter": 30,
+      "id": "m30-b64",
+      "ref": "图30-4",
+      "title": "四次超速通胀期间的货币与物价",
+      "bbox": [
+        88,
+        511,
+        1114,
+        1105
+      ],
+      "source": "tmp/macro/pages/188.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 4,
+      "kind": "figure",
+      "chapterIndex": 8,
+      "asset": "textbook-figures/macro-m30-b64.svg",
+      "width": 920,
+      "height": 2480,
+      "assetSHA256": "540fe0494469cf77e68736369871e8dae975690a84e694ee22c8406ce68e6606",
+      "redrawMethod": "digitized-series",
+      "caption": "历史线条由原书图中的轨迹数字化重绘；沿用该版本的年份、单位和基期。 历史曲线按原书读数重绘，数值为近似值。",
+      "dataPrecision": "原书印刷图读数近似；不是原始统计数据",
+      "dataSource": "scripts/source-series-paths.json"
+    },
+    {
+      "volume": "macro",
+      "page": 191,
+      "chapter": 30,
+      "id": "m30-b85",
+      "ref": "图30-5",
+      "title": "名义利率与通胀率",
+      "bbox": [
+        89,
+        433,
+        1113,
+        966
+      ],
+      "source": "tmp/macro/pages/191.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 8,
+      "asset": "textbook-figures/macro-m30-b85.svg",
+      "width": 920,
+      "height": 620,
+      "assetSHA256": "e976cfd7b2c116aa3ffccc2ee1f7c0f54acf023de9a22538832328c7dce1806a",
+      "redrawMethod": "digitized-series",
+      "caption": "历史线条由原书图中的轨迹数字化重绘；沿用该版本的年份、单位和基期。 历史曲线按原书读数重绘，数值为近似值。",
+      "dataPrecision": "原书印刷图读数近似；不是原始统计数据",
+      "dataSource": "scripts/source-series-paths.json"
+    },
+    {
+      "volume": "macro",
+      "page": 195,
+      "chapter": 30,
+      "id": "m30-b118",
+      "ref": "表30-1",
+      "title": "通胀与储蓄税负",
+      "bbox": [
+        89,
+        972,
+        1111,
+        1442
+      ],
+      "source": "tmp/macro/pages/195.webp",
+      "activeType": "figure",
+      "method": "table",
+      "panels": 1,
+      "kind": "table",
+      "chapterIndex": 8,
+      "rows": [
+        [
+          "项目（%）",
+          "经济A：物价稳定",
+          "经济B：有通胀"
+        ],
+        [
+          "真实利率",
+          4,
+          4
+        ],
+        [
+          "通胀率",
+          0,
+          8
+        ],
+        [
+          "名义利率",
+          4,
+          12
+        ],
+        [
+          "税收造成的利率下降",
+          1,
+          3
+        ],
+        [
+          "税后名义利率",
+          3,
+          9
+        ],
+        [
+          "税后真实利率",
+          3,
+          1
+        ]
+      ],
+      "note": "据教材示例，利息收入税率25%，使用真实利率≈名义利率−通胀率。"
+    },
+    {
+      "volume": "macro",
+      "page": 199,
+      "chapter": 30,
+      "id": "m30-b142",
+      "ref": "",
+      "title": "《绿野仙踪》的货币寓意",
+      "bbox": [
+        89,
+        125,
+        1111,
+        598
+      ],
+      "source": "tmp/macro/pages/199.webp",
+      "activeType": "figure",
+      "method": "typeset",
+      "panels": 1,
+      "kind": "supplement",
+      "chapterIndex": 8
+    },
+    {
+      "volume": "macro",
+      "page": 206,
+      "chapter": 31,
+      "id": "m31-b19",
+      "ref": "图31-1",
+      "title": "美国经济的国际化",
+      "bbox": [
+        89,
+        255,
+        1115,
+        788
+      ],
+      "source": "tmp/macro/pages/206.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 9,
+      "asset": "textbook-figures/macro-m31-b19.svg",
+      "width": 920,
+      "height": 620,
+      "assetSHA256": "6012e29f6ce602ff735f506a73fb94251ef6a949519cd5e55e1baf74d2322ae2",
+      "redrawMethod": "digitized-series",
+      "caption": "历史线条由原书图中的轨迹数字化重绘；沿用该版本的年份、单位和基期。 历史曲线按原书读数重绘，数值为近似值。",
+      "dataPrecision": "原书印刷图读数近似；不是原始统计数据",
+      "dataSource": "scripts/source-series-paths.json"
+    },
+    {
+      "volume": "macro",
+      "page": 212,
+      "chapter": 31,
+      "id": "m31-b84",
+      "ref": "表31-1",
+      "title": "物品与资本的国际流动",
+      "bbox": [
+        90,
+        1268,
+        1116,
+        1555
+      ],
+      "source": "tmp/macro/pages/212.webp",
+      "activeType": "figure",
+      "method": "table",
+      "panels": 1,
+      "kind": "table",
+      "chapterIndex": 9,
+      "rows": [
+        [
+          "指标",
+          "贸易赤字",
+          "贸易平衡",
+          "贸易盈余"
+        ],
+        [
+          "出口与进口",
+          "出口<进口",
+          "出口=进口",
+          "出口>进口"
+        ],
+        [
+          "净出口 NX",
+          "<0",
+          "=0",
+          ">0"
+        ],
+        [
+          "产出与国内支出",
+          "Y<C+I+G",
+          "Y=C+I+G",
+          "Y>C+I+G"
+        ],
+        [
+          "储蓄与投资",
+          "S<I",
+          "S=I",
+          "S>I"
+        ],
+        [
+          "资本净流出 NCO",
+          "<0",
+          "=0",
+          ">0"
+        ]
+      ]
+    },
+    {
+      "volume": "macro",
+      "page": 214,
+      "chapter": 31,
+      "id": "m31-b94",
+      "ref": "图31-2",
+      "title": "储蓄、投资与资本净流出",
+      "bbox": [
+        89,
+        96,
+        1114,
+        1241
+      ],
+      "source": "tmp/macro/pages/214.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 2,
+      "kind": "figure",
+      "chapterIndex": 9,
+      "asset": "textbook-figures/macro-m31-b94.svg",
+      "width": 920,
+      "height": 1240,
+      "assetSHA256": "966516d6d385583eb68807d10fe1c23e35262e47e2eab3589093ce624b5578a0",
+      "redrawMethod": "digitized-series",
+      "caption": "历史线条由原书图中的轨迹数字化重绘；沿用该版本的年份、单位和基期。 历史曲线按原书读数重绘，数值为近似值。",
+      "dataPrecision": "原书印刷图读数近似；不是原始统计数据",
+      "dataSource": "scripts/source-series-paths.json"
+    },
+    {
+      "volume": "macro",
+      "page": 221,
+      "chapter": 31,
+      "id": "m31-b152",
+      "ref": "图31-3",
+      "title": "德国超速通胀与名义汇率",
+      "bbox": [
+        89,
+        715,
+        1112,
+        1386
+      ],
+      "source": "tmp/macro/pages/221.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 9,
+      "asset": "textbook-figures/macro-m31-b152.svg",
+      "width": 920,
+      "height": 620,
+      "assetSHA256": "e72490389530fbfcd33c8a9beb55a174fa84af27fd470fa5e3941018eebce107",
+      "redrawMethod": "digitized-series",
+      "caption": "历史线条由原书图中的轨迹数字化重绘；沿用该版本的年份、单位和基期。 历史曲线按原书读数重绘，数值为近似值。",
+      "dataPrecision": "原书印刷图读数近似；不是原始统计数据",
+      "dataSource": "scripts/source-series-paths.json"
+    },
+    {
+      "volume": "macro",
+      "page": 223,
+      "chapter": 31,
+      "id": "m31-b164",
+      "ref": "表31-2",
+      "title": "巨无霸与购买力平价（2016年1月）",
+      "bbox": [
+        89,
+        356,
+        1113,
+        684
+      ],
+      "source": "tmp/macro/pages/223.webp",
+      "activeType": "figure",
+      "method": "table",
+      "panels": 1,
+      "kind": "table",
+      "chapterIndex": 9,
+      "rows": [
+        [
+          "国家/地区",
+          "巨无霸本币价格",
+          "预期汇率（本币/美元）",
+          "实际汇率（本币/美元）"
+        ],
+        [
+          "印度尼西亚",
+          "30500 印尼盾",
+          "6187 印尼盾/美元",
+          "13947 印尼盾/美元"
+        ],
+        [
+          "韩国",
+          "4300 韩圆",
+          "872 韩圆/美元",
+          "1198 韩圆/美元"
+        ],
+        [
+          "日本",
+          "370 日元",
+          "75 日元/美元",
+          "119 日元/美元"
+        ],
+        [
+          "墨西哥",
+          "49 比索",
+          "9.9 比索/美元",
+          "17.4 比索/美元"
+        ],
+        [
+          "瑞典",
+          "45 克朗",
+          "9.1 克朗/美元",
+          "8.6 克朗/美元"
+        ],
+        [
+          "欧元区",
+          "3.72 欧元",
+          "0.75 欧元/美元",
+          "0.93 欧元/美元"
+        ],
+        [
+          "英国",
+          "2.89 英镑",
+          "0.59 英镑/美元",
+          "0.68 英镑/美元"
+        ]
+      ],
+      "note": "教材示例，当时美国巨无霸价格4.93美元。此处报价方向是每美元的本币数量，不是当前汇率。"
+    },
+    {
+      "volume": "macro",
+      "page": 229,
+      "chapter": 32,
+      "id": "m32-b15",
+      "ref": "图32-1",
+      "title": "可贷资金市场",
+      "bbox": [
+        89,
+        726,
+        1110,
+        1288
+      ],
+      "source": "tmp/macro/pages/229.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 10,
+      "asset": "textbook-figures/macro-m32-b15.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "74d62915757ff0a780a5e9849c7b318a50973f372b4003c237e9df90ace6afcf",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "macro",
+      "page": 231,
+      "chapter": 32,
+      "id": "m32-b23",
+      "ref": "图32-2",
+      "title": "外汇市场",
+      "bbox": [
+        89,
+        100,
+        1114,
+        680
+      ],
+      "source": "tmp/macro/pages/231.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 10,
+      "asset": "textbook-figures/macro-m32-b23.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "26c01330a6b7c43f17a0cec61883c4c7fd4f9ebcd81f0e3bf3d2dd8171ef24a4",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "macro",
+      "page": 233,
+      "chapter": 32,
+      "id": "m32-b40",
+      "ref": "图32-3",
+      "title": "资本净流出如何取决于真实利率",
+      "bbox": [
+        89,
+        544,
+        1112,
+        1086
+      ],
+      "source": "tmp/macro/pages/233.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 10,
+      "asset": "textbook-figures/macro-m32-b40.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "98934dcff409caa6f1fd2c1223465243da9c5631fcac5046fb0795b1e29e1aba",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "macro",
+      "page": 234,
+      "chapter": 32,
+      "id": "m32-b45",
+      "ref": "图32-4",
+      "title": "开放经济的实际均衡",
+      "bbox": [
+        89,
+        101,
+        1115,
+        815
+      ],
+      "source": "tmp/macro/pages/234.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 3,
+      "kind": "figure",
+      "chapterIndex": 10,
+      "asset": "textbook-figures/macro-m32-b45.svg",
+      "width": 920,
+      "height": 1680,
+      "assetSHA256": "85a8dd1c9d1ae8549a530e2ddad174f2eab926fd8b69122e0d0c2f9761c1ce2e",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "macro",
+      "page": 236,
+      "chapter": 32,
+      "id": "m32-b60",
+      "ref": "图32-5",
+      "title": "政府预算赤字的影响",
+      "bbox": [
+        89,
+        688,
+        1115,
+        1368
+      ],
+      "source": "tmp/macro/pages/236.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 3,
+      "kind": "figure",
+      "chapterIndex": 10,
+      "asset": "textbook-figures/macro-m32-b60.svg",
+      "width": 920,
+      "height": 1680,
+      "assetSHA256": "c2c2b12db8065f237034fd29585655e3b224a4896dcdfd8b9496018540b95293",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "macro",
+      "page": 238,
+      "chapter": 32,
+      "id": "m32-b68",
+      "ref": "图32-6",
+      "title": "进口配额的影响",
+      "bbox": [
+        89,
+        103,
+        1113,
+        821
+      ],
+      "source": "tmp/macro/pages/238.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 3,
+      "kind": "figure",
+      "chapterIndex": 10,
+      "asset": "textbook-figures/macro-m32-b68.svg",
+      "width": 920,
+      "height": 1680,
+      "assetSHA256": "76141ecb60993cde2f30ff7325316dfca4c77ea8f47bb2895ca24aa20a4c31c8",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "macro",
+      "page": 240,
+      "chapter": 32,
+      "id": "m32-b80",
+      "ref": "图32-7",
+      "title": "资本外逃的影响",
+      "bbox": [
+        89,
+        728,
+        1115,
+        1394
+      ],
+      "source": "tmp/macro/pages/240.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 3,
+      "kind": "figure",
+      "chapterIndex": 10,
+      "asset": "textbook-figures/macro-m32-b80.svg",
+      "width": 920,
+      "height": 1680,
+      "assetSHA256": "397977487c2962f30ae615469c956c611bd47f93615bda680bd59e45beaed1d3",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "macro",
+      "page": 249,
+      "chapter": 33,
+      "id": "m33-b14",
+      "ref": "图33-1",
+      "title": "观察短期经济活动",
+      "bbox": [
+        96,
+        100,
+        1110,
+        1540
+      ],
+      "source": "tmp/macro/pages/249.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 3,
+      "kind": "figure",
+      "chapterIndex": 11,
+      "asset": "textbook-figures/macro-m33-b14.svg",
+      "width": 920,
+      "height": 1860,
+      "assetSHA256": "707ab3d26dfbf769b65b3ae1461fb7bd677fd8a197d837266e7d8049d9c0e4fa",
+      "redrawMethod": "digitized-series",
+      "caption": "历史线条由原书图中的轨迹数字化重绘；沿用该版本的年份、单位和基期。 历史曲线按原书读数重绘，数值为近似值。",
+      "dataPrecision": "原书印刷图读数近似；不是原始统计数据",
+      "dataSource": "scripts/source-series-paths.json"
+    },
+    {
+      "volume": "macro",
+      "page": 252,
+      "chapter": 33,
+      "id": "m33-b35",
+      "ref": "图33-2",
+      "title": "总需求与总供给",
+      "bbox": [
+        89,
+        684,
+        1110,
+        1239
+      ],
+      "source": "tmp/macro/pages/252.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 11,
+      "asset": "textbook-figures/macro-m33-b35.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "78e7d6903968771d99342cb44075aeb552630b411a8c1479e3cdc8b5735cdea6",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "macro",
+      "page": 253,
+      "chapter": 33,
+      "id": "m33-b42",
+      "ref": "图33-3",
+      "title": "总需求曲线",
+      "bbox": [
+        89,
+        755,
+        1113,
+        1333
+      ],
+      "source": "tmp/macro/pages/253.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 11,
+      "asset": "textbook-figures/macro-m33-b42.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "11f33e540843de6d8b6c442b09b3ed41baaf45bc122546ff00578884479ccd4d",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "macro",
+      "page": 259,
+      "chapter": 33,
+      "id": "m33-b90",
+      "ref": "图33-4",
+      "title": "长期总供给曲线",
+      "bbox": [
+        89,
+        101,
+        1115,
+        634
+      ],
+      "source": "tmp/macro/pages/259.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 11,
+      "asset": "textbook-figures/macro-m33-b90.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "dd1b1e8607d69980deeab9c06a6eef9bfe3ea78b2a002e50c9dfac323fa2daff",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "macro",
+      "page": 261,
+      "chapter": 33,
+      "id": "m33-b105",
+      "ref": "图33-5",
+      "title": "总需求与总供给模型中的长期增长与通货膨胀",
+      "bbox": [
+        89,
+        98,
+        1115,
+        793
+      ],
+      "source": "tmp/macro/pages/261.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 11,
+      "asset": "textbook-figures/macro-m33-b105.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "6be8e7d8022cd62caa069a3b55ed57767176b31f912b81b7e07f921d6d86d78b",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "macro",
+      "page": 262,
+      "chapter": 33,
+      "id": "m33-b110",
+      "ref": "图33-6",
+      "title": "短期总供给曲线",
+      "bbox": [
+        89,
+        95,
+        1112,
+        603
+      ],
+      "source": "tmp/macro/pages/262.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 11,
+      "asset": "textbook-figures/macro-m33-b110.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "a16de13869b4f1ec3a4e5de64a0c314b4ef0c0cdf7fe3717d4e5500d4f89df5e",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "macro",
+      "page": 267,
+      "chapter": 33,
+      "id": "m33-b148",
+      "ref": "图33-7",
+      "title": "长期均衡",
+      "bbox": [
+        89,
+        184,
+        1114,
+        722
+      ],
+      "source": "tmp/macro/pages/267.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 11,
+      "asset": "textbook-figures/macro-m33-b148.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "f7247fbcef9840b6f2d0d145bdaf21c1273b5793b97487f10d8f1e5913b34705",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "macro",
+      "page": 268,
+      "chapter": 33,
+      "id": "m33-b157",
+      "ref": "图33-8",
+      "title": "总需求减少",
+      "bbox": [
+        89,
+        255,
+        1109,
+        841
+      ],
+      "source": "tmp/macro/pages/268.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 11,
+      "asset": "textbook-figures/macro-m33-b157.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "ccb0feeedf3c50e3fb3f416d37f3b279d62024ffdec95197ac31460291033345",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "macro",
+      "page": 270,
+      "chapter": 33,
+      "id": "m33-b173",
+      "ref": "图33-9",
+      "title": "美国真实GDP增长的历史波动",
+      "bbox": [
+        89,
+        702,
+        1111,
+        1247
+      ],
+      "source": "tmp/macro/pages/270.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 11,
+      "asset": "textbook-figures/macro-m33-b173.svg",
+      "width": 920,
+      "height": 620,
+      "assetSHA256": "e33512e581d6702ffee65e8a39ad77c5a2c9611d85a9bd1ec68ebcfa4ebae638",
+      "redrawMethod": "digitized-series",
+      "caption": "历史线条由原书图中的轨迹数字化重绘；沿用该版本的年份、单位和基期。 历史曲线按原书读数重绘，数值为近似值。",
+      "dataPrecision": "原书印刷图读数近似；不是原始统计数据",
+      "dataSource": "scripts/source-series-paths.json"
+    },
+    {
+      "volume": "macro",
+      "page": 274,
+      "chapter": 33,
+      "id": "m33-b199",
+      "ref": "图33-10",
+      "title": "总供给曲线的不利移动",
+      "bbox": [
+        84,
+        99,
+        1110,
+        696
+      ],
+      "source": "tmp/macro/pages/274.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 11,
+      "asset": "textbook-figures/macro-m33-b199.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "ed5c9c61b24a044525ca865e3c225b2c70070e2eb5ac74c034094534e225f88c",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "macro",
+      "page": 275,
+      "chapter": 33,
+      "id": "m33-b205",
+      "ref": "图33-11",
+      "title": "抵消总供给曲线的不利移动",
+      "bbox": [
+        89,
+        106,
+        1115,
+        644
+      ],
+      "source": "tmp/macro/pages/275.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 11,
+      "asset": "textbook-figures/macro-m33-b205.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "deb16d701daf5bba3aafe60ce1d72a8a73e2fadce12bde49921cf693ef8de4bf",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "macro",
+      "page": 284,
+      "chapter": 34,
+      "id": "m34-b21",
+      "ref": "图34-1",
+      "title": "货币市场的均衡",
+      "bbox": [
+        80,
+        141,
+        1110,
+        716
+      ],
+      "source": "tmp/macro/pages/284.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 12,
+      "asset": "textbook-figures/macro-m34-b21.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "9bddf49abcebd58aa4c2f1b682a3de54518c8822b460175b95c4c10056a57427",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "macro",
+      "page": 286,
+      "chapter": 34,
+      "id": "m34-b44",
+      "ref": "图34-2",
+      "title": "货币市场与总需求曲线的斜率",
+      "bbox": [
+        89,
+        995,
+        1113,
+        1393
+      ],
+      "source": "tmp/macro/pages/286.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 2,
+      "kind": "figure",
+      "chapterIndex": 12,
+      "asset": "textbook-figures/macro-m34-b44.svg",
+      "width": 920,
+      "height": 1120,
+      "assetSHA256": "0534488dc08ffc1c0e2cade42e00734cd547e97bc688a85dcd05b37ba942ca54",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "macro",
+      "page": 287,
+      "chapter": 34,
+      "id": "m34-b51",
+      "ref": "图34-3",
+      "title": "货币注入",
+      "bbox": [
+        89,
+        1144,
+        1115,
+        1546
+      ],
+      "source": "tmp/macro/pages/287.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 2,
+      "kind": "figure",
+      "chapterIndex": 12,
+      "asset": "textbook-figures/macro-m34-b51.svg",
+      "width": 920,
+      "height": 1120,
+      "assetSHA256": "dd2d7463ecc1c9659fcda7bfcd7001d5a940427d179009d31b2f3e2e102f7f21",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "macro",
+      "page": 292,
+      "chapter": 34,
+      "id": "m34-b86",
+      "ref": "图34-4",
+      "title": "乘数效应",
+      "bbox": [
+        89,
+        403,
+        1109,
+        985
+      ],
+      "source": "tmp/macro/pages/292.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 12,
+      "asset": "textbook-figures/macro-m34-b86.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "af024ae35ee7e2c9e3e9fe08635815744dc6d5ed0e901d6045bd5f306fce6b73",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "macro",
+      "page": 293,
+      "chapter": 34,
+      "id": "m34-b91",
+      "ref": "",
+      "title": "支出乘数的逐轮作用",
+      "bbox": [
+        89,
+        344,
+        1114,
+        626
+      ],
+      "source": "tmp/macro/pages/293.webp",
+      "activeType": "figure",
+      "method": "typeset",
+      "panels": 1,
+      "kind": "supplement",
+      "chapterIndex": 12
+    },
+    {
+      "volume": "macro",
+      "page": 294,
+      "chapter": 34,
+      "id": "m34-b104",
+      "ref": "图34-5",
+      "title": "挤出效应",
+      "bbox": [
+        89,
+        1165,
+        1113,
+        1548
+      ],
+      "source": "tmp/macro/pages/294.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 2,
+      "kind": "figure",
+      "chapterIndex": 12,
+      "asset": "textbook-figures/macro-m34-b104.svg",
+      "width": 920,
+      "height": 1120,
+      "assetSHA256": "f257cd302738815dfaf4ebbee18b76dd241f9b9c78e3b74df3f9f4959beb444c",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "macro",
+      "page": 306,
+      "chapter": 35,
+      "id": "m35-b9",
+      "ref": "图35-1",
+      "title": "菲利普斯曲线",
+      "bbox": [
+        89,
+        1062,
+        1111,
+        1531
+      ],
+      "source": "tmp/macro/pages/306.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 13,
+      "asset": "textbook-figures/macro-m35-b9.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "8ab8926911dde63079e6b768cc83eed89c44fd8ad00c885b5b9194260ba738ec",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "macro",
+      "page": 307,
+      "chapter": 35,
+      "id": "m35-b14",
+      "ref": "图35-2",
+      "title": "菲利普斯曲线如何同总需求与总供给模型相关",
+      "bbox": [
+        89,
+        1090,
+        1115,
+        1471
+      ],
+      "source": "tmp/macro/pages/307.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 2,
+      "kind": "figure",
+      "chapterIndex": 13,
+      "asset": "textbook-figures/macro-m35-b14.svg",
+      "width": 920,
+      "height": 1120,
+      "assetSHA256": "a61fe5caffdc35fce06ceab00cf92bbbf001296884acd528dce95b8bddff91f1",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "macro",
+      "page": 309,
+      "chapter": 35,
+      "id": "m35-b28",
+      "ref": "图35-3",
+      "title": "长期菲利普斯曲线",
+      "bbox": [
+        89,
+        1087,
+        1115,
+        1555
+      ],
+      "source": "tmp/macro/pages/309.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 13,
+      "asset": "textbook-figures/macro-m35-b28.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "89a591bf171533a8ddf747be311ab4784bf632e8348bd9581392df41ff584898",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "macro",
+      "page": 310,
+      "chapter": 35,
+      "id": "m35-b30",
+      "ref": "图35-4",
+      "title": "长期菲利普斯曲线如何同总需求与总供给模型相关",
+      "bbox": [
+        89,
+        541,
+        1113,
+        914
+      ],
+      "source": "tmp/macro/pages/310.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 2,
+      "kind": "figure",
+      "chapterIndex": 13,
+      "asset": "textbook-figures/macro-m35-b30.svg",
+      "width": 920,
+      "height": 1120,
+      "assetSHA256": "7c9468768cbf685febb783a8498356a814e13311d887b58bd4756cfe97df5a86",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "macro",
+      "page": 313,
+      "chapter": 35,
+      "id": "m35-b47",
+      "ref": "图35-5",
+      "title": "预期通货膨胀率如何使短期菲利普斯曲线移动",
+      "bbox": [
+        89,
+        339,
+        890,
+        887
+      ],
+      "source": "tmp/macro/pages/313.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "caption": "预期的通货膨胀率越高，代表通货膨胀和失业之间短期权衡取舍的曲线也就越高。在A点，预期通货膨胀率和实际通货膨胀率都很低，而且失业率处于自然失业率水平。如果美联储实行扩张性货币政策，经济在短期中就从A点移动到B点。在B点，预期通货膨胀率仍然低，但实际通货膨胀率高，而失业率低于自然失业率水平。在长期中，预期通货膨胀率上升，经济移动到C点。在C点，预期通货膨胀率和实际通货膨胀率都高，而失业率回到自然失业率水平。",
+      "kind": "figure",
+      "chapterIndex": 13,
+      "asset": "textbook-figures/macro-m35-b47.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "f64cfd39970879b2bc4af571a0dd429080a5c80449b2735b8b50a62bc3037aac",
+      "redrawMethod": "semantic"
+    },
+    {
+      "volume": "macro",
+      "page": 314,
+      "chapter": 35,
+      "id": "m35-b52",
+      "ref": "图35-6",
+      "title": "20世纪60年代",
+      "bbox": [
+        81,
+        255,
+        1110,
+        934
+      ],
+      "source": "tmp/macro/pages/314.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 13,
+      "asset": "textbook-figures/macro-m35-b52.svg",
+      "width": 920,
+      "height": 620,
+      "assetSHA256": "5cb3c81ff75c3082a2aa1d29ba9d375c3df5d231085a3775734d0ed4addaefa9",
+      "redrawMethod": "semantic",
+      "caption": "历史曲线按原书读数重绘，数值为近似值。",
+      "dataPrecision": "原书印刷图读数近似；不是原始统计数据"
+    },
+    {
+      "volume": "macro",
+      "page": 315,
+      "chapter": 35,
+      "id": "m35-b55",
+      "ref": "图35-7",
+      "title": "菲利普斯曲线的破灭",
+      "bbox": [
+        89,
+        106,
+        1115,
+        778
+      ],
+      "source": "tmp/macro/pages/315.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 13,
+      "asset": "textbook-figures/macro-m35-b55.svg",
+      "width": 920,
+      "height": 620,
+      "assetSHA256": "93a3c0f2e68a81395cb29dabdd3ef323b7c2e073e640994d4773440d36a946af",
+      "redrawMethod": "semantic",
+      "caption": "历史曲线按原书读数重绘，数值为近似值。",
+      "dataPrecision": "原书印刷图读数近似；不是原始统计数据"
+    },
+    {
+      "volume": "macro",
+      "page": 316,
+      "chapter": 35,
+      "id": "m35-b61",
+      "ref": "图35-8",
+      "title": "对总供给的不利冲击",
+      "bbox": [
+        310,
+        257,
+        1112,
+        669
+      ],
+      "source": "tmp/macro/pages/316.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 2,
+      "caption": "（a）幅表示总需求与总供给模型。当总供给曲线从AS₁向左移动到AS₂时，均衡从A点移动到B点，产量从Y₁减少为Y₂，而物价水平从P₁上升为P₂。（b）幅表示通货膨胀和失业之间的短期权衡取舍。总供给的不利移动使经济从低失业和低通货膨胀的一点（A点）移动到高失业和高通货膨胀的一点（B点）。短期菲利普斯曲线从PC₁向右移动到PC₂。决策者现在面临着通货膨胀与失业之间权衡取舍的恶化。",
+      "kind": "figure",
+      "chapterIndex": 13,
+      "asset": "textbook-figures/macro-m35-b61.svg",
+      "width": 920,
+      "height": 1120,
+      "assetSHA256": "2a47906573baa92234cb5d1b380e79842b0857bf7c0875c6a6499b2f17267a5e",
+      "redrawMethod": "semantic"
+    },
+    {
+      "volume": "macro",
+      "page": 317,
+      "chapter": 35,
+      "id": "m35-b66",
+      "ref": "图35-9",
+      "title": "20世纪70年代的供给冲击",
+      "bbox": [
+        89,
+        349,
+        1115,
+        1033
+      ],
+      "source": "tmp/macro/pages/317.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 13,
+      "asset": "textbook-figures/macro-m35-b66.svg",
+      "width": 920,
+      "height": 620,
+      "assetSHA256": "8340ae2db62d41da3a3ae86df338f8cc8d1980ff2f425c4e9d2e04d3e1fa2dcc",
+      "redrawMethod": "semantic",
+      "caption": "历史曲线按原书读数重绘，数值为近似值。",
+      "dataPrecision": "原书印刷图读数近似；不是原始统计数据"
+    },
+    {
+      "volume": "macro",
+      "page": 319,
+      "chapter": 35,
+      "id": "m35-b77",
+      "ref": "图35-10",
+      "title": "短期与长期中反通货膨胀的货币政策",
+      "bbox": [
+        89,
+        101,
+        1115,
+        705
+      ],
+      "source": "tmp/macro/pages/319.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 13,
+      "asset": "textbook-figures/macro-m35-b77.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "85c144e86f85d4836f24d3f4d2cc237fe48f8a6144d9e6378bf00fe449119fd4",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "macro",
+      "page": 321,
+      "chapter": 35,
+      "id": "m35-b89",
+      "ref": "图35-11",
+      "title": "沃尔克的反通胀",
+      "bbox": [
+        89,
+        319,
+        1112,
+        1009
+      ],
+      "source": "tmp/macro/pages/321.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 13,
+      "asset": "textbook-figures/macro-m35-b89.svg",
+      "width": 920,
+      "height": 620,
+      "assetSHA256": "bfe3abd0d4a6ad5241d8fdcd2baef521ad9aa9f5df7726c9229e60c4f7197d07",
+      "redrawMethod": "semantic",
+      "caption": "历史曲线按原书读数重绘，数值为近似值。",
+      "dataPrecision": "原书印刷图读数近似；不是原始统计数据"
+    },
+    {
+      "volume": "macro",
+      "page": 322,
+      "chapter": 35,
+      "id": "m35-b95",
+      "ref": "图35-12",
+      "title": "格林斯潘时代",
+      "bbox": [
+        89,
+        754,
+        1111,
+        1426
+      ],
+      "source": "tmp/macro/pages/322.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 13,
+      "asset": "textbook-figures/macro-m35-b95.svg",
+      "width": 920,
+      "height": 620,
+      "assetSHA256": "83d0e8cf813a017426e35e8fe074752ef47e89f8d6da82311ee315b885ebb929",
+      "redrawMethod": "semantic",
+      "caption": "历史曲线按原书读数重绘，数值为近似值。",
+      "dataPrecision": "原书印刷图读数近似；不是原始统计数据"
+    },
+    {
+      "volume": "macro",
+      "page": 324,
+      "chapter": 35,
+      "id": "m35-b106",
+      "ref": "图35-13",
+      "title": "金融危机前后",
+      "bbox": [
+        87,
+        433,
+        1118,
+        1032
+      ],
+      "source": "tmp/macro/pages/324.webp",
+      "activeType": "figure",
+      "method": "vector-redraw",
+      "panels": 1,
+      "kind": "figure",
+      "chapterIndex": 13,
+      "asset": "textbook-figures/macro-m35-b106.svg",
+      "width": 920,
+      "height": 620,
+      "assetSHA256": "ce7252d72aa335b6023dccba80d89e37653787f90da6fd4bd28ab8db604637f7",
+      "redrawMethod": "semantic",
+      "caption": "历史曲线按原书读数重绘，数值为近似值。",
+      "dataPrecision": "原书印刷图读数近似；不是原始统计数据"
+    },
+    {
+      "volume": "micro",
+      "chapter": 2,
+      "page": 66,
+      "id": "c2-figure-2A-6",
+      "ref": "图2A-6",
+      "title": "有一个被忽略的变量的图形",
+      "source": "economics-reader/dist/pages/66.webp",
+      "bbox": [
+        125,
+        125,
+        995,
+        440
+      ],
+      "method": "vector-redraw",
+      "panels": 1,
+      "replace": "c2-b258",
+      "kind": "figure",
+      "chapterIndex": 2,
+      "asset": "textbook-figures/micro-c2-figure-2A-6.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "71701c64ece66d4d9e908c79e81ba402f7d6d15e5cb32222f35b025d0cf85194",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "chapter": 15,
+      "page": 321,
+      "id": "c15-figure-15-1",
+      "ref": "图15-1",
+      "title": "规模经济是垄断产生的一个原因",
+      "source": "economics-reader/dist/pages/321.webp",
+      "bbox": [
+        100,
+        195,
+        980,
+        730
+      ],
+      "method": "vector-redraw",
+      "panels": 1,
+      "before": "c15-b23",
+      "kind": "figure",
+      "chapterIndex": 15,
+      "asset": "textbook-figures/micro-c15-figure-15-1.svg",
+      "width": 1040,
+      "height": 510,
+      "assetSHA256": "be2ed77eabf7b83a66665a13bf9765a4839da30540c488446d9ef4c81c15d436",
+      "caption": "当一个企业的平均总成本曲线持续下降时，该企业就被称为自然垄断企业。在这种情况下，当生产分散到更多企业中时，每个企业的产量减少了，平均总成本上升了。结果是，单个企业可以以最低成本生产任何既定量的产品。"
+    },
+    {
+      "volume": "micro",
+      "chapter": 21,
+      "page": 466,
+      "id": "c21-figure-21-3",
+      "ref": "图21-3",
+      "title": "无差异曲线相交的不可能性",
+      "source": "economics-reader/dist/pages/466.webp",
+      "bbox": [
+        135,
+        922,
+        1010,
+        1390
+      ],
+      "method": "vector-redraw",
+      "panels": 1,
+      "after": "c21-b81",
+      "kind": "figure",
+      "chapterIndex": 21,
+      "asset": "textbook-figures/micro-c21-figure-21-3.svg",
+      "width": 920,
+      "height": 560,
+      "assetSHA256": "257ab40a407efb4cc4d391dc72fcb0dd69c7959e851060f107b4f92401c40ee4",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "chapter": 5,
+      "page": 117,
+      "id": "c5-figure-5-3",
+      "ref": "图5-3",
+      "title": "当价格变动时，总收益如何变动",
+      "source": "economics-reader/dist/pages/117.webp",
+      "bbox": [
+        100,
+        615,
+        1000,
+        1390
+      ],
+      "method": "vector-redraw",
+      "panels": 2,
+      "after": "c5-b42",
+      "kind": "figure",
+      "chapterIndex": 5,
+      "asset": "textbook-figures/micro-c5-figure-5-3.svg",
+      "width": 920,
+      "height": 1120,
+      "assetSHA256": "5067335af523bbbde4a4341c924e77cbf1f53aec069994c3668ce33f9fe5e014",
+      "redrawMethod": "semantic",
+      "caption": ""
+    },
+    {
+      "volume": "micro",
+      "chapter": 1,
+      "page": 36,
+      "id": "c1-b105",
+      "ref": "表1-1",
+      "title": "经济学十大原理",
+      "method": "table",
+      "rows": [
+        [
+          "主题",
+          "原理"
+        ],
+        [
+          "人们如何做出决策",
+          "1. 人们面临权衡取舍"
+        ],
+        [
+          "",
+          "2. 某种东西的成本是为了得到它所放弃的东西"
+        ],
+        [
+          "",
+          "3. 理性人考虑边际量"
+        ],
+        [
+          "",
+          "4. 人们会对激励做出反应"
+        ],
+        [
+          "人们如何相互影响",
+          "5. 贸易可以使每个人的状况都变得更好"
+        ],
+        [
+          "",
+          "6. 市场通常是组织经济活动的一种好方法"
+        ],
+        [
+          "",
+          "7. 政府有时可以改善市场结果"
+        ],
+        [
+          "整体经济如何运行",
+          "8. 一国的生活水平取决于它生产物品与服务的能力"
+        ],
+        [
+          "",
+          "9. 当政府发行了过多货币时，物价上升"
+        ],
+        [
+          "",
+          "10. 社会面临通货膨胀与失业之间的短期权衡取舍"
+        ]
+      ],
+      "replace": "c1-b105",
+      "panels": 1,
+      "kind": "table",
+      "chapterIndex": 1
+    },
+    {
+      "volume": "micro",
+      "chapter": 2,
+      "page": 53,
+      "id": "c2-table-2-1",
+      "ref": "表2-1",
+      "title": "大多数经济学家赞同的主张",
+      "method": "table",
+      "rows": [
+        [
+          "主张",
+          "赞同比例"
+        ],
+        [
+          "租金上限降低了可得到的住房的数量和质量。",
+          "93%"
+        ],
+        [
+          "关税和进口配额通常降低了总体经济福利。",
+          "93%"
+        ],
+        [
+          "弹性汇率和浮动汇率提供了一种有效的国际货币协定。",
+          "90%"
+        ],
+        [
+          "财政政策（例如，减税和/或增加政府支出）对低于充分就业的经济有重要的刺激效应。",
+          "90%"
+        ],
+        [
+          "美国不应该限制雇主将工作外包给其他国家。",
+          "90%"
+        ],
+        [
+          "像美国这样的发达国家的经济增长会使福利水平更高。",
+          "88%"
+        ],
+        [
+          "美国应该取消农业补贴。",
+          "85%"
+        ],
+        [
+          "设计适当的财政政策可以提高长期资本形成率。",
+          "85%"
+        ],
+        [
+          "地方政府和州政府应该取消对职业运动队的补贴。",
+          "85%"
+        ],
+        [
+          "如果联邦预算要实现平衡，也应该是以经济周期为基础，而不是以年度为基础。",
+          "85%"
+        ],
+        [
+          "如果现行的政策保持不变，在接下来的50年中，社会保障基金与支出之间的缺口会持续扩大并超出承受能力。",
+          "85%"
+        ],
+        [
+          "现金支付要比与现金等值的实物转移支付更多地提高接受者的福利水平。",
+          "84%"
+        ],
+        [
+          "庞大的联邦预算赤字对经济有不利的影响。",
+          "83%"
+        ],
+        [
+          "在美国，收入再分配是政府的一项合法职能。",
+          "83%"
+        ],
+        [
+          "通货膨胀主要是由于货币供给的过分增长而引起的。",
+          "83%"
+        ],
+        [
+          "美国不应该禁止转基因作物。",
+          "82%"
+        ],
+        [
+          "最低工资增加了年轻人和不熟练工人的失业。",
+          "79%"
+        ],
+        [
+          "政府应该按“负所得税”的思路重建福利制度。",
+          "79%"
+        ],
+        [
+          "作为控制污染的方法，排污税和可交易的污染许可证要优于实行污染上限。",
+          "78%"
+        ],
+        [
+          "在美国，政府对乙醇的补贴应该减少或取消。",
+          "78%"
+        ]
+      ],
+      "replace": "c2-b100",
+      "panels": 1,
+      "kind": "table",
+      "chapterIndex": 2
+    },
+    {
+      "volume": "micro",
+      "chapter": 4,
+      "page": 101,
+      "id": "c4-table-4-3",
+      "ref": "表4-3",
+      "title": "分析均衡变动的三个步骤",
+      "method": "table",
+      "rows": [
+        [
+          "步骤",
+          "内容"
+        ],
+        [
+          "1",
+          "确定事件是使供给曲线移动还是使需求曲线移动（或者使两者都移动）。"
+        ],
+        [
+          "2",
+          "确定曲线移动的方向。"
+        ],
+        [
+          "3",
+          "用供求图说明这种移动如何改变均衡价格和均衡数量。"
+        ]
+      ],
+      "replace": "c4-b97",
+      "panels": 1,
+      "kind": "table",
+      "chapterIndex": 4
+    },
+    {
+      "volume": "macro",
+      "chapter": 33,
+      "page": 257,
+      "id": "m33-table-33-1",
+      "ref": "表33-1",
+      "title": "总需求曲线：总结",
+      "method": "table",
+      "rows": [
+        [
+          "项目",
+          "内容"
+        ],
+        [
+          "为什么总需求曲线向右下方倾斜？",
+          "财富效应：物价水平下降增加了真实财富，从而鼓励了消费支出。"
+        ],
+        [
+          "为什么总需求曲线向右下方倾斜？",
+          "利率效应：物价水平下降降低了利率，从而鼓励了投资支出。"
+        ],
+        [
+          "为什么总需求曲线向右下方倾斜？",
+          "汇率效应：物价水平下降引起了真实汇率下降，从而鼓励了净出口支出。"
+        ],
+        [
+          "为什么总需求曲线会移动？",
+          "消费变动引起的移动：在物价水平既定时，使消费者支出增加的事件（减税、股市高涨）使总需求曲线向右移动。在物价水平既定时，使消费者支出减少的事件（增税、股市低迷）使总需求曲线向左移动。"
+        ],
+        [
+          "为什么总需求曲线会移动？",
+          "投资变动引起的移动：在物价水平既定时，使企业投资增加的事件（对未来的乐观看法、由货币供给增加引起的利率下降）使总需求曲线向右移动。在物价水平既定时，使企业投资减少的事件（对未来的悲观看法、由货币供给减少引起的利率上升）使总需求曲线向左移动。"
+        ],
+        [
+          "为什么总需求曲线会移动？",
+          "政府购买变动引起的移动：政府对物品与服务购买的增加（增加对国防或高速公路建设的支出）使总需求曲线向右移动。政府对物品与服务购买的减少（削减对国防或高速公路建设的支出）使总需求曲线向左移动。"
+        ],
+        [
+          "为什么总需求曲线会移动？",
+          "净出口变动引起的移动：在物价水平既定时，增加净出口支出的事件（国外经济繁荣、引起汇率下降的投机）使总需求曲线向右移动。在物价水平既定时，减少净出口支出的事件（国外经济衰退、引起汇率上升的投机）使总需求曲线向左移动。"
+        ]
+      ],
+      "replace": "m33-b72",
+      "panels": 1,
+      "kind": "table",
+      "chapterIndex": 11
+    },
+    {
+      "volume": "macro",
+      "chapter": 33,
+      "page": 266,
+      "id": "m33-table-33-2",
+      "ref": "表33-2",
+      "title": "短期总供给曲线：总结",
+      "method": "table",
+      "rows": [
+        [
+          "项目",
+          "内容"
+        ],
+        [
+          "为什么短期总供给曲线向右上方倾斜？",
+          "黏性工资理论：未预期到的低物价水平增加了真实工资，从而使企业减少雇用工人并减少生产的物品与服务量。"
+        ],
+        [
+          "为什么短期总供给曲线向右上方倾斜？",
+          "黏性价格理论：未预期到的低物价水平使一些企业的价格高于合意的水平，这就抑制了它们的销售，并引起它们削减生产。"
+        ],
+        [
+          "为什么短期总供给曲线向右上方倾斜？",
+          "错觉理论：未预期到的低物价水平使一些供给者认为自己的相对价格下降了，这引起生产减少。"
+        ],
+        [
+          "为什么短期总供给曲线会移动？",
+          "劳动变动引起的移动：可得到的劳动量增加（也许是由于自然失业率的下降）使总供给曲线向右移动；可得到的劳动量减少（也许是由于自然失业率的上升）使总供给曲线向左移动。"
+        ],
+        [
+          "为什么短期总供给曲线会移动？",
+          "资本变动引起的移动：物质资本或人力资本的增加使总供给曲线向右移动；物质资本或人力资本的减少使总供给曲线向左移动。"
+        ],
+        [
+          "为什么短期总供给曲线会移动？",
+          "自然资源变动引起的移动：自然资源可获得性的增加使总供给曲线向右移动；自然资源可获得性的减少使总供给曲线向左移动。"
+        ],
+        [
+          "为什么短期总供给曲线会移动？",
+          "技术变动引起的移动：技术知识进步使总供给曲线向右移动；可得到的技术减少（也许是由于政府管制）使总供给曲线向左移动。"
+        ],
+        [
+          "为什么短期总供给曲线会移动？",
+          "预期物价水平变动引起的移动：预期物价水平下降使短期总供给曲线向右移动；预期物价水平上升使短期总供给曲线向左移动。"
+        ]
+      ],
+      "panels": 1,
+      "after": "m33-b132",
+      "kind": "table",
+      "chapterIndex": 11
+    },
+    {
+      "volume": "macro",
+      "chapter": 33,
+      "page": 267,
+      "id": "m33-table-33-3",
+      "ref": "表33-3",
+      "title": "分析宏观经济波动的四个步骤",
+      "method": "table",
+      "rows": [
+        [
+          "项目",
+          "内容"
+        ],
+        [
+          "1",
+          "确定某个事件是使总需求曲线移动，还是使总供给曲线移动（或者两条曲线都移动）。"
+        ],
+        [
+          "2",
+          "确定曲线移动的方向。"
+        ],
+        [
+          "3",
+          "用总需求和总供给图说明这种移动如何影响短期的产量和物价水平。"
+        ],
+        [
+          "4",
+          "用总需求和总供给图分析经济如何从其新的短期均衡变动到其新的长期均衡。"
+        ]
+      ],
+      "replace": "m33-b152",
+      "panels": 1,
+      "kind": "table",
+      "chapterIndex": 11
+    }
+  ],
+  "hiddenBlocks": [
+    "c2-b101",
+    "c2-b102",
+    "c2-b103",
+    "c2-b104",
+    "c2-b105",
+    "c2-b106",
+    "c2-b107",
+    "c2-b108",
+    "c2-b109",
+    "c2-b110",
+    "c2-b111",
+    "c2-b112",
+    "c2-b113",
+    "c2-b114",
+    "c2-b115",
+    "c2-b116",
+    "c2-b117",
+    "c2-b118",
+    "c2-b119",
+    "c2-b120",
+    "c2-b230",
+    "c2-b231",
+    "c2-b232",
+    "c2-b233",
+    "c2-b234",
+    "c2-b235",
+    "c21-b71",
+    "c4-b100",
+    "c4-b98",
+    "c4-b99",
+    "m23-b96",
+    "m23-b97",
+    "m24-b15",
+    "m24-b16",
+    "m33-b134",
+    "m33-b135",
+    "m33-b136",
+    "m33-b137",
+    "m33-b138",
+    "m33-b139",
+    "m33-b140",
+    "m33-b141",
+    "m33-b142",
+    "m33-b153",
+    "m33-b154",
+    "m33-b155",
+    "m33-b73",
+    "m33-b74",
+    "m33-b75",
+    "m33-b76",
+    "m33-b77",
+    "m33-b78",
+    "m33-b79",
+    "m33-b80"
+  ],
+  "textRepairs": {
+    "c2-b259": "面对这一结果，我们应该做些什么？大兄弟公司建议政府在政策上迅速做出反应。它建议政府通过对打火机征收销售税来限制人们持有打火机的数量。它还建议政府在打火机上加上警示性标语：“大兄弟公司已经确认，打火机有害健康。”",
+    "c15-b23": "自然垄断的一个例子是供水。为了向镇上居民供水，企业必须铺设遍及全镇的水管网。如果两家或更多企业在提供这种服务中竞争，那么每个企业就都必须支付铺设水管网的固定成本。因此，如果只有一家企业为整个市场提供服务，水的平均总成本就最低。"
+  }
+}
