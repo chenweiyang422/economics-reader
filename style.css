@@ -150,3 +150,83 @@ button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible{ou
 
 /* Run-in textbook headings recovered from the OCR paragraphs. */
 .ebook .paragraph-subheading{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC",sans-serif;font-size:1em;font-weight:700;line-height:1.65;color:var(--text,#34465e);margin:1.7em 0 .6em;text-indent:0;break-after:avoid}
+
+/* Historical figure and current World Bank quintile-share snapshot. */
+.income-comparison{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,340px),1fr));gap:18px;align-items:start;margin:2em 0}
+.ebook .income-comparison figure{margin:0;min-width:0}
+.ebook .income-supplement{background:#fffaf2}
+.ebook .income-subtitle{font:12px/1.6 -apple-system,BlinkMacSystemFont,"PingFang SC",sans-serif;text-indent:0;text-align:left;margin:8px 0 12px}
+.income-axis{display:flex;justify-content:space-between;margin:0 40px 6px 78px;font-size:10px;line-height:1.5;color:#697685}
+.income-ratio-row{display:grid;grid-template-columns:70px minmax(0,1fr) 34px;gap:8px;align-items:center;min-height:32px;font:12px/1.3 -apple-system,BlinkMacSystemFont,"PingFang SC",sans-serif}
+.income-country small{display:block;font-size:10px;color:#78818a;margin-top:1px}
+.income-ratio-row strong{font-size:11px;font-variant-numeric:tabular-nums;text-align:right}
+.income-bar-track{height:18px;border-left:1px solid #c5c9cf;background:repeating-linear-gradient(to right,transparent 0,transparent calc(25% - 1px),#e4e5e7 calc(25% - 1px),#e4e5e7 25%)}
+.income-bar{display:block;height:100%;background:#287c80;border-radius:0 2px 2px 0}
+.income-details{margin-top:14px;font:12px/1.7 -apple-system,BlinkMacSystemFont,"PingFang SC",sans-serif}
+.income-details summary{cursor:pointer;color:#356c77;font-weight:600}
+.ebook .income-details p{text-indent:0;text-align:left;font-size:12px;margin:10px 0}
+.income-source-links{display:flex;gap:8px 14px;flex-wrap:wrap;margin:12px 0}
+.income-table-scroll{overflow-x:auto;max-width:100%}
+.income-table-scroll table{width:100%;border-collapse:collapse;white-space:nowrap;font-size:11px}
+.income-table-scroll th,.income-table-scroll td{text-align:right;padding:6px;border-bottom:1px solid #ddd}
+.income-table-scroll th:first-child{text-align:left}
+
+/* Source quotation in Chapter 20. */
+.ebook .textbook-quotation{margin:1.4em 0;padding:.4em 1.2em;border-inline-start:3px solid var(--accent,#976a40);background:rgba(128,128,128,.05)}
+.ebook .textbook-quotation p{margin:.5em 0}
+
+/* Editorial chapter covers; text remains selectable and responds to reader sizing. */
+.chapter-cover{position:relative;isolation:isolate;overflow:hidden;margin:0 0 38px;padding:28px 32px 30px;border:1px solid #c9b59a;border-top:5px solid var(--cover-ink);background:#f8edda;color:#293e3c;box-shadow:0 8px 24px #49321a09}
+.chapter-cover-top{display:flex;justify-content:space-between;gap:12px;font:11px/1.8 system-ui,sans-serif;letter-spacing:.06em;color:#655c4d;padding-bottom:20px;border-bottom:1px solid #d8c9b3}
+.chapter-cover-number{display:flex;flex-direction:column;align-items:flex-start;margin:32px 0 28px;color:var(--cover-ink)}
+.chapter-cover-number span{font:10px/1.6 system-ui,sans-serif;letter-spacing:.24em}
+.chapter-cover-number strong{font:normal 82px/.95 Georgia,serif;letter-spacing:-.06em;margin-top:8px}
+.chapter-cover-art{position:absolute;z-index:-1;right:-12px;top:65px;width:240px;opacity:.3;color:var(--cover-ink);transform:rotate(-8deg);pointer-events:none}
+.chapter-cover-art svg{display:block;width:100%;height:auto}.chapter-cover-art .cover-grid{opacity:.25}
+.chapter-cover-part{font:12px/1.8 system-ui,sans-serif;letter-spacing:.1em;color:var(--cover-accent);margin:0 0 12px}
+#content .chapter-cover h1{font-family:Georgia,"Songti SC","STSong",serif;font-size:clamp(28px,3vw,42px);font-weight:600;line-height:1.4;letter-spacing:.025em;margin:0 0 22px;color:var(--cover-ink);overflow-wrap:anywhere;text-wrap:balance}
+.chapter-cover-summary{font-size:calc(var(--read-size,20px) * .85);line-height:1.9;max-width:34em;margin:0;color:#5c594d}
+.chapter-cover-terms{list-style:none;display:flex;flex-wrap:wrap;gap:8px 16px;padding:0;margin:25px 0 32px;color:var(--cover-ink);font:12px/1.8 system-ui,sans-serif}
+.chapter-cover-terms li{border-bottom:1px solid #cfbda5;padding-bottom:3px}
+.chapter-cover-question{border-top:1px solid #d8c9b3;padding-top:20px}.chapter-cover-question>span{font:10px/1.8 system-ui,sans-serif;letter-spacing:.12em;color:var(--cover-accent)}
+.chapter-cover-question p{font-size:calc(var(--read-size,20px) * .8);line-height:1.85;margin:8px 0 0;color:#494b41}
+.chapter-opening-label{display:flex;align-items:center;gap:14px;margin:0 0 28px;font:12px/1.8 system-ui,sans-serif;letter-spacing:.14em;color:var(--peach-label,#75634d)}
+.chapter-opening-label:after{content:"";height:1px;flex:1;background:var(--line)}
+@media(max-width:700px){.chapter-cover{padding:22px 21px 24px;margin-bottom:28px}.chapter-cover-top{font-size:10px}.chapter-cover-number{margin:28px 0 24px}.chapter-cover-number strong{font-size:66px}.chapter-cover-art{width:188px;right:-25px;top:66px;opacity:.23}#content .chapter-cover h1{font-size:30px}.chapter-cover-terms{gap:8px 12px;margin:20px 0 24px}}
+@media print{.chapter-cover{break-inside:avoid;box-shadow:none;background:white}.chapter-cover-art{opacity:.15}}
+
+.income-choice-drawing svg{display:block;width:100%;height:auto}.ebook .income-choice-intro,.ebook .income-choice-explanation{font:14px/1.8 system-ui,sans-serif;text-indent:0;text-align:left;margin:16px 0}.income-choice-legend{display:flex;flex-wrap:wrap;gap:8px 18px;font:12px/1.7 system-ui,sans-serif;color:#675b4d}.income-choice-legend span:first-child{color:#3675ac}.income-choice-legend span:nth-child(2){color:#318372}.income-choice .model-control input{min-height:32px;min-width:90px}.income-choice .model-control output{min-width:90px}.income-choice .model-stats{flex-wrap:wrap}.income-choice .model-stats>span{min-width:90px}.income-choice .model-stats b{font-size:20px}
+
+.choice-change-drawing svg{display:block;width:100%;height:auto}.ebook .choice-change-intro,.ebook .choice-change-explanation{font:14px/1.8 system-ui,sans-serif;text-indent:0;text-align:left;margin:16px 0}.choice-change-legend{display:flex;flex-wrap:wrap;gap:8px 18px;font:12px/1.7 system-ui,sans-serif;color:#675b4d}.choice-change-legend span:first-child{color:#3675ac}.choice-change-legend span:nth-child(2){color:#318372}.choice-change .model-control input{min-height:32px;min-width:90px}.choice-change .model-control output{min-width:90px}.choice-change .model-stats>span{min-width:90px}.choice-change .model-stats b{font-size:20px}
+
+/* Linked consumer-choice and demand-curve experiment. */
+.demand-derivation{margin:2rem 0;padding:1.2rem;border:1px solid var(--line,#d6c4a6);border-radius:10px;background:rgba(255,255,255,.2)}
+.dd-plots{display:block;margin:16px 0}.dd-plots svg{width:100%;height:auto;display:block}.dd-legend{display:flex;flex-wrap:wrap;gap:8px 20px;font-size:12px}.dd-control{display:flex;align-items:center;gap:14px;margin:24px 0 12px;flex-wrap:wrap}.dd-control input{flex:1;min-width:120px;min-height:32px;accent-color:#3476aa}.dd-control output{min-width:110px;font-variant-numeric:tabular-nums}.dd-actions{display:flex;gap:16px;align-items:center}.dd-result{font-weight:600;color:#28755f}.demand-derivation figcaption{font-size:12px;line-height:1.8}.dd-actions button{min-height:44px}@media(max-width:700px){.demand-derivation{padding:12px}.dd-control>span{flex-basis:100%}}
+
+/* Compact reading progress control; keep a comfortable touch target. */
+.read-status-button{position:relative;width:44px;height:44px;flex:0 0 44px;padding:9px;display:grid;place-items:center;border-radius:50%;color:var(--muted)}
+.read-status-button:hover{color:var(--blue);background:var(--soft)}
+.read-status-button[data-read="true"]{color:var(--blue)}
+.read-status-button[data-read="true"] circle{fill:currentColor}
+.read-status-button[data-read="true"] path{stroke:white}
+
+/* A brief ring, check and spring confirmation, only after an explicit click. */
+.read-status-button svg{overflow:visible;transform-origin:center}
+.read-status-button .read-ring{transform:rotate(-90deg);transform-origin:14px 14px;stroke-dasharray:100;stroke-dashoffset:0}
+.read-status-button .read-check{stroke-dasharray:100;stroke-dashoffset:0}
+.read-status-button.read-confirming svg{animation:read-confirm-pop 900ms cubic-bezier(.22,.75,.3,1) both}
+.read-status-button.read-confirming .read-ring{animation:read-confirm-ring 800ms ease-out both}
+.read-status-button.read-confirming .read-check{animation:read-confirm-check 800ms cubic-bezier(.3,0,.2,1) both}
+.read-status-button.read-confirming::after{content:"";position:absolute;inset:9px;border:1.5px solid var(--blue);border-radius:50%;pointer-events:none;animation:read-confirm-halo 850ms ease-out both}
+@keyframes read-confirm-ring{0%{stroke-dashoffset:100;fill:transparent}48%{stroke-dashoffset:0;fill:transparent}72%,100%{stroke-dashoffset:0;fill:currentColor}}
+@keyframes read-confirm-check{0%,48%{stroke-dashoffset:100;opacity:0}52%{opacity:1;stroke-dashoffset:100}90%,100%{opacity:1;stroke-dashoffset:0}}
+@keyframes read-confirm-pop{0%{transform:scale(.86)}45%{transform:scale(1)}72%{transform:scale(1.15)}88%{transform:scale(.97)}100%{transform:scale(1)}}
+@keyframes read-confirm-halo{0%,52%{opacity:0;transform:scale(.9)}60%{opacity:.28}100%{opacity:0;transform:scale(1.65)}}
+@media(prefers-reduced-motion:reduce){.read-status-button.read-confirming svg,.read-status-button.read-confirming .read-ring,.read-status-button.read-confirming .read-check{animation:none}.read-status-button.read-confirming::after{display:none}}
+/* The third textbook retains source diagrams and page-level comparison. */
+.money-figure{margin:1.7em 0;padding:12px;background:#fff;border:1px solid var(--line,#e6dfd7);border-radius:10px}.money-image-button{display:block;width:100%;border:0;background:#fff;padding:0;cursor:zoom-in}.money-image-button img{display:block;width:100%;height:auto;object-fit:contain}.money-figure figcaption{font-size:13px;line-height:1.7;color:#75695f;margin-top:10px}.money-figure figcaption span{display:block}.money-source-link{vertical-align:super;font-size:10px;border:0;border-radius:4px;background:#eee6dd;color:#75695f;margin-left:5px;padding:1px 4px;cursor:pointer}.money-source-link:hover{background:#dfcab5}.money-source-page,.money-enlarged{display:block;width:100%;height:auto;background:#fff}.money-page-controls{display:flex;justify-content:space-between;gap:12px;align-items:center;margin-bottom:16px}.money-source-menu{display:grid;gap:18px}.money-source-menu .text-button{text-align:left}.money-paragraph{overflow-wrap:anywhere}.money-source-link:focus-visible,.money-image-button:focus-visible{outline:2px solid #a65636;outline-offset:3px}
+@media(max-width:700px){.topbar{flex-wrap:wrap;height:auto;min-height:90px;row-gap:0}.volume-tabs{order:3;width:100%;height:38px;justify-content:center;gap:22px}.volume-tabs a{font-size:13px}.top-actions{margin-left:auto}.workspace{height:calc(100dvh - 94px)}.money-figure{padding:6px}}
+
+@media(max-width:700px){.workspace,.hide-assistant .workspace,.hide-catalog .workspace{height:calc(100dvh - 90px)}.catalog,.assistant{top:90px}.topbar{height:90px;min-height:90px;flex-shrink:0}}
+
+@media(max-width:700px){.hide-catalog .workspace{height:100dvh}.hide-catalog .assistant{top:0}}

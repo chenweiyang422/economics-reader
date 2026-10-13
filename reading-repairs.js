@@ -1,10 +1,23 @@
-const PARAGRAPH_JOINS={"c1-b88": ["c1-b89"], "c4-b23": ["c4-b24"], "c6-b37": ["c6-b38"], "c6-b80": ["c6-b81"], "c12-b19": ["c12-b20"], "c12-b92": ["c12-b93"], "c13-b58": ["c13-b59", "c13-b60"], "c20-b17": ["c20-b18"], "c20-b42": ["c20-b43"], "c21-b44": ["c21-b45"], "c21-b181": ["c21-b182"], "c21-b184": ["c21-b185"], "m24-b82": ["m24-b83"], "m25-b10": ["m25-b11", "m25-b12"], "m28-b91": ["m28-b92"], "m31-b92": ["m31-b93"], "m31-b95": ["m31-b96", "m31-b97"], "m31-b120": ["m31-b121"], "m31-b144": ["m31-b145"], "m33-b186": ["m33-b187"], "c1-b51": ["c1-b52"], "c6-b67": ["c6-b68"], "c9-b17": ["c9-b18"], "c16-b51": ["c16-b52"], "c21-b80": ["c21-b81"], "m23-b99": ["m23-b100"], "m33-b128": ["m33-b129"], "m34-b89": ["m34-extra90"], "m34-b136": ["m34-b138"]};
+const PARAGRAPH_JOINS={"c1-b88": ["c1-b89"], "c4-b23": ["c4-b24"], "c6-b37": ["c6-b38"], "c6-b80": ["c6-b81"], "c12-b19": ["c12-b20"], "c12-b92": ["c12-b93"], "c13-b58": ["c13-b59", "c13-b60"], "c20-b17": ["c20-b18"], "c20-b42": ["c20-b43"], "c21-b181": ["c21-b182"], "c21-b184": ["c21-b185"], "m24-b82": ["m24-b83"], "m25-b10": ["m25-b11", "m25-b12"], "m28-b91": ["m28-b92"], "m31-b92": ["m31-b93"], "m31-b95": ["m31-b96", "m31-b97"], "m31-b120": ["m31-b121"], "m31-b144": ["m31-b145"], "m33-b186": ["m33-b187"], "c1-b51": ["c1-b52"], "c6-b67": ["c6-b68"], "c9-b17": ["c9-b18"], "c16-b51": ["c16-b52"], "c21-b80": ["c21-b81"], "m23-b99": ["m23-b100"], "m33-b128": ["m33-b129"], "m34-b89": ["m34-extra90"], "m34-b136": ["m34-b138"]};
 
 PARAGRAPH_JOINS['c3-b11']=['c3-b13'];
 PARAGRAPH_JOINS['c8-b52']=['c8-b54'];
 PARAGRAPH_JOINS['c15-b162']=['c15-b164'];
 PARAGRAPH_JOINS['c15-b54']=['c15-b55','c15-b56'];
 PARAGRAPH_JOINS['c17-b59']=['c17-b61'];
+PARAGRAPH_JOINS["c18-b210"]=["c18-b211"];
+PARAGRAPH_JOINS["c18-b212"]=["c18-b213"];
+PARAGRAPH_JOINS["c18-b230"]=["c18-b231"];
+PARAGRAPH_JOINS["c18-b234"]=["c18-b235"];
+PARAGRAPH_JOINS["c18-b236"]=["c18-b237"];
+PARAGRAPH_JOINS["c19-b150"]=["c19-b151"];
+PARAGRAPH_JOINS["c19-b152"]=["c19-b153"];
+PARAGRAPH_JOINS["c19-b164"]=["c19-b165"];
+// Chapter 20: source-verified paragraph and exercise continuations.
+Object.assign(PARAGRAPH_JOINS,{"c20-b93": ["c20-b94"], "c20-b99": ["c20-b100"], "c20-b184": ["c20-b185"], "c20-b188": ["c20-b193"], "c20-b191": ["c20-b192"], "c20-b199": ["c20-b200"], "c20-b211": ["c20-b212"], "c20-b213": ["c20-b214"], "c20-b215": ["c20-b216"], "c20-b217": ["c20-b218"]});
+// Chapter 21: source-verified continuations, including the interrupted preference paragraph.
+Object.assign(PARAGRAPH_JOINS,{"c21-b28": ["c21-b75"], "c21-b160": ["c21-b162"], "c21-b243": ["c21-b244"], "c21-b247": ["c21-b248"], "c21-b249": ["c21-b250"], "c21-b251": ["c21-b252"], "c21-b262": ["c21-b263"], "c21-b274": ["c21-b275"], "c21-b281": ["c21-b282"], "c21-b283": ["c21-b284"], "c21-b289": ["c21-b290"], "c21-b292": ["c21-b293"], "c21-b297": ["c21-b298"]});
+Object.assign(PARAGRAPH_JOINS,{"c22-b16": ["c22-b25"], "c22-b184": ["c22-b185"], "c22-b225": ["c22-b226"]});
 const READING_BLOCKS=new Map(BOOK.flatMap(c=>c.blocks).map(b=>[b.id,b]));
 const JOINED_TAILS=new Set(Object.values(PARAGRAPH_JOINS).flat());
 // Reviewed run-in headings. Keep book blocks and navigation IDs unchanged.
@@ -126,6 +139,10 @@ const PARAGRAPH_HEADINGS={
  }
 };
 function readingParagraph(b){
+ if(b.type==='byline')return `<p id="${b.id}" class="news-byline">${escapeHTML(b.text)}</p>`;
+ if(b.type==='news-intro'||b.id==='c20-news-intro')return `<div class="news-intro">${formulaParagraph(b)}</div>`;
+ if(b.type==='news-source'||b.id==='c20-b37'||b.id==='c20-b38')return `<footer class="news-source">${formulaParagraph(b)}</footer>`;
+ if(b.id==='c20-b99')return `<blockquote class="textbook-quotation" id="${b.id}"><span id="c20-b100" class="paragraph-anchor"></span>${formulaParagraph({...b,id:b.id+'-body',text:b.text+READING_BLOCKS.get('c20-b100').text})}</blockquote>`;
  if(b.type==='article-title')return `<h3 id="${b.id}" class="news-article-header">${escapeHTML(b.text)}</h3>`;
  if(b.type==='source-note')return `<p id="${b.id}" class="model-note">${escapeHTML(b.text)} <a href="chapter-17.pdf#page=${b.pdfPage}" target="_blank" rel="noopener">查看原书页 ↗</a></p>`;
  if(b.id==='c16-b33'&&typeof entryExitFigure==='function')return formulaParagraph(b)+entryExitFigure();

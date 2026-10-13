@@ -16,6 +16,9 @@ for(const chapter of BOOK){
 for(const r of Object.values(SOURCE_CHARTS))if(r.ref)FIGURE_REFERENCES[r.ref]={volume:VOLUME,id:r.id,chapter:r.chapterIndex};
 const supplementaryFigure=redrawnFigure;
 function textbookFigure(r,id){
+ if(r.id==='c21-b150')return giffenFigure(r,id);
+ if(r.id==='c21-b118'||r.id==='c21-b124')return choiceChangeFigure(r,id);
+ if(r.id==='c21-b114')return incomeChoiceFigure(r,id);
  if(r.id==='c15-b124')return priceDiscriminationFigure(r,id);
  if(r.id==='c15-b78')return drugMarketFigure(r,id);
  const heading=[r.ref,r.title].filter(Boolean).join(' · ');
@@ -28,7 +31,7 @@ function textbookFigure(r,id){
 redrawnFigure=function(b,n){
  const r=SOURCE_CHARTS[b.sourceFigureId||b.id];
  if(r&&b.sourcePanel!==undefined)return readingPanelFigure(r,b);
- if(r)return textbookFigure(r,b.id);
+ if(r){const figure=textbookFigure(r,b.id);return b.id==='c20-b23'&&typeof incomeComparison==='function'?incomeComparison(figure):figure;}
  // Generated supplemental models have no original textbook block identity.
  if(BOOK.some(c=>c.blocks.some(original=>original.id===b.id&&original.type==='figure')))throw new Error('Unregistered textbook figure: '+b.id);
  return supplementaryFigure(b,n);

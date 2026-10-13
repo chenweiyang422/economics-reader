@@ -5087,7 +5087,7 @@
       "asset": "textbook-figures/micro-c21-b150.svg",
       "width": 920,
       "height": 560,
-      "assetSHA256": "8f3cf8b11c2a7007ed99e02f4974b58be646d5d5b131eea12695ea8264eac83e",
+      "assetSHA256": "bb931bcd4827fa182d5ebd2e82175504cc51b02a8a5707053250677ed757d757",
       "redrawMethod": "semantic",
       "caption": ""
     },
@@ -5097,7 +5097,7 @@
       "chapter": 21,
       "id": "c21-b161",
       "ref": "图21-13",
-      "title": "工作一闲暇决策",
+      "title": "工作—闲暇决策",
       "bbox": [
         82,
         944,
@@ -5149,7 +5149,7 @@
       "chapter": 21,
       "id": "c21-b186",
       "ref": "图21-15",
-      "title": "消费一储蓄决策",
+      "title": "消费—储蓄决策",
       "bbox": [
         82,
         139,

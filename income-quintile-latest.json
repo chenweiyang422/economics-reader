@@ -1,0 +1,170 @@
+{
+  "retrieved": "2026-10-11",
+  "updated": "2026-10-08",
+  "source": "World Bank, World Development Indicators / Poverty and Inequality Platform",
+  "highIndicator": "SI.DST.05TH.20",
+  "lowIndicator": "SI.DST.FRST.20",
+  "method": "Latest non-null observation for each indicator; require matching country and year; ratio = high share / low share. Shares may describe income or consumption. Values are rounded at source.",
+  "rows": [
+    {
+      "code": "SWE",
+      "name": "瑞典",
+      "year": 2023,
+      "high": 37.2,
+      "low": 7.9,
+      "ratio": 4.708860759493671
+    },
+    {
+      "code": "PAK",
+      "name": "巴基斯坦",
+      "year": 2024,
+      "high": 42.2,
+      "low": 8.2,
+      "ratio": 5.146341463414635
+    },
+    {
+      "code": "BGD",
+      "name": "孟加拉国",
+      "year": 2022,
+      "high": 40.1,
+      "low": 8.8,
+      "ratio": 4.556818181818182
+    },
+    {
+      "code": "DEU",
+      "name": "德国",
+      "year": 2022,
+      "high": 40.9,
+      "low": 6.9,
+      "ratio": 5.927536231884058
+    },
+    {
+      "code": "IND",
+      "name": "印度",
+      "year": 2023,
+      "high": 34.2,
+      "low": 11.1,
+      "ratio": 3.0810810810810816
+    },
+    {
+      "code": "FRA",
+      "name": "法国",
+      "year": 2023,
+      "high": 39.7,
+      "low": 7.7,
+      "ratio": 5.155844155844156
+    },
+    {
+      "code": "ETH",
+      "name": "埃塞俄比亚",
+      "year": 2021,
+      "high": 39.7,
+      "low": 8.3,
+      "ratio": 4.783132530120482
+    },
+    {
+      "code": "JPN",
+      "name": "日本",
+      "year": 2020,
+      "high": 39.4,
+      "low": 6.8,
+      "ratio": 5.794117647058823
+    },
+    {
+      "code": "IDN",
+      "name": "印度尼西亚",
+      "year": 2025,
+      "high": 43.2,
+      "low": 8.3,
+      "ratio": 5.204819277108434
+    },
+    {
+      "code": "CAN",
+      "name": "加拿大",
+      "year": 2022,
+      "high": 39.5,
+      "low": 7.7,
+      "ratio": 5.12987012987013
+    },
+    {
+      "code": "ITA",
+      "name": "意大利",
+      "year": 2023,
+      "high": 41.1,
+      "low": 6.6,
+      "ratio": 6.2272727272727275
+    },
+    {
+      "code": "RUS",
+      "name": "俄罗斯",
+      "year": 2023,
+      "high": 41,
+      "low": 7.7,
+      "ratio": 5.324675324675325
+    },
+    {
+      "code": "GBR",
+      "name": "英国",
+      "year": 2021,
+      "high": 40,
+      "low": 7.6,
+      "ratio": 5.2631578947368425
+    },
+    {
+      "code": "PHL",
+      "name": "菲律宾",
+      "year": 2023,
+      "high": 46.9,
+      "low": 6.9,
+      "ratio": 6.797101449275361
+    },
+    {
+      "code": "NGA",
+      "name": "尼日利亚",
+      "year": 2022,
+      "high": 41.6,
+      "low": 7.5,
+      "ratio": 5.546666666666667
+    },
+    {
+      "code": "USA",
+      "name": "美国",
+      "year": 2024,
+      "high": 47.1,
+      "low": 5.1,
+      "ratio": 9.23529411764706
+    },
+    {
+      "code": "CHN",
+      "name": "中国",
+      "year": 2022,
+      "high": 43.7,
+      "low": 7.3,
+      "ratio": 5.986301369863014
+    },
+    {
+      "code": "MEX",
+      "name": "墨西哥",
+      "year": 2024,
+      "high": 48.9,
+      "low": 5.6,
+      "ratio": 8.732142857142858
+    },
+    {
+      "code": "BRA",
+      "name": "巴西",
+      "year": 2024,
+      "high": 55.4,
+      "low": 3.9,
+      "ratio": 14.205128205128204
+    },
+    {
+      "code": "ZAF",
+      "name": "南非",
+      "year": 2022,
+      "high": 59.5,
+      "low": 3.7,
+      "ratio": 16.08108108108108
+    }
+  ]
+}
